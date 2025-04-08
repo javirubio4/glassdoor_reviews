@@ -1,1 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
 glassdoor_reviews.csv filter=lfs diff=lfs merge=lfs -text
