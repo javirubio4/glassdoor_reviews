@@ -1,0 +1,1774 @@
+firm,aspect,avg_star_rating
+ALDI,flexibility,3.3333333333333335
+ALDI,growth,4.0
+ALDI,job role clarity,2.5
+ALDI,management,4.5
+ALDI,pay,3.8333333333333335
+ALDI,people,3.25
+ALDI,performance feedback,4.0
+ALDI,stress & pressure,1.5
+ALDI,teamwork & collaboration,4.333333333333333
+ALDI,tools & resources,4.0
+ALDI,training & onboarding,2.4
+ALDI,work-life balance,1.875
+ASDA,benefits,4.0
+ASDA,flexibility,2.6
+ASDA,growth,4.5
+ASDA,job role clarity,4.5
+ASDA,management,1.625
+ASDA,pay,2.7777777777777777
+ASDA,people,2.8
+ASDA,stress & pressure,1.0
+ASDA,training & onboarding,3.5
+ASDA,work-life balance,3.8
+ASOS,benefits,3.0
+ASOS,culture,3.5
+ASOS,diversity & inclusion,4.0
+ASOS,flexibility,4.0
+ASOS,growth,1.0
+ASOS,management,1.3333333333333333
+ASOS,pay,1.6666666666666667
+ASOS,people,2.5
+ASOS,teamwork & collaboration,2.5
+ASOS,tools & resources,5.0
+ASOS,work-life balance,2.5
+Abcam,culture,5.0
+Abcam,people,5.0
+Accenture,benefits,4.4
+Accenture,culture,3.4
+Accenture,diversity & inclusion,4.5
+Accenture,flexibility,5.0
+Accenture,growth,3.1
+Accenture,job role clarity,3.0
+Accenture,management,1.3333333333333333
+Accenture,pay,3.5
+Accenture,people,3.75
+Accenture,performance feedback,2.0
+Accenture,stress & pressure,1.6666666666666667
+Accenture,teamwork & collaboration,3.0
+Accenture,tools & resources,5.0
+Accenture,training & onboarding,3.0
+Accenture,travel,2.0
+Accenture,work-life balance,2.1666666666666665
+Active-Care-Group,flexibility,4.0
+Active-Care-Group,job role clarity,5.0
+Active-Care-Group,management,1.0
+Active-Care-Group,pay,3.0
+Active-Care-Group,people,5.0
+Active-Care-Group,stress & pressure,1.0
+Active-Care-Group,work-life balance,3.0
+Adecco,flexibility,4.0
+Adecco,pay,4.0
+Adecco,work-life balance,4.0
+American-Express,benefits,4.5
+American-Express,culture,5.0
+American-Express,growth,4.0
+American-Express,management,2.5
+Amey,diversity & inclusion,2.0
+Amey,flexibility,4.0
+Amey,job role clarity,4.0
+Amey,management,1.0
+Amey,pay,4.0
+Amey,people,2.5
+Amey,performance feedback,4.0
+Amey,work-life balance,4.0
+Anglian-Water,benefits,5.0
+Anglian-Water,culture,5.0
+Anglian-Water,flexibility,4.5
+Anglian-Water,growth,5.0
+Anglian-Water,job role clarity,1.0
+Anglian-Water,management,5.0
+Anglian-Water,pay,1.0
+Anglian-Water,people,4.666666666666667
+Anglian-Water,teamwork & collaboration,5.0
+Anglian-Water,tools & resources,5.0
+Anglian-Water,work-life balance,4.5
+Anglo-American,benefits,1.0
+Anglo-American,culture,1.0
+Anglo-American,management,1.0
+Anglo-American,pay,2.5
+Anglo-American,people,4.0
+Aon,benefits,5.0
+Aon,flexibility,4.0
+Aon,growth,2.5
+Aon,job role clarity,2.5
+Aon,pay,1.0
+Aon,people,1.0
+Aon,teamwork & collaboration,4.0
+Aon,tools & resources,1.0
+Aon,travel,4.0
+Aon,work-life balance,4.0
+Apple,benefits,4.5
+Apple,culture,4.5
+Apple,growth,2.3333333333333335
+Apple,management,1.0
+Apple,pay,2.5
+Apple,people,5.0
+Apple,stress & pressure,2.0
+Apple,tools & resources,5.0
+Apple,work-life balance,2.6666666666666665
+Arcadia,people,1.0
+AstraZeneca,benefits,4.333333333333333
+AstraZeneca,culture,1.0
+AstraZeneca,flexibility,5.0
+AstraZeneca,growth,3.0
+AstraZeneca,management,1.0
+AstraZeneca,pay,2.5
+AstraZeneca,people,4.5
+AstraZeneca,performance feedback,1.0
+AstraZeneca,teamwork & collaboration,1.0
+AstraZeneca,tools & resources,2.5
+Aviva,benefits,3.0
+Aviva,culture,3.0
+Aviva,flexibility,2.5
+Aviva,people,1.0
+Aviva,tools & resources,1.0
+Aviva,work-life balance,2.0
+B-and-M-Retail,culture,1.0
+B-and-M-Retail,flexibility,1.0
+B-and-M-Retail,management,3.3333333333333335
+B-and-M-Retail,pay,1.0
+B-and-M-Retail,stress & pressure,1.0
+B-and-M-Retail,teamwork & collaboration,5.0
+B-and-M-Retail,work-life balance,2.3333333333333335
+B-and-Q,benefits,1.0
+B-and-Q,culture,4.0
+B-and-Q,flexibility,4.0
+B-and-Q,job role clarity,1.0
+B-and-Q,management,1.75
+B-and-Q,pay,3.0
+B-and-Q,training & onboarding,1.0
+B-and-Q,work-life balance,1.5
+BAT,benefits,4.5
+BAT,culture,2.0
+BAT,flexibility,5.0
+BAT,growth,3.0
+BAT,management,2.5
+BAT,pay,4.0
+BAT,people,4.5
+BAT,remote work,1.0
+BAT,teamwork & collaboration,3.0
+BAT,tools & resources,4.0
+BAT,travel,4.0
+BAT,work-life balance,1.0
+BBC,benefits,5.0
+BBC,culture,3.0
+BBC,diversity & inclusion,5.0
+BBC,flexibility,4.0
+BBC,growth,2.25
+BBC,management,1.6666666666666667
+BBC,pay,1.3333333333333333
+BBC,people,3.8
+BBC,teamwork & collaboration,5.0
+BBC,tools & resources,1.0
+BBC,training & onboarding,5.0
+BBC,work-life balance,3.6666666666666665
+BDO,culture,4.0
+BDO,flexibility,4.0
+BDO,growth,1.0
+BDO,management,1.0
+BDO,pay,4.0
+BDO,people,4.0
+BDO,performance feedback,2.0
+BDO,teamwork & collaboration,2.5
+BDO,tools & resources,4.0
+BNY-Mellon,benefits,4.0
+BNY-Mellon,culture,1.0
+BNY-Mellon,job role clarity,1.0
+BNY-Mellon,management,1.5
+BNY-Mellon,pay,1.0
+BNY-Mellon,stress & pressure,1.0
+BNY-Mellon,training & onboarding,2.5
+BNY-Mellon,work-life balance,1.0
+BP,benefits,4.0
+BP,culture,3.5
+BP,growth,3.5
+BP,management,3.3333333333333335
+BP,people,3.0
+BP,performance feedback,4.0
+BP,teamwork & collaboration,3.0
+BP,tools & resources,4.5
+BP,training & onboarding,4.0
+BT,benefits,4.0
+BT,culture,2.5
+BT,flexibility,2.5
+BT,growth,2.0
+BT,management,1.0
+BT,pay,3.0
+BT,people,3.75
+BT,performance feedback,1.0
+BT,remote work,4.0
+BT,teamwork & collaboration,2.6666666666666665
+BT,tools & resources,2.3333333333333335
+BT,training & onboarding,2.3333333333333335
+BT,work-life balance,3.111111111111111
+Babcock-International-Group,benefits,5.0
+Babcock-International-Group,culture,1.0
+Babcock-International-Group,flexibility,4.0
+Babcock-International-Group,growth,1.75
+Babcock-International-Group,job role clarity,4.0
+Babcock-International-Group,management,1.75
+Babcock-International-Group,pay,2.6666666666666665
+Babcock-International-Group,people,3.0
+Babcock-International-Group,tools & resources,1.0
+Babcock-International-Group,training & onboarding,2.5
+Babcock-International-Group,work-life balance,4.0
+Babylon-Health,culture,1.0
+Babylon-Health,growth,1.5
+Babylon-Health,management,3.0
+Babylon-Health,people,5.0
+Babylon-Health,teamwork & collaboration,1.0
+Bain-and-Company,travel,4.0
+Bain-and-Company,work-life balance,4.0
+Balfour-Beatty,benefits,4.5
+Balfour-Beatty,growth,3.5
+Balfour-Beatty,people,4.0
+Balfour-Beatty,teamwork & collaboration,5.0
+Balfour-Beatty,tools & resources,5.0
+Bannatyne-Group,management,1.0
+Bannatyne-Group,pay,1.0
+Bannatyne-Group,training & onboarding,1.0
+Bannatyne-Group,travel,4.0
+Barchester-Healthcare,job role clarity,5.0
+Barchester-Healthcare,teamwork & collaboration,5.0
+Barclays,benefits,4.666666666666667
+Barclays,culture,3.5
+Barclays,flexibility,5.0
+Barclays,growth,1.6666666666666667
+Barclays,job role clarity,4.0
+Barclays,management,1.5
+Barclays,pay,3.1666666666666665
+Barclays,people,3.75
+Barclays,stress & pressure,3.0
+Barclays,teamwork & collaboration,2.5
+Barclays,tools & resources,1.6666666666666667
+Barclays,training & onboarding,2.5
+Barclays,travel,2.5
+Barclays,work-life balance,4.0
+Barnardo-s,culture,4.0
+Barnardo-s,teamwork & collaboration,5.0
+Barratt-Developments,pay,2.0
+Barratt-Developments,teamwork & collaboration,2.0
+Barts-Health-NHS-Trust,culture,4.0
+Barts-Health-NHS-Trust,management,1.0
+Barts-Health-NHS-Trust,teamwork & collaboration,4.0
+Bayer,culture,5.0
+Bayer,growth,5.0
+Bayer,teamwork & collaboration,5.0
+Bayer,tools & resources,5.0
+Bayer,training & onboarding,2.0
+Birmingham-City-University,culture,5.0
+Birmingham-City-University,flexibility,5.0
+Birmingham-City-University,growth,4.5
+Birmingham-City-University,management,1.0
+Birmingham-City-University,pay,1.0
+Birmingham-City-University,people,4.5
+Birmingham-City-University,work-life balance,5.0
+Bloomberg-L-P,benefits,2.0
+Bloomberg-L-P,culture,3.25
+Bloomberg-L-P,diversity & inclusion,4.0
+Bloomberg-L-P,flexibility,2.0
+Bloomberg-L-P,growth,1.0
+Bloomberg-L-P,management,1.5
+Bloomberg-L-P,pay,4.0
+Bloomberg-L-P,people,3.3333333333333335
+Bloomberg-L-P,remote work,2.0
+Bloomberg-L-P,stress & pressure,2.0
+Bloomberg-L-P,travel,2.0
+Bloomberg-L-P,work-life balance,3.0
+Blue-Yonder,pay,4.0
+Blue-Yonder,people,4.0
+Booking-com,benefits,4.5
+Booking-com,culture,4.0
+Booking-com,growth,3.0
+Booking-com,management,5.0
+Booking-com,pay,4.0
+Booking-com,people,5.0
+Booking-com,teamwork & collaboration,5.0
+Booking-com,work-life balance,4.0
+Boots,benefits,4.0
+Boots,culture,4.0
+Boots,flexibility,1.3333333333333333
+Boots,growth,2.5
+Boots,job role clarity,1.0
+Boots,management,1.5714285714285714
+Boots,pay,2.2
+Boots,people,4.166666666666667
+Boots,stress & pressure,1.0
+Boots,teamwork & collaboration,2.5
+Boots,tools & resources,2.5
+Boots,training & onboarding,3.25
+Boots,work-life balance,1.875
+Boots-Opticians,benefits,1.0
+Boots-Opticians,culture,1.0
+Boots-Opticians,management,1.0
+Boots-Opticians,pay,1.0
+Boots-Opticians,people,2.5
+Boots-Opticians,teamwork & collaboration,1.0
+Boots-Opticians,training & onboarding,1.0
+Brewin-Dolphin,benefits,4.0
+Brewin-Dolphin,flexibility,4.0
+Brewin-Dolphin,management,2.0
+Brewin-Dolphin,pay,2.0
+British-Airways,benefits,4.0
+British-Airways,culture,2.3333333333333335
+British-Airways,growth,1.0
+British-Airways,job security,1.0
+British-Airways,management,1.0
+British-Airways,pay,1.0
+British-Airways,people,3.4
+British-Airways,stress & pressure,1.0
+British-Airways,teamwork & collaboration,5.0
+British-Airways,tools & resources,1.0
+British-Airways,training & onboarding,3.0
+British-Airways,travel,3.75
+British-Airways,work-life balance,1.8
+British-Red-Cross,flexibility,5.0
+British-Red-Cross,growth,1.0
+British-Red-Cross,management,5.0
+British-Red-Cross,pay,3.0
+British-Red-Cross,people,1.0
+British-Red-Cross,teamwork & collaboration,5.0
+British-Red-Cross,tools & resources,5.0
+British-Red-Cross,travel,1.0
+British-Red-Cross,work-life balance,5.0
+Bullhorn,benefits,5.0
+Bullhorn,culture,4.0
+Bullhorn,flexibility,5.0
+Bullhorn,growth,3.6666666666666665
+Bullhorn,job role clarity,5.0
+Bullhorn,management,5.0
+Bullhorn,people,5.0
+Bullhorn,teamwork & collaboration,5.0
+Bullhorn,work-life balance,5.0
+Bupa,culture,3.3333333333333335
+Bupa,diversity & inclusion,3.5
+Bupa,growth,5.0
+Bupa,job role clarity,4.0
+Bupa,management,2.3333333333333335
+Bupa,pay,1.0
+Bupa,people,4.5
+Bupa,teamwork & collaboration,3.6666666666666665
+Bupa,tools & resources,5.0
+Bupa,work-life balance,3.0
+Burberry,benefits,4.0
+Burberry,culture,4.5
+Burberry,growth,1.0
+Burberry,management,1.0
+Burberry,pay,1.0
+Burberry,people,2.5
+Burberry,teamwork & collaboration,5.0
+Burberry,work-life balance,1.0
+CBRE,culture,5.0
+CBRE,management,3.0
+CBRE,pay,1.0
+CBRE,people,1.0
+CBRE,teamwork & collaboration,5.0
+CBRE,tools & resources,1.0
+CBRE,work-life balance,4.0
+CVS-Group,culture,4.0
+CVS-Group,pay,4.0
+CVS-Group,people,4.0
+CVS-Group,performance feedback,2.0
+CVS-Group,stress & pressure,2.0
+CVS-Group,tools & resources,2.0
+Capita,benefits,4.0
+Capita,culture,2.6666666666666665
+Capita,flexibility,1.0
+Capita,growth,3.8
+Capita,job role clarity,4.0
+Capita,management,1.5714285714285714
+Capita,pay,2.75
+Capita,people,4.0
+Capita,teamwork & collaboration,2.3333333333333335
+Capita,tools & resources,3.0
+Capita,training & onboarding,2.0
+Capita,work-life balance,3.0
+Capital-Group,benefits,5.0
+Capital-Group,diversity & inclusion,5.0
+Capital-Group,pay,5.0
+Capital-Group,stress & pressure,5.0
+Capital-Group,teamwork & collaboration,5.0
+Capital-Group,work-life balance,5.0
+CarShop-UK,people,4.0
+CarShop-UK,teamwork & collaboration,2.5
+CarShop-UK,work-life balance,4.0
+Christie-s,growth,3.0
+Christie-s,management,1.0
+Christie-s,people,5.0
+Christie-s,performance feedback,1.0
+Christie-s,remote work,2.0
+Christie-s,teamwork & collaboration,3.0
+Christie-s,tools & resources,2.0
+Christie-s,training & onboarding,5.0
+Cisco-Systems,culture,4.0
+Cisco-Systems,flexibility,4.0
+Cisco-Systems,growth,3.0
+Cisco-Systems,job role clarity,4.0
+Cisco-Systems,management,4.0
+Cisco-Systems,people,4.5
+Cisco-Systems,stress & pressure,2.0
+Cisco-Systems,teamwork & collaboration,4.5
+Cisco-Systems,tools & resources,3.0
+Cisco-Systems,travel,4.0
+Citi,benefits,4.0
+Citi,culture,3.3333333333333335
+Citi,flexibility,4.0
+Citi,growth,2.0
+Citi,management,3.5
+Citi,pay,1.0
+Citi,people,4.5
+Citi,stress & pressure,1.0
+Citi,teamwork & collaboration,5.0
+Citi,tools & resources,5.0
+Citi,travel,1.0
+Citi,work-life balance,1.0
+Citizens-Advice,flexibility,4.0
+Citizens-Advice,growth,4.0
+Citizens-Advice,pay,4.0
+Citizens-Advice,teamwork & collaboration,4.0
+Citizens-Advice,work-life balance,4.0
+Civil-Service-United-Kingdom,benefits,4.0
+Civil-Service-United-Kingdom,diversity & inclusion,4.0
+Civil-Service-United-Kingdom,job role clarity,1.0
+Civil-Service-United-Kingdom,pay,1.0
+Civil-Service-United-Kingdom,training & onboarding,4.0
+Civil-Service-United-Kingdom,work-life balance,4.0
+Co-op,benefits,4.0
+Co-op,culture,1.0
+Co-op,diversity & inclusion,4.0
+Co-op,flexibility,4.0
+Co-op,job security,4.0
+Co-op,management,1.0
+Co-op,pay,3.0
+Co-op,people,2.0
+Co-op,training & onboarding,3.0
+Co-op,work-life balance,2.5
+Compass-Group,benefits,4.0
+Compass-Group,culture,4.0
+Compass-Group,growth,1.0
+Compass-Group,management,2.0
+Compass-Group,pay,2.0
+Compass-Group,people,4.0
+Compass-Group,stress & pressure,1.0
+Compass-Group,teamwork & collaboration,2.5
+Compass-Group,work-life balance,3.0
+Covea-Insurance,growth,5.0
+Covea-Insurance,people,5.0
+Covea-Insurance,remote work,1.0
+Covea-Insurance,teamwork & collaboration,3.0
+Coventry-University,people,4.0
+Creative-Support,management,2.0
+Creative-Support,pay,1.5
+Creative-Support,people,1.0
+Creative-Support,teamwork & collaboration,2.0
+Creative-Support,tools & resources,1.0
+Creative-Support,training & onboarding,2.5
+Creative-Support,work-life balance,1.0
+Crown-Prosecution-Service,growth,3.0
+Crown-Prosecution-Service,management,1.0
+Cygnet-Health-Care,culture,2.5
+Cygnet-Health-Care,flexibility,4.5
+Cygnet-Health-Care,growth,1.0
+Cygnet-Health-Care,pay,1.0
+Cygnet-Health-Care,stress & pressure,1.0
+Cygnet-Health-Care,teamwork & collaboration,4.5
+Cygnet-Health-Care,work-life balance,4.0
+DFID,growth,1.0
+DFS-Furniture,pay,5.0
+DFS-Furniture,tools & resources,5.0
+DFS-Furniture,training & onboarding,5.0
+DFS-Furniture,work-life balance,5.0
+DHL-Supply-Chain,benefits,4.0
+DHL-Supply-Chain,culture,4.0
+DHL-Supply-Chain,flexibility,1.0
+DHL-Supply-Chain,management,2.5
+DHL-Supply-Chain,pay,4.0
+DHL-Supply-Chain,people,4.0
+DHL-Supply-Chain,stress & pressure,1.0
+DHL-Supply-Chain,work-life balance,1.0
+DPDgroup,diversity & inclusion,4.0
+DPDgroup,management,2.0
+DPDgroup,pay,4.0
+DPDgroup,performance feedback,2.0
+DPDgroup,stress & pressure,1.0
+DPDgroup,work-life balance,1.0
+DWF,benefits,5.0
+DWF,flexibility,5.0
+DWF,management,1.0
+DWF,pay,1.0
+DWF,stress & pressure,1.0
+DWF,training & onboarding,1.0
+DWF,work-life balance,5.0
+David-Lloyd-Leisure,flexibility,1.0
+David-Lloyd-Leisure,growth,1.0
+David-Lloyd-Leisure,management,1.0
+David-Lloyd-Leisure,pay,1.0
+David-Lloyd-Leisure,people,4.0
+David-Lloyd-Leisure,tools & resources,1.0
+David-Lloyd-Leisure,work-life balance,1.0
+Debenhams,benefits,5.0
+Debenhams,culture,4.0
+Debenhams,flexibility,4.5
+Debenhams,growth,4.0
+Debenhams,job role clarity,2.5
+Debenhams,management,1.0
+Debenhams,pay,3.25
+Debenhams,people,3.6
+Debenhams,teamwork & collaboration,2.5
+Debenhams,training & onboarding,4.0
+Debenhams,work-life balance,3.4
+Deloitte,benefits,3.5
+Deloitte,culture,3.8333333333333335
+Deloitte,flexibility,4.166666666666667
+Deloitte,growth,3.0
+Deloitte,management,1.0
+Deloitte,pay,1.6
+Deloitte,people,4.4
+Deloitte,performance feedback,2.0
+Deloitte,remote work,4.0
+Deloitte,stress & pressure,1.6666666666666667
+Deloitte,teamwork & collaboration,3.1666666666666665
+Deloitte,tools & resources,3.6666666666666665
+Deloitte,training & onboarding,4.0
+Deloitte,travel,4.0
+Deloitte,work-life balance,2.7857142857142856
+Department-for-Work-And-Pensions,benefits,4.0
+Department-for-Work-And-Pensions,growth,2.6666666666666665
+Department-for-Work-And-Pensions,job role clarity,2.0
+Department-for-Work-And-Pensions,management,4.0
+Department-for-Work-And-Pensions,pay,1.0
+Department-for-Work-And-Pensions,people,4.0
+Department-for-Work-And-Pensions,training & onboarding,4.0
+Department-for-Work-And-Pensions,work-life balance,4.0
+Deutsche-Bank,benefits,3.0
+Deutsche-Bank,culture,2.3333333333333335
+Deutsche-Bank,growth,3.0
+Deutsche-Bank,job role clarity,1.0
+Deutsche-Bank,management,2.5
+Deutsche-Bank,pay,2.5
+Deutsche-Bank,people,1.0
+Deutsche-Bank,teamwork & collaboration,5.0
+Deutsche-Bank,tools & resources,3.0
+Deutsche-Bank,training & onboarding,4.5
+Deutsche-Bank,work-life balance,1.0
+Dixons-Carphone,benefits,3.0
+Dixons-Carphone,flexibility,3.0
+Dixons-Carphone,job role clarity,1.0
+Dixons-Carphone,management,1.0
+Dixons-Carphone,pay,1.75
+Dixons-Carphone,people,3.6
+Dixons-Carphone,stress & pressure,1.0
+Dixons-Carphone,teamwork & collaboration,4.333333333333333
+Dixons-Carphone,tools & resources,1.0
+Dixons-Carphone,training & onboarding,4.0
+Dixons-Carphone,work-life balance,2.0
+Doubletree-By-Hilton,benefits,3.0
+Doubletree-By-Hilton,pay,1.0
+Doubletree-By-Hilton,people,5.0
+EY,culture,3.6
+EY,flexibility,4.5
+EY,growth,3.5
+EY,job role clarity,3.5
+EY,pay,2.0
+EY,people,3.4444444444444446
+EY,stress & pressure,1.2
+EY,teamwork & collaboration,3.5
+EY,training & onboarding,5.0
+EY,travel,2.6666666666666665
+EY,work-life balance,1.7272727272727273
+Engineering-and-Physical-Sciences-Research-Council,benefits,5.0
+Engineering-and-Physical-Sciences-Research-Council,flexibility,5.0
+Engineering-and-Physical-Sciences-Research-Council,job role clarity,1.0
+Engineering-and-Physical-Sciences-Research-Council,pay,1.0
+Engineering-and-Physical-Sciences-Research-Council,stress & pressure,1.0
+Engineering-and-Physical-Sciences-Research-Council,travel,3.0
+Equiniti,management,4.0
+Equiniti,people,5.0
+Equiniti,teamwork & collaboration,5.0
+Eversheds-Sutherland,benefits,4.0
+Eversheds-Sutherland,culture,4.0
+Eversheds-Sutherland,growth,2.0
+Eversheds-Sutherland,job role clarity,2.0
+Eversheds-Sutherland,pay,3.6666666666666665
+Eversheds-Sutherland,people,4.0
+Eversheds-Sutherland,performance feedback,2.0
+Eversheds-Sutherland,stress & pressure,1.0
+Eversheds-Sutherland,teamwork & collaboration,4.5
+Eversheds-Sutherland,tools & resources,3.0
+Eversheds-Sutherland,training & onboarding,2.0
+Eversheds-Sutherland,work-life balance,1.0
+Everyone-Active,growth,5.0
+Everyone-Active,teamwork & collaboration,1.0
+Everyone-Active,training & onboarding,5.0
+Facebook,benefits,5.0
+Facebook,culture,1.5
+Facebook,growth,1.0
+Facebook,job role clarity,1.0
+Facebook,management,1.0
+Facebook,pay,5.0
+Facebook,people,3.6666666666666665
+Facebook,performance feedback,2.0
+Facebook,teamwork & collaboration,3.0
+Facebook,travel,4.0
+Facebook,work-life balance,2.0
+FirstPort,diversity & inclusion,5.0
+FirstPort,management,5.0
+FirstPort,tools & resources,5.0
+FirstPort,training & onboarding,5.0
+Foxtons,culture,4.0
+Foxtons,growth,3.0
+Foxtons,management,4.0
+Foxtons,people,1.0
+Foxtons,stress & pressure,1.0
+Foxtons,teamwork & collaboration,4.0
+Foxtons,tools & resources,4.0
+Foxtons,training & onboarding,2.5
+Foxtons,work-life balance,1.0
+Freshfields-Bruckhaus-Deringer,benefits,5.0
+Freshfields-Bruckhaus-Deringer,culture,5.0
+Freshfields-Bruckhaus-Deringer,growth,1.0
+Freshfields-Bruckhaus-Deringer,teamwork & collaboration,4.0
+Freshfields-Bruckhaus-Deringer,work-life balance,1.5
+GLL,benefits,2.0
+GLL,culture,4.0
+GLL,management,2.0
+GLL,people,4.0
+GLL,stress & pressure,2.0
+GlaxoSmithKline,benefits,4.0
+GlaxoSmithKline,culture,4.0
+GlaxoSmithKline,diversity & inclusion,2.0
+GlaxoSmithKline,flexibility,3.6666666666666665
+GlaxoSmithKline,growth,3.75
+GlaxoSmithKline,management,3.5
+GlaxoSmithKline,pay,2.5
+GlaxoSmithKline,people,3.3333333333333335
+GlaxoSmithKline,performance feedback,2.5
+GlaxoSmithKline,remote work,5.0
+GlaxoSmithKline,teamwork & collaboration,5.0
+GlaxoSmithKline,tools & resources,1.0
+GlaxoSmithKline,travel,3.0
+GlaxoSmithKline,work-life balance,4.5
+Goldman-Sachs,benefits,4.0
+Goldman-Sachs,culture,3.3333333333333335
+Goldman-Sachs,diversity & inclusion,4.0
+Goldman-Sachs,growth,2.0
+Goldman-Sachs,job role clarity,3.0
+Goldman-Sachs,management,2.0
+Goldman-Sachs,pay,4.0
+Goldman-Sachs,people,4.5
+Goldman-Sachs,stress & pressure,3.0
+Goldman-Sachs,teamwork & collaboration,2.5
+Goldman-Sachs,tools & resources,2.5
+Goldman-Sachs,work-life balance,2.5
+Google,benefits,4.5
+Google,culture,4.0
+Google,growth,4.0
+Google,training & onboarding,4.0
+Google,work-life balance,3.0
+Grant-Thornton,flexibility,4.0
+Grant-Thornton,management,1.0
+Grant-Thornton,pay,1.0
+Grant-Thornton,work-life balance,4.0
+Grant-Thornton-UK-LLP,culture,3.3333333333333335
+Grant-Thornton-UK-LLP,growth,3.0
+Grant-Thornton-UK-LLP,job role clarity,4.0
+Grant-Thornton-UK-LLP,management,2.0
+Grant-Thornton-UK-LLP,pay,2.0
+Grant-Thornton-UK-LLP,people,3.0
+Grant-Thornton-UK-LLP,teamwork & collaboration,4.0
+Grant-Thornton-UK-LLP,tools & resources,4.0
+Grant-Thornton-UK-LLP,training & onboarding,4.0
+Grant-Thornton-UK-LLP,work-life balance,2.0
+Grosvenor-Casinos,benefits,4.0
+Grosvenor-Casinos,flexibility,3.0
+Grosvenor-Casinos,teamwork & collaboration,4.0
+H-and-M,benefits,2.0
+H-and-M,culture,2.5
+H-and-M,flexibility,4.0
+H-and-M,growth,1.0
+H-and-M,job role clarity,2.5
+H-and-M,management,1.3333333333333333
+H-and-M,pay,3.4
+H-and-M,people,1.3333333333333333
+H-and-M,teamwork & collaboration,2.5
+H-and-M,tools & resources,2.0
+H-and-M,work-life balance,3.0
+HC-One,management,5.0
+HC-One,people,5.0
+HC-One,tools & resources,5.0
+HC-One,training & onboarding,2.5
+HM-Prison-Service,flexibility,4.0
+HM-Prison-Service,management,2.0
+HM-Prison-Service,pay,2.0
+HM-Prison-Service,teamwork & collaboration,3.0
+HM-Prison-Service,tools & resources,1.5
+HM-Prison-Service,travel,2.0
+HM-Prison-Service,work-life balance,4.0
+HMCTS,culture,4.0
+HMCTS,management,1.0
+HMCTS,pay,1.0
+HMCTS,training & onboarding,4.0
+HSBC-Holdings,benefits,4.333333333333333
+HSBC-Holdings,culture,4.0
+HSBC-Holdings,flexibility,3.6666666666666665
+HSBC-Holdings,growth,1.8
+HSBC-Holdings,job role clarity,1.5
+HSBC-Holdings,management,2.0
+HSBC-Holdings,pay,2.75
+HSBC-Holdings,people,4.333333333333333
+HSBC-Holdings,performance feedback,2.0
+HSBC-Holdings,remote work,5.0
+HSBC-Holdings,teamwork & collaboration,1.5
+HSBC-Holdings,tools & resources,5.0
+HSBC-Holdings,travel,2.0
+HSBC-Holdings,work-life balance,2.4
+Hampshire-County-Council,flexibility,3.0
+Hampshire-County-Council,management,1.0
+Hampshire-County-Council,people,3.0
+Harris-Federation,growth,4.0
+Harris-Federation,job role clarity,4.0
+Harris-Federation,people,4.0
+Harris-Federation,stress & pressure,1.0
+Harris-Federation,work-life balance,1.0
+Harrods,benefits,4.0
+Harrods,culture,4.5
+Harrods,diversity & inclusion,5.0
+Harrods,growth,1.0
+Harrods,management,4.5
+Harrods,pay,1.0
+Harrods,people,4.5
+Harrods,teamwork & collaboration,4.0
+Harrods,work-life balance,3.3333333333333335
+Harvey-Nichols,flexibility,2.5
+Harvey-Nichols,growth,1.0
+Harvey-Nichols,management,2.5
+Harvey-Nichols,pay,1.0
+Harvey-Nichols,people,1.0
+Harvey-Nichols,teamwork & collaboration,2.5
+Harvey-Nichols,training & onboarding,4.0
+Harvey-Nichols,work-life balance,1.0
+Hastings-Direct,benefits,5.0
+Hastings-Direct,pay,5.0
+Hastings-Direct,performance feedback,5.0
+Hays,benefits,4.0
+Hays,culture,3.8
+Hays,flexibility,3.0
+Hays,growth,4.125
+Hays,job role clarity,5.0
+Hays,pay,5.0
+Hays,people,1.0
+Hays,performance feedback,4.0
+Hays,teamwork & collaboration,5.0
+Hays,tools & resources,3.2
+Hays,training & onboarding,4.75
+Hays,work-life balance,2.4
+Her-Majesty-s-Revenue-and-Customs,growth,1.0
+Her-Majesty-s-Revenue-and-Customs,job security,5.0
+Her-Majesty-s-Revenue-and-Customs,management,3.0
+Her-Majesty-s-Revenue-and-Customs,pay,1.0
+Her-Majesty-s-Revenue-and-Customs,people,5.0
+Her-Majesty-s-Revenue-and-Customs,tools & resources,5.0
+Her-Majesty-s-Revenue-and-Customs,training & onboarding,5.0
+Her-Majesty-s-Revenue-and-Customs,work-life balance,4.5
+Hilton,benefits,5.0
+Hilton,culture,5.0
+Hilton,growth,1.0
+Hilton,management,1.0
+Hilton,pay,1.0
+Hilton,people,5.0
+Hilton,teamwork & collaboration,5.0
+Hilton,work-life balance,1.0
+Hitachi-Capital-UK,benefits,5.0
+Hitachi-Capital-UK,culture,5.0
+Hitachi-Capital-UK,growth,2.5
+Hitachi-Capital-UK,management,2.0
+Hitachi-Capital-UK,pay,4.0
+Hitachi-Capital-UK,people,5.0
+Hitachi-Capital-UK,teamwork & collaboration,2.0
+Holiday-Inn,benefits,5.0
+Holiday-Inn,teamwork & collaboration,5.0
+Home-Office,culture,1.0
+Home-Office,flexibility,4.0
+Home-Office,job role clarity,2.0
+Home-Office,management,1.5
+Home-Office,pay,1.0
+Home-Office,people,1.0
+Home-Office,stress & pressure,1.0
+Home-Office,work-life balance,4.0
+Hyatt,benefits,4.0
+Hyatt,management,1.0
+Hyatt,pay,1.0
+Hyatt,stress & pressure,1.0
+Hyatt,tools & resources,1.0
+Hyatt,work-life balance,1.0
+IBM,benefits,4.5
+IBM,culture,3.0
+IBM,diversity & inclusion,4.5
+IBM,flexibility,4.0
+IBM,growth,2.625
+IBM,job role clarity,2.5
+IBM,job security,1.0
+IBM,management,1.6
+IBM,pay,1.7142857142857142
+IBM,people,2.5555555555555554
+IBM,remote work,4.0
+IBM,stress & pressure,2.0
+IBM,teamwork & collaboration,2.5
+IBM,tools & resources,3.0
+IBM,training & onboarding,3.0
+IBM,travel,4.0
+IBM,work-life balance,3.0
+IHG-Hotels-and-Resorts,culture,4.0
+IHG-Hotels-and-Resorts,management,1.0
+IHG-Hotels-and-Resorts,teamwork & collaboration,4.0
+ISS-Facility-Services,culture,2.0
+ISS-Facility-Services,growth,4.0
+ISS-Facility-Services,management,2.0
+ISS-Facility-Services,pay,4.0
+Immediate-Media-Company,culture,2.0
+Immediate-Media-Company,growth,4.5
+Immediate-Media-Company,management,5.0
+Immediate-Media-Company,people,3.5
+Immediate-Media-Company,teamwork & collaboration,2.0
+Imperial-College-London,benefits,4.0
+Imperial-College-London,culture,1.0
+Imperial-College-London,flexibility,4.0
+Imperial-College-London,job role clarity,2.0
+Imperial-College-London,management,1.0
+Imperial-College-London,pay,4.0
+Imperial-College-London,tools & resources,2.0
+Imperial-College-London,travel,1.0
+Imperial-College-London,work-life balance,4.0
+Interserve,growth,4.0
+Interserve,pay,1.0
+Interserve,teamwork & collaboration,1.0
+Irwin-Mitchell,benefits,1.0
+Irwin-Mitchell,culture,1.0
+Irwin-Mitchell,diversity & inclusion,1.0
+Irwin-Mitchell,growth,1.0
+Irwin-Mitchell,management,2.5
+Irwin-Mitchell,pay,1.0
+Irwin-Mitchell,people,1.0
+Irwin-Mitchell,teamwork & collaboration,4.0
+Irwin-Mitchell,tools & resources,1.0
+J-P-Morgan,benefits,4.333333333333333
+J-P-Morgan,culture,3.4
+J-P-Morgan,diversity & inclusion,4.0
+J-P-Morgan,flexibility,4.0
+J-P-Morgan,growth,2.8333333333333335
+J-P-Morgan,management,2.8
+J-P-Morgan,pay,2.3333333333333335
+J-P-Morgan,people,2.3333333333333335
+J-P-Morgan,performance feedback,1.5
+J-P-Morgan,stress & pressure,1.6666666666666667
+J-P-Morgan,teamwork & collaboration,3.3333333333333335
+J-P-Morgan,travel,3.0
+J-P-Morgan,work-life balance,3.2
+J-Sainsbury,benefits,4.0
+J-Sainsbury,culture,3.75
+J-Sainsbury,diversity & inclusion,4.5
+J-Sainsbury,flexibility,3.5555555555555554
+J-Sainsbury,growth,3.0
+J-Sainsbury,job role clarity,2.6
+J-Sainsbury,management,1.9285714285714286
+J-Sainsbury,pay,3.4444444444444446
+J-Sainsbury,people,3.4545454545454546
+J-Sainsbury,stress & pressure,2.0
+J-Sainsbury,teamwork & collaboration,3.5555555555555554
+J-Sainsbury,tools & resources,3.125
+J-Sainsbury,training & onboarding,3.5
+J-Sainsbury,travel,2.5
+J-Sainsbury,work-life balance,2.764705882352941
+JLL,benefits,5.0
+JLL,diversity & inclusion,5.0
+JLL,flexibility,5.0
+JLL,growth,4.0
+JLL,management,1.0
+JLL,pay,3.5
+JLL,tools & resources,4.0
+JP-Boden-and-Co,teamwork & collaboration,5.0
+Jaguar-Land-Rover,benefits,4.0
+Jaguar-Land-Rover,flexibility,4.0
+Jaguar-Land-Rover,growth,1.0
+Jaguar-Land-Rover,job role clarity,4.0
+Jaguar-Land-Rover,management,1.0
+Jaguar-Land-Rover,pay,5.0
+Jaguar-Land-Rover,people,5.0
+Jaguar-Land-Rover,teamwork & collaboration,4.5
+Jaguar-Land-Rover,training & onboarding,2.0
+Jaguar-Land-Rover,work-life balance,4.25
+James-Hay-Partnership,pay,1.0
+James-Hay-Partnership,people,4.0
+James-Hay-Partnership,training & onboarding,4.0
+John-Lewis-and-Partners,benefits,4.571428571428571
+John-Lewis-and-Partners,culture,4.0
+John-Lewis-and-Partners,flexibility,2.0
+John-Lewis-and-Partners,growth,2.3333333333333335
+John-Lewis-and-Partners,job role clarity,1.0
+John-Lewis-and-Partners,management,2.6
+John-Lewis-and-Partners,pay,3.6666666666666665
+John-Lewis-and-Partners,people,4.5
+John-Lewis-and-Partners,performance feedback,3.0
+John-Lewis-and-Partners,stress & pressure,1.3333333333333333
+John-Lewis-and-Partners,teamwork & collaboration,4.4
+John-Lewis-and-Partners,tools & resources,5.0
+John-Lewis-and-Partners,work-life balance,2.2857142857142856
+KPMG,benefits,1.0
+KPMG,culture,3.8
+KPMG,flexibility,4.0
+KPMG,growth,1.6
+KPMG,job role clarity,1.0
+KPMG,management,2.0
+KPMG,pay,1.4
+KPMG,people,4.142857142857143
+KPMG,performance feedback,4.0
+KPMG,remote work,4.0
+KPMG,stress & pressure,1.0
+KPMG,teamwork & collaboration,3.25
+KPMG,tools & resources,4.0
+KPMG,training & onboarding,4.0
+KPMG,travel,1.0
+KPMG,work-life balance,2.2857142857142856
+Kier-Group,benefits,5.0
+Kier-Group,culture,4.5
+Kier-Group,growth,5.0
+Kier-Group,job role clarity,5.0
+Kier-Group,management,2.0
+Kier-Group,pay,4.0
+Kier-Group,people,4.0
+Kier-Group,teamwork & collaboration,4.5
+Kier-Group,tools & resources,5.0
+King-s-College-London,benefits,4.0
+King-s-College-London,culture,3.0
+King-s-College-London,job role clarity,2.0
+King-s-College-London,management,2.0
+King-s-College-London,pay,4.0
+King-s-College-London,people,3.0
+King-s-College-London,stress & pressure,2.5
+King-s-College-London,teamwork & collaboration,4.0
+King-s-College-London,tools & resources,3.4
+Kingsley-Healthcare,job role clarity,2.0
+Kingsley-Healthcare,people,4.0
+Kingsley-Healthcare,tools & resources,4.0
+Knight-Frank,culture,4.0
+Knight-Frank,growth,4.0
+Knight-Frank,management,3.0
+Knight-Frank,pay,2.0
+Knight-Frank,people,4.5
+Knight-Frank,teamwork & collaboration,4.0
+Knight-Frank,training & onboarding,4.0
+Korn-Ferry,benefits,3.0
+Korn-Ferry,growth,5.0
+Korn-Ferry,management,5.0
+Korn-Ferry,pay,5.0
+Korn-Ferry,people,5.0
+Korn-Ferry,teamwork & collaboration,5.0
+Korn-Ferry,tools & resources,5.0
+Korn-Ferry,training & onboarding,5.0
+Kurt-Geiger,growth,1.0
+Kurt-Geiger,people,4.0
+Kurt-Geiger,stress & pressure,1.0
+Kurt-Geiger,work-life balance,1.0
+LSE,culture,4.0
+LSE,flexibility,4.0
+LSE,growth,2.0
+LSE,pay,2.0
+LV,benefits,4.0
+LV,culture,4.0
+LV,growth,1.0
+LV,management,4.0
+LV,people,4.0
+LV,teamwork & collaboration,3.0
+LV,tools & resources,2.5
+LV,work-life balance,4.0
+Lancaster-University,culture,2.5
+Leaders-Romans-Group,culture,4.0
+Leaders-Romans-Group,flexibility,4.0
+Leaders-Romans-Group,growth,1.0
+Leaders-Romans-Group,pay,4.0
+Leaders-Romans-Group,work-life balance,4.0
+Leeds-City-Council,growth,5.0
+Leeds-City-Council,management,1.0
+Leeds-City-Council,stress & pressure,1.0
+Leeds-City-Council,training & onboarding,5.0
+Legal-and-General,culture,4.0
+Lidl,flexibility,1.0
+Lidl,growth,4.0
+Lidl,job role clarity,1.5
+Lidl,management,1.0
+Lidl,pay,3.727272727272727
+Lidl,people,3.3333333333333335
+Lidl,stress & pressure,1.5
+Lidl,teamwork & collaboration,5.0
+Lidl,training & onboarding,2.0
+Lidl,work-life balance,1.6666666666666667
+LinkedIn,benefits,5.0
+LinkedIn,culture,5.0
+Lloyds-Banking-Group,benefits,4.166666666666667
+Lloyds-Banking-Group,culture,4.75
+Lloyds-Banking-Group,flexibility,4.333333333333333
+Lloyds-Banking-Group,growth,2.1
+Lloyds-Banking-Group,job role clarity,1.5
+Lloyds-Banking-Group,job security,1.0
+Lloyds-Banking-Group,management,1.2
+Lloyds-Banking-Group,pay,3.0
+Lloyds-Banking-Group,people,2.875
+Lloyds-Banking-Group,remote work,3.0
+Lloyds-Banking-Group,stress & pressure,1.5
+Lloyds-Banking-Group,teamwork & collaboration,3.0
+Lloyds-Banking-Group,tools & resources,2.0
+Lloyds-Banking-Group,training & onboarding,2.3333333333333335
+Lloyds-Banking-Group,work-life balance,4.333333333333333
+London-Underground,benefits,4.0
+London-Underground,diversity & inclusion,4.0
+London-Underground,flexibility,3.0
+London-Underground,growth,4.0
+London-Underground,management,2.0
+London-Underground,pay,4.0
+London-Underground,training & onboarding,3.0
+London-Underground,work-life balance,4.0
+Loughborough-University,culture,4.0
+Loughborough-University,job role clarity,1.0
+Loughborough-University,management,1.0
+Macdonald-Hotels-and-Resorts,flexibility,4.0
+Macdonald-Hotels-and-Resorts,growth,4.0
+Macdonald-Hotels-and-Resorts,job role clarity,4.0
+Macdonald-Hotels-and-Resorts,stress & pressure,1.0
+Macdonald-Hotels-and-Resorts,work-life balance,1.0
+Malmaison,flexibility,5.0
+Malmaison,teamwork & collaboration,5.0
+Malmaison,training & onboarding,5.0
+Malmaison,work-life balance,5.0
+Manchester-Metropolitan-University,culture,4.0
+Manchester-Metropolitan-University,people,4.0
+Manchester-Metropolitan-University,teamwork & collaboration,4.0
+Manchester-Metropolitan-University,tools & resources,4.0
+Manpower,culture,4.0
+Manpower,flexibility,4.0
+Manpower,growth,5.0
+Manpower,people,5.0
+Manpower,stress & pressure,4.0
+Manpower,teamwork & collaboration,5.0
+Manpower,tools & resources,5.0
+Manpower,work-life balance,4.0
+Marks-and-Spencer,benefits,4.0
+Marks-and-Spencer,culture,3.0
+Marks-and-Spencer,flexibility,2.0
+Marks-and-Spencer,growth,4.0
+Marks-and-Spencer,job role clarity,2.0
+Marks-and-Spencer,management,2.6
+Marks-and-Spencer,pay,2.7777777777777777
+Marks-and-Spencer,people,3.5714285714285716
+Marks-and-Spencer,stress & pressure,1.5
+Marks-and-Spencer,teamwork & collaboration,3.0
+Marks-and-Spencer,tools & resources,2.5
+Marks-and-Spencer,training & onboarding,2.6666666666666665
+Marks-and-Spencer,travel,1.0
+Marks-and-Spencer,work-life balance,2.3846153846153846
+Marriott-International,pay,1.0
+Marriott-International,stress & pressure,1.0
+Mastercard,culture,5.0
+McDonald-s,benefits,4.0
+McDonald-s,culture,4.333333333333333
+McDonald-s,flexibility,3.1363636363636362
+McDonald-s,growth,3.75
+McDonald-s,job role clarity,3.0
+McDonald-s,management,1.5384615384615385
+McDonald-s,pay,1.7272727272727273
+McDonald-s,people,3.4285714285714284
+McDonald-s,stress & pressure,1.8571428571428572
+McDonald-s,teamwork & collaboration,3.3333333333333335
+McDonald-s,tools & resources,4.0
+McDonald-s,training & onboarding,4.0
+McDonald-s,work-life balance,2.8666666666666667
+McKinsey-and-Company,growth,4.0
+McKinsey-and-Company,management,1.0
+McKinsey-and-Company,people,4.0
+McKinsey-and-Company,stress & pressure,1.0
+McKinsey-and-Company,tools & resources,4.0
+McKinsey-and-Company,travel,1.0
+Met-Office,flexibility,1.0
+Met-Office,job security,4.0
+Met-Office,pay,1.0
+Metro-Bank,culture,2.5
+Metro-Bank,growth,1.0
+Metro-Bank,pay,1.0
+Metro-Bank,people,4.0
+Metro-Bank,work-life balance,1.0
+Microsoft,culture,3.5
+Microsoft,flexibility,4.5
+Microsoft,growth,3.6666666666666665
+Microsoft,job role clarity,1.0
+Microsoft,pay,5.0
+Microsoft,people,4.0
+Microsoft,performance feedback,2.0
+Microsoft,teamwork & collaboration,2.5
+Microsoft,tools & resources,3.0
+Microsoft,work-life balance,4.666666666666667
+Ministry-of-Justice-UK,benefits,4.0
+Ministry-of-Justice-UK,culture,5.0
+Ministry-of-Justice-UK,growth,4.0
+Ministry-of-Justice-UK,management,2.5
+Ministry-of-Justice-UK,pay,1.75
+Ministry-of-Justice-UK,performance feedback,1.0
+Ministry-of-Justice-UK,work-life balance,4.0
+Missguided,culture,5.0
+Missguided,growth,4.0
+Missguided,job role clarity,4.5
+Mitie,culture,4.0
+Morgan-Stanley,benefits,4.0
+Morgan-Stanley,culture,3.3333333333333335
+Morgan-Stanley,diversity & inclusion,1.0
+Morgan-Stanley,flexibility,4.0
+Morgan-Stanley,management,2.5
+Morgan-Stanley,pay,4.0
+Morgan-Stanley,people,3.5
+Morgan-Stanley,performance feedback,4.0
+Morgan-Stanley,remote work,1.0
+Morgan-Stanley,stress & pressure,1.0
+Morgan-Stanley,teamwork & collaboration,4.0
+Morgan-Stanley,travel,1.0
+Morgan-Stanley,work-life balance,1.0
+Morrisons,benefits,4.0
+Morrisons,growth,2.5
+Morrisons,job role clarity,4.0
+Morrisons,management,1.75
+Morrisons,pay,3.25
+Morrisons,people,4.0
+Morrisons,performance feedback,3.0
+Morrisons,stress & pressure,1.0
+Morrisons,teamwork & collaboration,4.0
+Morrisons,tools & resources,4.0
+Morrisons,training & onboarding,4.0
+Morrisons,work-life balance,2.5
+NHS,benefits,4.142857142857143
+NHS,culture,2.6666666666666665
+NHS,flexibility,3.0
+NHS,growth,2.75
+NHS,job role clarity,1.0
+NHS,management,2.6666666666666665
+NHS,pay,1.5714285714285714
+NHS,people,3.625
+NHS,stress & pressure,2.0
+NHS,teamwork & collaboration,3.125
+NHS,tools & resources,2.8333333333333335
+NHS,training & onboarding,3.0
+NHS,travel,1.0
+NHS,work-life balance,2.6923076923076925
+NHS-Professionals,culture,4.0
+NHS-Professionals,flexibility,3.0
+NHS-Professionals,management,5.0
+NHS-Professionals,pay,3.0
+NHS-Professionals,training & onboarding,1.0
+NHS-Professionals,work-life balance,4.0
+Nando-s-UK-and-IRE,culture,5.0
+Nando-s-UK-and-IRE,flexibility,3.0
+Nando-s-UK-and-IRE,management,5.0
+Nando-s-UK-and-IRE,people,5.0
+Nando-s-UK-and-IRE,teamwork & collaboration,5.0
+Nando-s-UK-and-IRE,work-life balance,5.0
+National-Institute-for-Health-and-Care-Excellence,benefits,5.0
+National-Institute-for-Health-and-Care-Excellence,culture,2.0
+National-Institute-for-Health-and-Care-Excellence,flexibility,5.0
+National-Institute-for-Health-and-Care-Excellence,growth,2.0
+National-Institute-for-Health-and-Care-Excellence,job role clarity,2.0
+National-Institute-for-Health-and-Care-Excellence,management,2.0
+National-Institute-for-Health-and-Care-Excellence,people,3.5
+National-Institute-for-Health-and-Care-Excellence,teamwork & collaboration,2.0
+National-Institute-for-Health-and-Care-Excellence,work-life balance,5.0
+Nationwide-Building-Society,benefits,1.0
+Nationwide-Building-Society,culture,3.0
+Nationwide-Building-Society,flexibility,1.0
+Nationwide-Building-Society,growth,4.5
+Nationwide-Building-Society,pay,1.0
+Nationwide-Building-Society,stress & pressure,1.0
+Nationwide-Building-Society,tools & resources,3.0
+Nationwide-Building-Society,work-life balance,1.5
+Network-Rail,culture,1.0
+Network-Rail,flexibility,4.333333333333333
+Network-Rail,growth,3.4
+Network-Rail,job role clarity,1.0
+Network-Rail,management,1.0
+Network-Rail,pay,4.0
+Network-Rail,people,2.5
+Network-Rail,remote work,4.0
+Network-Rail,teamwork & collaboration,4.5
+Network-Rail,tools & resources,5.0
+Network-Rail,training & onboarding,2.0
+Network-Rail,travel,4.0
+Network-Rail,work-life balance,4.0
+New-Look,flexibility,3.6666666666666665
+New-Look,stress & pressure,4.0
+New-Look,teamwork & collaboration,4.0
+Newcastle-Upon-Tyne-Hospitals-NHS,pay,5.0
+Northern-Gas-and-Power,benefits,1.0
+Northern-Gas-and-Power,culture,5.0
+Northern-Gas-and-Power,growth,5.0
+Northern-Gas-and-Power,management,5.0
+Northern-Gas-and-Power,pay,5.0
+Northern-Gas-and-Power,people,5.0
+Northern-Gas-and-Power,performance feedback,1.0
+Northern-Gas-and-Power,teamwork & collaboration,5.0
+Northern-Gas-and-Power,training & onboarding,5.0
+Northern-Gas-and-Power,work-life balance,5.0
+Nuffield-Health,pay,1.0
+Office-Concierge,growth,5.0
+Office-Concierge,job role clarity,4.0
+Office-Concierge,stress & pressure,1.0
+Office-Concierge,teamwork & collaboration,4.0
+Office-Concierge,tools & resources,5.0
+Office-Concierge,training & onboarding,4.0
+Office-Concierge,work-life balance,1.0
+Oliver-Wyman,culture,4.0
+Oliver-Wyman,job role clarity,2.0
+Oliver-Wyman,people,4.5
+Oliver-Wyman,stress & pressure,2.0
+Oliver-Wyman,work-life balance,1.5
+Oracle,benefits,5.0
+Oracle,culture,5.0
+Oracle,flexibility,5.0
+Oracle,growth,5.0
+Oracle,management,1.0
+Oracle,pay,4.0
+Oracle,people,3.5
+Oracle,remote work,5.0
+Oracle,teamwork & collaboration,5.0
+Oracle,tools & resources,5.0
+Oracle,travel,1.0
+Oracle,work-life balance,5.0
+Ordnance-Survey,culture,4.0
+Ordnance-Survey,diversity & inclusion,4.0
+Ordnance-Survey,flexibility,4.0
+Ordnance-Survey,job role clarity,4.0
+Ordnance-Survey,people,4.0
+Ordnance-Survey,teamwork & collaboration,4.0
+Oxford-University,culture,5.0
+Oxford-University,management,1.0
+Oxford-University,pay,2.0
+Oxford-University,people,5.0
+Oxford-University,stress & pressure,1.0
+Oxford-University,tools & resources,5.0
+Pearson,benefits,4.0
+Pearson,growth,1.0
+Pearson,people,4.0
+Pearson,remote work,5.0
+Pizza-Hut,benefits,2.0
+Pizza-Hut,culture,4.0
+Pizza-Hut,growth,4.0
+Pizza-Hut,management,2.0
+Pizza-Hut,work-life balance,1.0
+Premier-Inn,job role clarity,5.0
+Premier-Inn,pay,1.0
+Premier-Inn,teamwork & collaboration,5.0
+Premier-Inn,work-life balance,1.0
+Primark,benefits,1.0
+Primark,culture,4.0
+Primark,flexibility,1.6
+Primark,growth,3.142857142857143
+Primark,job role clarity,3.0
+Primark,management,2.4444444444444446
+Primark,pay,2.6
+Primark,people,3.8333333333333335
+Primark,stress & pressure,1.3333333333333333
+Primark,teamwork & collaboration,4.333333333333333
+Primark,tools & resources,3.5
+Primark,work-life balance,2.8
+Priory-Group,job role clarity,2.0
+Priory-Group,management,1.0
+Priory-Group,pay,1.0
+Priory-Group,people,4.0
+Priory-Group,teamwork & collaboration,4.0
+Public-Health-England,culture,4.0
+Public-Health-England,management,2.0
+Public-Health-England,people,2.0
+Public-Health-England,stress & pressure,2.0
+Public-Health-England,teamwork & collaboration,4.0
+Public-Health-England,tools & resources,4.0
+PwC,benefits,3.0
+PwC,culture,3.0
+PwC,diversity & inclusion,4.5
+PwC,flexibility,4.666666666666667
+PwC,growth,3.375
+PwC,job role clarity,2.5
+PwC,management,2.6666666666666665
+PwC,pay,2.1666666666666665
+PwC,people,3.5833333333333335
+PwC,performance feedback,1.0
+PwC,stress & pressure,1.4444444444444444
+PwC,teamwork & collaboration,3.875
+PwC,tools & resources,4.666666666666667
+PwC,training & onboarding,4.5
+PwC,travel,3.0
+PwC,work-life balance,1.6666666666666667
+REED,benefits,5.0
+REED,culture,2.75
+REED,flexibility,3.5
+REED,growth,3.625
+REED,job role clarity,4.5
+REED,management,1.0
+REED,pay,3.6666666666666665
+REED,teamwork & collaboration,4.333333333333333
+REED,tools & resources,3.6666666666666665
+REED,training & onboarding,4.6
+REED,work-life balance,1.5
+RSM,culture,4.0
+RSM,flexibility,1.0
+RSM,job role clarity,1.0
+RSM,management,1.0
+RSM,pay,1.0
+RSM,people,4.0
+RSM,stress & pressure,1.0
+RSM,work-life balance,1.0
+Radisson-Hotel-Group,flexibility,4.0
+Radisson-Hotel-Group,management,1.0
+Radisson-Hotel-Group,teamwork & collaboration,4.0
+Randstad,benefits,4.0
+Randstad,culture,4.0
+Randstad,flexibility,4.0
+Randstad,growth,5.0
+Randstad,job role clarity,3.0
+Randstad,people,3.75
+Randstad,stress & pressure,1.0
+Randstad,teamwork & collaboration,5.0
+Randstad,tools & resources,5.0
+Randstad,training & onboarding,4.5
+Randstad,work-life balance,2.5
+Reassured,culture,4.0
+Reassured,growth,4.0
+Reassured,management,4.0
+Reassured,teamwork & collaboration,4.0
+Reassured,tools & resources,4.0
+Rendall-and-Rittner,flexibility,5.0
+Rendall-and-Rittner,growth,1.0
+Rendall-and-Rittner,management,1.0
+Rendall-and-Rittner,pay,3.3333333333333335
+Rendall-and-Rittner,people,1.0
+Rendall-and-Rittner,tools & resources,1.0
+Rendall-and-Rittner,training & onboarding,4.0
+Rendall-and-Rittner,work-life balance,3.0
+Rentokil-Initial,culture,4.0
+Rentokil-Initial,diversity & inclusion,5.0
+Rentokil-Initial,growth,4.5
+Rentokil-Initial,job role clarity,2.0
+Rentokil-Initial,pay,2.0
+Rentokil-Initial,people,4.0
+Rentokil-Initial,teamwork & collaboration,4.0
+Rentokil-Initial,tools & resources,5.0
+Rentokil-Initial,training & onboarding,5.0
+River-Island-Clothing,culture,4.0
+River-Island-Clothing,job role clarity,3.6666666666666665
+River-Island-Clothing,management,1.0
+River-Island-Clothing,people,4.0
+River-Island-Clothing,training & onboarding,2.0
+River-Island-Clothing,work-life balance,1.0
+Robert-Walters,benefits,4.5
+Robert-Walters,culture,4.5
+Robert-Walters,management,4.0
+Robert-Walters,pay,3.3333333333333335
+Robert-Walters,people,2.0
+Robert-Walters,stress & pressure,1.0
+Robert-Walters,teamwork & collaboration,4.5
+Robert-Walters,tools & resources,5.0
+Robert-Walters,work-life balance,5.0
+Royal-Mail,benefits,5.0
+Royal-Mail,flexibility,5.0
+Royal-Mail,job role clarity,2.0
+Royal-Mail,management,1.0
+Royal-Mail,pay,4.666666666666667
+Royal-Mail,people,3.0
+Royal-Mail,stress & pressure,2.25
+Royal-Mail,tools & resources,1.0
+Royal-Mail,training & onboarding,5.0
+Royal-Mail,work-life balance,3.6666666666666665
+SAP,culture,4.0
+SAP,growth,4.0
+SAP,management,4.0
+Sage,benefits,4.0
+Sage,culture,3.6666666666666665
+Sage,diversity & inclusion,5.0
+Sage,flexibility,5.0
+Sage,growth,2.6666666666666665
+Sage,management,1.0
+Sage,pay,4.5
+Sage,people,4.5
+Sage,stress & pressure,1.0
+Sage,teamwork & collaboration,5.0
+Sage,tools & resources,5.0
+Sage,work-life balance,3.6666666666666665
+Sainsbury-s,benefits,4.0
+Sainsbury-s,growth,3.0
+Sainsbury-s,management,2.75
+Sainsbury-s,pay,5.0
+Sainsbury-s,people,4.0
+Sainsbury-s,stress & pressure,1.6666666666666667
+Sainsbury-s,teamwork & collaboration,4.5
+Sainsbury-s,training & onboarding,3.3333333333333335
+Sainsbury-s,work-life balance,3.5
+Salesforce,benefits,5.0
+Salesforce,culture,5.0
+Salesforce,diversity & inclusion,5.0
+Salesforce,growth,5.0
+Salesforce,job role clarity,5.0
+Salesforce,management,5.0
+Salesforce,pay,4.333333333333333
+Salesforce,people,5.0
+Salesforce,performance feedback,3.0
+Salesforce,teamwork & collaboration,5.0
+Santander,benefits,4.0
+Santander,culture,4.5
+Santander,flexibility,1.0
+Santander,growth,2.0
+Santander,management,2.0
+Santander,pay,2.3333333333333335
+Santander,people,3.0
+Santander,remote work,4.0
+Santander,stress & pressure,2.0
+Santander,teamwork & collaboration,3.6666666666666665
+Santander,tools & resources,3.3333333333333335
+Santander,training & onboarding,3.0
+Santander,work-life balance,2.0
+Savills,benefits,5.0
+Savills,culture,1.0
+Savills,diversity & inclusion,1.0
+Savills,growth,1.0
+Savills,management,3.3333333333333335
+Savills,pay,4.0
+Savills,people,1.0
+Savills,stress & pressure,1.0
+Savills,teamwork & collaboration,1.0
+Savills,work-life balance,3.0
+Search-Consultancy,training & onboarding,4.0
+Serco-Group,culture,1.0
+Serco-Group,pay,4.0
+Sky,benefits,5.0
+Sky,culture,2.0
+Sky,flexibility,1.5
+Sky,job role clarity,4.0
+Sky,management,2.25
+Sky,pay,1.0
+Sky,people,3.0
+Sky,performance feedback,2.0
+Sky,teamwork & collaboration,2.0
+Sodexo,culture,4.0
+Sodexo,flexibility,3.0
+Sodexo,growth,4.0
+Sodexo,management,1.0
+Sodexo,pay,2.5
+Sodexo,work-life balance,4.0
+Sotheby-s,culture,4.0
+Sotheby-s,growth,2.0
+Sotheby-s,management,2.0
+Specsavers,pay,1.0
+Specsavers,stress & pressure,1.0
+Specsavers,teamwork & collaboration,4.333333333333333
+Specsavers,tools & resources,2.5
+Specsavers,work-life balance,1.0
+Surrey-County-Council,job role clarity,1.0
+Surrey-County-Council,stress & pressure,1.0
+Sytner,benefits,4.0
+Sytner,pay,4.0
+TUI-Group,growth,2.0
+TUI-Group,people,5.0
+TUI-Group,work-life balance,5.0
+Tate,culture,4.0
+Tate,management,3.0
+Tate,people,4.0
+Tate,training & onboarding,4.0
+Taylor-Wimpey,culture,4.5
+Taylor-Wimpey,flexibility,5.0
+Taylor-Wimpey,growth,2.0
+Taylor-Wimpey,management,2.0
+Taylor-Wimpey,people,5.0
+Taylor-Wimpey,performance feedback,2.0
+Tesco,benefits,4.25
+Tesco,culture,2.5
+Tesco,flexibility,3.75
+Tesco,growth,3.1666666666666665
+Tesco,job role clarity,2.0
+Tesco,job security,1.5
+Tesco,management,2.142857142857143
+Tesco,pay,3.25
+Tesco,people,3.0588235294117645
+Tesco,stress & pressure,1.0
+Tesco,teamwork & collaboration,3.0
+Tesco,tools & resources,3.3333333333333335
+Tesco,training & onboarding,2.6666666666666665
+Tesco,work-life balance,1.8125
+The-Access-Group-UK,tools & resources,3.0
+The-British-Army,flexibility,1.0
+The-British-Army,travel,4.0
+The-British-Army,work-life balance,1.0
+The-Department-for-Education-UK,management,2.0
+The-Department-for-Education-UK,people,2.0
+The-Department-for-Education-UK,training & onboarding,4.0
+The-Ivy-Collection,culture,4.0
+The-Ivy-Collection,flexibility,1.0
+The-Ivy-Collection,work-life balance,1.0
+The-Open-University,culture,5.0
+The-Open-University,diversity & inclusion,5.0
+The-Open-University,flexibility,5.0
+The-Open-University,people,5.0
+The-Open-University,teamwork & collaboration,5.0
+The-Open-University,tools & resources,5.0
+The-Open-University,training & onboarding,5.0
+The-Range,flexibility,1.0
+The-Range,management,1.0
+The-Range,pay,1.0
+The-Range,people,1.0
+The-Range,performance feedback,1.0
+The-Range,teamwork & collaboration,1.0
+Thomas-Cook,benefits,2.5
+Thomas-Cook,culture,4.0
+Thomas-Cook,growth,2.5
+Thomas-Cook,job role clarity,1.0
+Thomas-Cook,management,1.0
+Thomas-Cook,pay,4.0
+Thomas-Cook,people,4.5
+Thomas-Cook,performance feedback,1.0
+Thomas-Cook,stress & pressure,1.0
+Thomas-Cook,training & onboarding,4.0
+Thomas-Cook,travel,5.0
+Thomas-Cook,work-life balance,1.0
+Thomson-Reuters,benefits,4.0
+Thomson-Reuters,culture,4.333333333333333
+Thomson-Reuters,flexibility,3.75
+Thomson-Reuters,growth,3.0
+Thomson-Reuters,job role clarity,3.5
+Thomson-Reuters,management,1.0
+Thomson-Reuters,pay,3.0
+Thomson-Reuters,people,3.75
+Thomson-Reuters,tools & resources,3.0
+Thomson-Reuters,work-life balance,3.5
+Topshop,flexibility,2.0
+Topshop,job role clarity,1.0
+Topshop,pay,1.0
+Topshop,travel,4.0
+Topshop,work-life balance,3.3333333333333335
+Transport-for-London,benefits,4.0
+Transport-for-London,growth,2.5
+Transport-for-London,management,3.0
+Transport-for-London,people,1.0
+Transport-for-London,travel,5.0
+Transport-for-London,work-life balance,2.5
+Travelodge-Hotels-UK,benefits,4.0
+Travelodge-Hotels-UK,culture,5.0
+Travelodge-Hotels-UK,flexibility,4.5
+Travelodge-Hotels-UK,growth,4.0
+Travelodge-Hotels-UK,management,4.5
+Travelodge-Hotels-UK,pay,5.0
+Travelodge-Hotels-UK,teamwork & collaboration,4.0
+Travelodge-Hotels-UK,tools & resources,3.3333333333333335
+Travelodge-Hotels-UK,work-life balance,4.5
+UK-Ministry-of-Defence,culture,5.0
+UK-Ministry-of-Defence,growth,5.0
+UK-Ministry-of-Defence,job role clarity,2.0
+UK-Ministry-of-Defence,management,1.0
+UK-Ministry-of-Defence,pay,2.0
+UK-Ministry-of-Defence,people,3.0
+UK-Ministry-of-Defence,stress & pressure,2.0
+UK-Ministry-of-Defence,teamwork & collaboration,5.0
+UK-Ministry-of-Defence,tools & resources,5.0
+UK-Ministry-of-Defence,work-life balance,2.0
+Unilever,culture,4.5
+Unilever,growth,2.3333333333333335
+Unilever,job role clarity,5.0
+Unilever,job security,4.0
+Unilever,pay,2.0
+Unilever,people,5.0
+Unilever,stress & pressure,2.0
+Unilever,teamwork & collaboration,5.0
+Unilever,training & onboarding,5.0
+Unilever,travel,2.0
+Unilever,work-life balance,3.0
+United-Utilities,benefits,4.0
+United-Utilities,growth,4.0
+Unity-Technologies,growth,1.0
+University-College-London,culture,4.0
+University-College-London,growth,2.5
+University-College-London,people,3.0
+University-College-London,stress & pressure,1.0
+University-College-London,teamwork & collaboration,5.0
+University-College-London,tools & resources,3.6666666666666665
+University-College-London,work-life balance,3.0
+University-of-Birmingham,culture,5.0
+University-of-Birmingham,job role clarity,2.0
+University-of-Birmingham,pay,3.5
+University-of-Birmingham,teamwork & collaboration,5.0
+University-of-Bristol,management,1.0
+University-of-Bristol,pay,1.0
+University-of-Bristol,people,1.0
+University-of-Bristol,tools & resources,1.0
+University-of-Cambridge,culture,3.6666666666666665
+University-of-Cambridge,flexibility,2.5
+University-of-Cambridge,growth,1.0
+University-of-Cambridge,job role clarity,4.0
+University-of-Cambridge,pay,4.0
+University-of-Cambridge,people,4.5
+University-of-Cambridge,tools & resources,1.0
+University-of-Cambridge,work-life balance,4.5
+University-of-Glasgow,job role clarity,2.0
+University-of-Glasgow,tools & resources,4.0
+University-of-Leeds,tools & resources,5.0
+University-of-Leicester,culture,2.0
+University-of-Leicester,growth,4.0
+University-of-Leicester,job role clarity,4.0
+University-of-Manchester,culture,3.3333333333333335
+University-of-Manchester,flexibility,4.0
+University-of-Manchester,job role clarity,4.5
+University-of-Manchester,management,1.0
+University-of-Manchester,pay,4.5
+University-of-Manchester,people,5.0
+University-of-Manchester,performance feedback,4.0
+University-of-Manchester,teamwork & collaboration,4.666666666666667
+University-of-Manchester,tools & resources,3.0
+University-of-Manchester,training & onboarding,1.0
+University-of-Manchester,work-life balance,4.0
+University-of-Newcastle-UK,benefits,1.0
+University-of-Newcastle-UK,culture,4.0
+University-of-Newcastle-UK,growth,2.5
+University-of-Newcastle-UK,management,4.0
+University-of-Newcastle-UK,pay,4.0
+University-of-Newcastle-UK,people,4.0
+University-of-Newcastle-UK,tools & resources,4.0
+University-of-Newcastle-UK,work-life balance,4.5
+University-of-Nottingham,management,1.0
+University-of-Nottingham,people,4.0
+University-of-Nottingham,stress & pressure,1.0
+University-of-Nottingham,work-life balance,1.0
+University-of-Sheffield,pay,5.0
+University-of-Sheffield,people,5.0
+University-of-Southampton,culture,4.0
+University-of-Southampton,management,1.0
+University-of-Southampton,pay,4.0
+University-of-Southampton,people,4.0
+University-of-Southampton,work-life balance,4.0
+University-of-Warwick,flexibility,4.0
+University-of-Warwick,pay,1.0
+University-of-Warwick,people,4.0
+University-of-Warwick,training & onboarding,4.0
+University-of-Warwick,work-life balance,4.0
+University-of-the-West-of-England,culture,5.0
+University-of-the-West-of-England,flexibility,5.0
+Veolia,pay,1.0
+Veolia,stress & pressure,1.0
+Veolia,work-life balance,1.0
+Vets-Now,flexibility,1.0
+Vets-Now,growth,4.0
+Vets-Now,job role clarity,1.0
+Vets-Now,management,1.0
+Vets-Now,work-life balance,1.0
+Virgin-Active,culture,5.0
+Virgin-Active,flexibility,5.0
+Virgin-Active,growth,5.0
+Virgin-Active,job role clarity,3.5
+Virgin-Active,management,3.0
+Virgin-Active,pay,2.6666666666666665
+Virgin-Active,people,3.0
+Virgin-Active,performance feedback,5.0
+Virgin-Active,stress & pressure,2.0
+Virgin-Active,teamwork & collaboration,5.0
+Virgin-Active,tools & resources,5.0
+Virgin-Active,training & onboarding,4.0
+Virgin-Active,work-life balance,4.0
+Virgin-Media,benefits,5.0
+Virgin-Media,culture,5.0
+Virgin-Media,flexibility,5.0
+Virgin-Media,growth,1.0
+Virgin-Media,job role clarity,2.0
+Virgin-Media,management,1.0
+Virgin-Media,pay,1.0
+Virgin-Media,people,2.0
+Virgin-Media,stress & pressure,1.0
+Virgin-Media,training & onboarding,3.0
+Virgin-Media,work-life balance,1.0
+Vodafone,benefits,4.0
+Vodafone,culture,4.0
+Vodafone,diversity & inclusion,4.0
+Vodafone,flexibility,1.0
+Vodafone,growth,2.8333333333333335
+Vodafone,management,2.0
+Vodafone,pay,3.3333333333333335
+Vodafone,people,2.5
+Vodafone,performance feedback,4.5
+Vodafone,teamwork & collaboration,4.666666666666667
+Vodafone,training & onboarding,4.0
+Vodafone,work-life balance,4.5
+WHSmith,culture,4.0
+WHSmith,flexibility,2.5
+WHSmith,growth,2.0
+WHSmith,management,2.0
+WHSmith,pay,2.0
+WHSmith,people,4.0
+WHSmith,stress & pressure,1.0
+WHSmith,teamwork & collaboration,4.0
+WHSmith,work-life balance,3.6666666666666665
+WLT-Group,benefits,2.0
+WLT-Group,growth,1.0
+WLT-Group,pay,1.0
+WLT-Group,people,4.5
+WLT-Group,stress & pressure,2.0
+WLT-Group,work-life balance,1.5
+Waitrose,benefits,4.5
+Waitrose,flexibility,2.5
+Waitrose,job role clarity,3.0
+Waitrose,management,2.4
+Waitrose,pay,3.375
+Waitrose,people,3.75
+Waitrose,performance feedback,1.0
+Waitrose,training & onboarding,4.0
+Waitrose,work-life balance,2.8
+Whitbread,culture,4.0
+Whitbread,flexibility,3.5
+Whitbread,management,4.0
+Whitbread,pay,1.0
+Whitbread,people,4.0
+Whitbread,teamwork & collaboration,4.0
+Whitbread,tools & resources,2.0
+Whitbread,training & onboarding,2.0
+Whitbread,work-life balance,4.0
+Willis-Towers-Watson,culture,4.0
+Willis-Towers-Watson,growth,1.0
+Willis-Towers-Watson,people,4.0
+Wipro,culture,4.0
+Wipro,flexibility,4.0
+Wipro,growth,4.0
+Wipro,pay,1.0
+Wipro,stress & pressure,4.0
+Wipro,teamwork & collaboration,4.0
+Wipro,tools & resources,1.0
+Wipro,work-life balance,2.5
+Wise,growth,5.0
+Wise,pay,1.0
+Wise,people,5.0
+Wise,teamwork & collaboration,5.0
+Wise,tools & resources,1.0
+XPO-Logistics,culture,5.0
+XPO-Logistics,growth,4.75
+XPO-Logistics,pay,4.0
+XPO-Logistics,people,4.25
+XPO-Logistics,performance feedback,5.0
+XPO-Logistics,stress & pressure,5.0
+XPO-Logistics,teamwork & collaboration,5.0
+XPO-Logistics,tools & resources,2.6666666666666665
+XPO-Logistics,training & onboarding,4.5
+YOOX-NET-A-PORTER-GROUP,benefits,3.5
+YOOX-NET-A-PORTER-GROUP,culture,3.0
+YOOX-NET-A-PORTER-GROUP,growth,1.3333333333333333
+YOOX-NET-A-PORTER-GROUP,job role clarity,1.0
+YOOX-NET-A-PORTER-GROUP,management,1.0
+YOOX-NET-A-PORTER-GROUP,pay,1.0
+YOOX-NET-A-PORTER-GROUP,people,3.6666666666666665
+YOOX-NET-A-PORTER-GROUP,tools & resources,5.0
+next,benefits,2.0
+next,culture,4.0
+next,flexibility,4.0
+next,growth,2.25
+next,job role clarity,4.0
+next,management,2.5
+next,pay,1.6666666666666667
+next,people,4.0
+next,teamwork & collaboration,3.8333333333333335
+next,tools & resources,4.0
+next,training & onboarding,3.0
+next,work-life balance,2.857142857142857
