@@ -13,3 +13,4 @@ filtered_england_recent.csv filter=lfs diff=lfs merge=lfs -text
 new_aspect_check.csv filter=lfs diff=lfs merge=lfs -text
 v2_company_aspect_matrix_wide.csv filter=lfs diff=lfs merge=lfs -text
 v2_company_aspect_matrix_with_counts.csv filter=lfs diff=lfs merge=lfs -text
+Aspect[[:space:]]Term[[:space:]]Extraction[[:space:]]and[[:space:]]Polarity[[:space:]]Classification.FAST_LCF_ATEPC.result.json filter=lfs diff=lfs merge=lfs -text
