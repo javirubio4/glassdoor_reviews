@@ -1,0 +1,3901 @@
+firm,aspect,avg_star_rating,n_mentions
+AFH Wealth Management,culture,2.769230769230769,13
+AFH Wealth Management,growth & learning,3.4444444444444446,9
+AFH Wealth Management,hr & recruitment,2.5217391304347827,23
+AFH Wealth Management,job role clarity,1.0,4
+AFH Wealth Management,management,2.375,24
+AFH Wealth Management,office & location,3.142857142857143,7
+AFH Wealth Management,pay,1.894736842105263,19
+AFH Wealth Management,people,3.2941176470588234,17
+AFH Wealth Management,perks & benefits,3.0,8
+AFH Wealth Management,stress & pressure,2.0,3
+AFH Wealth Management,teamwork & collaboration,2.5714285714285716,14
+AFH Wealth Management,tools & resources,2.111111111111111,9
+AFH Wealth Management,work-life balance,3.1666666666666665,12
+AJ Bell,culture,3.4166666666666665,48
+AJ Bell,growth & learning,3.25,68
+AJ Bell,hr & recruitment,3.0,64
+AJ Bell,job role clarity,2.125,8
+AJ Bell,management,2.8048780487804876,41
+AJ Bell,office & location,3.4680851063829787,47
+AJ Bell,pay,2.4285714285714284,63
+AJ Bell,people,3.43859649122807,57
+AJ Bell,perks & benefits,2.8627450980392157,51
+AJ Bell,stress & pressure,2.9285714285714284,14
+AJ Bell,teamwork & collaboration,3.2903225806451615,31
+AJ Bell,tools & resources,3.413793103448276,29
+AJ Bell,work-life balance,2.870967741935484,31
+ASOS,culture,3.2093023255813953,258
+ASOS,growth & learning,2.550359712230216,278
+ASOS,hr & recruitment,2.8076923076923075,208
+ASOS,job role clarity,2.3508771929824563,57
+ASOS,management,1.7544642857142858,224
+ASOS,office & location,3.2857142857142856,203
+ASOS,pay,2.335,200
+ASOS,people,3.311787072243346,263
+ASOS,perks & benefits,3.685236768802228,359
+ASOS,stress & pressure,2.404040404040404,99
+ASOS,teamwork & collaboration,2.701986754966887,151
+ASOS,tools & resources,2.864406779661017,118
+ASOS,work-life balance,2.6444444444444444,225
+AXA UK,culture,3.543859649122807,57
+AXA UK,growth & learning,3.534090909090909,88
+AXA UK,hr & recruitment,3.192982456140351,57
+AXA UK,job role clarity,3.1,20
+AXA UK,management,2.78125,64
+AXA UK,office & location,3.057142857142857,35
+AXA UK,pay,3.029850746268657,67
+AXA UK,people,3.704225352112676,71
+AXA UK,perks & benefits,3.953125,64
+AXA UK,stress & pressure,1.8,10
+AXA UK,teamwork & collaboration,3.702702702702702,37
+AXA UK,tools & resources,3.4545454545454546,55
+AXA UK,work-life balance,3.730769230769231,52
+Abcam,culture,4.153846153846154,91
+Abcam,growth & learning,3.4745762711864407,118
+Abcam,hr & recruitment,3.5135135135135136,37
+Abcam,job role clarity,3.2666666666666666,15
+Abcam,management,3.5306122448979593,49
+Abcam,office & location,3.3026315789473686,76
+Abcam,pay,2.4186046511627906,43
+Abcam,people,4.119047619047619,84
+Abcam,perks & benefits,3.725,40
+Abcam,stress & pressure,3.119047619047619,42
+Abcam,teamwork & collaboration,4.105263157894737,38
+Abcam,tools & resources,3.8333333333333335,36
+Abcam,work-life balance,4.0638297872340425,47
+Accenture,culture,3.2404494382022473,445
+Accenture,growth & learning,3.3583333333333334,1200
+Accenture,hr & recruitment,3.2514851485148513,505
+Accenture,job role clarity,2.7904411764705883,272
+Accenture,management,2.250474383301708,527
+Accenture,office & location,2.9107142857142856,224
+Accenture,pay,2.565068493150685,584
+Accenture,people,3.617610062893082,795
+Accenture,perks & benefits,3.849002849002849,351
+Accenture,stress & pressure,1.8975265017667844,283
+Accenture,teamwork & collaboration,3.2869198312236287,237
+Accenture,tools & resources,3.293827160493827,405
+Accenture,work-life balance,2.6161473087818696,706
+Accor,culture,3.7096774193548385,31
+Accor,growth & learning,3.576923076923077,52
+Accor,hr & recruitment,3.0444444444444443,45
+Accor,job role clarity,2.857142857142857,7
+Accor,management,2.15,40
+Accor,office & location,3.047619047619047,21
+Accor,pay,1.8846153846153848,78
+Accor,people,3.5428571428571427,35
+Accor,perks & benefits,3.6486486486486487,37
+Accor,stress & pressure,1.8095238095238095,21
+Accor,teamwork & collaboration,3.526315789473684,19
+Accor,tools & resources,2.4444444444444446,9
+Accor,work-life balance,2.574074074074074,54
+ActionCOACH,culture,4.142857142857143,7
+ActionCOACH,growth & learning,4.222222222222222,9
+ActionCOACH,hr & recruitment,4.75,4
+ActionCOACH,job role clarity,3.6666666666666665,3
+ActionCOACH,management,3.3333333333333335,3
+ActionCOACH,office & location,4.0,1
+ActionCOACH,pay,3.3333333333333335,3
+ActionCOACH,people,3.7142857142857144,7
+ActionCOACH,perks & benefits,4.0,2
+ActionCOACH,stress & pressure,3.0,2
+ActionCOACH,teamwork & collaboration,4.166666666666667,6
+ActionCOACH,tools & resources,4.333333333333333,3
+ActionCOACH,work-life balance,3.25,4
+Active Care Group,culture,3.0,13
+Active Care Group,growth & learning,3.5384615384615383,13
+Active Care Group,hr & recruitment,2.65,20
+Active Care Group,job role clarity,3.6666666666666665,3
+Active Care Group,management,2.736842105263158,19
+Active Care Group,office & location,2.8125,16
+Active Care Group,pay,2.4814814814814814,27
+Active Care Group,people,3.526315789473684,19
+Active Care Group,perks & benefits,3.0,5
+Active Care Group,stress & pressure,2.125,8
+Active Care Group,teamwork & collaboration,3.764705882352941,17
+Active Care Group,tools & resources,3.375,16
+Active Care Group,work-life balance,2.586206896551724,29
+Adecco,culture,3.5,28
+Adecco,growth & learning,3.636363636363636,33
+Adecco,hr & recruitment,3.176470588235294,51
+Adecco,job role clarity,2.0,7
+Adecco,management,2.5517241379310347,29
+Adecco,office & location,2.9444444444444446,18
+Adecco,pay,2.91044776119403,67
+Adecco,people,3.5238095238095237,21
+Adecco,perks & benefits,2.933333333333333,15
+Adecco,stress & pressure,1.7777777777777777,9
+Adecco,teamwork & collaboration,3.84,25
+Adecco,tools & resources,4.25,12
+Adecco,work-life balance,2.6666666666666665,51
+Age UK The National Charity,culture,3.0384615384615383,26
+Age UK The National Charity,growth & learning,2.9411764705882355,17
+Age UK The National Charity,hr & recruitment,3.3666666666666667,30
+Age UK The National Charity,job role clarity,3.0,5
+Age UK The National Charity,management,2.935483870967742,31
+Age UK The National Charity,office & location,3.3125,16
+Age UK The National Charity,pay,1.6363636363636365,33
+Age UK The National Charity,people,3.8461538461538463,26
+Age UK The National Charity,perks & benefits,3.4545454545454546,11
+Age UK The National Charity,stress & pressure,2.6666666666666665,3
+Age UK The National Charity,teamwork & collaboration,3.7058823529411766,34
+Age UK The National Charity,tools & resources,3.4166666666666665,24
+Age UK The National Charity,work-life balance,3.5,22
+AlixPartners,culture,3.5384615384615383,26
+AlixPartners,growth & learning,3.28125,32
+AlixPartners,hr & recruitment,2.6153846153846154,13
+AlixPartners,job role clarity,2.5,4
+AlixPartners,management,3.3,20
+AlixPartners,office & location,3.6,5
+AlixPartners,pay,3.05,20
+AlixPartners,people,3.967741935483871,31
+AlixPartners,perks & benefits,3.8333333333333335,6
+AlixPartners,stress & pressure,2.176470588235294,17
+AlixPartners,teamwork & collaboration,3.863636363636364,22
+AlixPartners,tools & resources,4.1,10
+AlixPartners,work-life balance,2.5,24
+American Express,culture,3.568421052631579,190
+American Express,growth & learning,3.2908366533864544,251
+American Express,hr & recruitment,2.97196261682243,107
+American Express,job role clarity,2.925925925925926,54
+American Express,management,2.4554455445544554,202
+American Express,office & location,3.46875,96
+American Express,pay,2.505813953488372,172
+American Express,people,3.577639751552795,161
+American Express,perks & benefits,3.865079365079365,126
+American Express,stress & pressure,2.242424242424242,33
+American Express,teamwork & collaboration,3.193548387096774,124
+American Express,tools & resources,3.032967032967033,91
+American Express,work-life balance,3.624413145539906,213
+Amey,culture,2.7846153846153845,65
+Amey,growth & learning,2.963963963963964,111
+Amey,hr & recruitment,2.63,100
+Amey,job role clarity,2.466666666666667,15
+Amey,management,2.142857142857143,112
+Amey,office & location,2.5961538461538463,52
+Amey,pay,2.2440944881889764,127
+Amey,people,3.3488372093023258,86
+Amey,perks & benefits,3.260869565217391,46
+Amey,stress & pressure,1.5555555555555556,27
+Amey,teamwork & collaboration,3.533333333333333,60
+Amey,tools & resources,3.2115384615384617,52
+Amey,work-life balance,3.1386138613861387,101
+Angard Staffing,culture,2.857142857142857,7
+Angard Staffing,growth & learning,2.7142857142857144,7
+Angard Staffing,hr & recruitment,2.5416666666666665,24
+Angard Staffing,job role clarity,2.5,4
+Angard Staffing,management,1.6363636363636365,11
+Angard Staffing,office & location,1.75,4
+Angard Staffing,pay,2.7435897435897436,39
+Angard Staffing,people,2.6666666666666665,15
+Angard Staffing,perks & benefits,2.5,2
+Angard Staffing,stress & pressure,2.3333333333333335,3
+Angard Staffing,teamwork & collaboration,4.0,3
+Angard Staffing,tools & resources,1.5,2
+Angard Staffing,work-life balance,2.540983606557377,61
+Anglian Water,culture,4.018018018018018,111
+Anglian Water,growth & learning,3.788732394366197,142
+Anglian Water,hr & recruitment,3.5473684210526315,95
+Anglian Water,job role clarity,3.3823529411764706,34
+Anglian Water,management,3.4831460674157304,89
+Anglian Water,office & location,3.240740740740741,54
+Anglian Water,pay,3.590909090909091,110
+Anglian Water,people,3.8333333333333335,108
+Anglian Water,perks & benefits,4.087719298245614,114
+Anglian Water,stress & pressure,2.5,30
+Anglian Water,teamwork & collaboration,3.988235294117647,85
+Anglian Water,tools & resources,4.0636363636363635,110
+Anglian Water,work-life balance,3.5977011494252875,87
+Anglo American,culture,3.363636363636364,11
+Anglo American,growth & learning,3.4444444444444446,18
+Anglo American,hr & recruitment,2.0,3
+Anglo American,job role clarity,2.25,4
+Anglo American,management,2.6470588235294117,17
+Anglo American,office & location,3.0,2
+Anglo American,pay,3.75,8
+Anglo American,people,4.0,9
+Anglo American,perks & benefits,3.875,16
+Anglo American,stress & pressure,2.0,1
+Anglo American,teamwork & collaboration,3.4285714285714284,7
+Anglo American,tools & resources,3.5714285714285716,7
+Anglo American,work-life balance,3.4444444444444446,9
+Aon,culture,3.1506849315068495,73
+Aon,growth & learning,3.1186440677966103,118
+Aon,hr & recruitment,2.704918032786886,61
+Aon,job role clarity,3.0,20
+Aon,management,2.2941176470588234,102
+Aon,office & location,3.2857142857142856,63
+Aon,pay,2.313131313131313,99
+Aon,people,3.407766990291262,103
+Aon,perks & benefits,3.589041095890411,73
+Aon,stress & pressure,1.75,20
+Aon,teamwork & collaboration,3.523076923076923,65
+Aon,tools & resources,3.1551724137931036,58
+Aon,work-life balance,3.382978723404255,94
+Apple,culture,3.645,200
+Apple,growth & learning,2.809128630705394,241
+Apple,hr & recruitment,3.227272727272727,154
+Apple,job role clarity,2.3076923076923075,65
+Apple,management,2.4455958549222796,193
+Apple,office & location,2.7450980392156863,51
+Apple,pay,2.8585365853658535,205
+Apple,people,3.76171875,256
+Apple,perks & benefits,3.9335664335664338,286
+Apple,stress & pressure,2.0615384615384613,65
+Apple,teamwork & collaboration,3.7478991596638656,119
+Apple,tools & resources,3.449438202247191,89
+Apple,work-life balance,2.817204301075269,186
+Arcadia,culture,2.822429906542056,107
+Arcadia,growth & learning,2.6223776223776225,143
+Arcadia,hr & recruitment,2.743243243243243,148
+Arcadia,job role clarity,2.46875,32
+Arcadia,management,1.9679487179487176,156
+Arcadia,office & location,2.9134615384615383,104
+Arcadia,pay,1.8670520231213872,173
+Arcadia,people,3.5093167701863353,161
+Arcadia,perks & benefits,3.4577464788732395,142
+Arcadia,stress & pressure,2.6315789473684212,57
+Arcadia,teamwork & collaboration,3.1956521739130435,92
+Arcadia,tools & resources,2.25,44
+Arcadia,work-life balance,2.628787878787879,132
+Arnold Clark,culture,2.8620689655172415,29
+Arnold Clark,growth & learning,3.8,30
+Arnold Clark,hr & recruitment,2.9152542372881354,59
+Arnold Clark,job role clarity,2.4375,16
+Arnold Clark,management,2.4285714285714284,56
+Arnold Clark,office & location,2.5,6
+Arnold Clark,pay,2.857142857142857,63
+Arnold Clark,people,2.761904761904762,21
+Arnold Clark,perks & benefits,3.6944444444444446,36
+Arnold Clark,stress & pressure,1.6,30
+Arnold Clark,teamwork & collaboration,3.6666666666666665,15
+Arnold Clark,tools & resources,2.9411764705882355,17
+Arnold Clark,work-life balance,2.326923076923077,52
+AstraZeneca,culture,3.392156862745098,153
+AstraZeneca,growth & learning,3.230769230769231,195
+AstraZeneca,hr & recruitment,2.8,70
+AstraZeneca,job role clarity,2.4324324324324325,37
+AstraZeneca,management,2.435483870967742,124
+AstraZeneca,office & location,2.8857142857142857,70
+AstraZeneca,pay,3.2016806722689077,119
+AstraZeneca,people,3.5338345864661656,133
+AstraZeneca,perks & benefits,3.8055555555555554,108
+AstraZeneca,stress & pressure,2.057142857142857,35
+AstraZeneca,teamwork & collaboration,3.2857142857142856,42
+AstraZeneca,tools & resources,3.5945945945945947,74
+AstraZeneca,work-life balance,3.171875,128
+Aviva,culture,3.1260504201680672,119
+Aviva,growth & learning,2.9782608695652173,138
+Aviva,hr & recruitment,2.89622641509434,106
+Aviva,job role clarity,2.6666666666666665,27
+Aviva,management,2.176470588235294,170
+Aviva,office & location,2.938271604938272,81
+Aviva,pay,2.765625,128
+Aviva,people,3.288,125
+Aviva,perks & benefits,3.709090909090909,165
+Aviva,stress & pressure,2.0714285714285716,28
+Aviva,teamwork & collaboration,3.0714285714285716,70
+Aviva,tools & resources,3.1724137931034484,58
+Aviva,work-life balance,3.45985401459854,137
+B and M Retail,culture,3.363636363636364,176
+B and M Retail,growth & learning,3.803921568627451,204
+B and M Retail,hr & recruitment,2.963302752293578,327
+B and M Retail,job role clarity,2.977777777777778,45
+B and M Retail,management,2.541958041958042,286
+B and M Retail,office & location,2.643835616438356,73
+B and M Retail,pay,1.9545454545454544,330
+B and M Retail,people,3.449197860962567,187
+B and M Retail,perks & benefits,2.845771144278607,201
+B and M Retail,stress & pressure,2.7058823529411766,119
+B and M Retail,teamwork & collaboration,3.8013698630136985,146
+B and M Retail,tools & resources,3.3378378378378377,74
+B and M Retail,work-life balance,2.495575221238938,339
+B and Q,culture,3.138095238095238,210
+B and Q,growth & learning,3.130612244897959,245
+B and Q,hr & recruitment,2.58,400
+B and Q,job role clarity,2.626865671641791,67
+B and Q,management,2.0217391304347827,368
+B and Q,office & location,2.8440366972477062,109
+B and Q,pay,2.9615384615384617,390
+B and Q,people,3.4349206349206347,315
+B and Q,perks & benefits,3.3083700440528636,227
+B and Q,stress & pressure,1.7037037037037035,81
+B and Q,teamwork & collaboration,3.6140350877192984,171
+B and Q,tools & resources,2.9876543209876543,81
+B and Q,work-life balance,2.726817042606516,399
+BAT,culture,3.0697674418604652,86
+BAT,growth & learning,3.606060606060606,99
+BAT,hr & recruitment,3.142857142857143,49
+BAT,job role clarity,3.0,26
+BAT,management,2.011764705882353,85
+BAT,office & location,3.032258064516129,31
+BAT,pay,3.73394495412844,109
+BAT,people,3.5714285714285716,91
+BAT,perks & benefits,4.191780821917808,73
+BAT,stress & pressure,1.5833333333333333,24
+BAT,teamwork & collaboration,3.1818181818181817,33
+BAT,tools & resources,2.8333333333333335,30
+BAT,work-life balance,2.4444444444444446,54
+BBC,culture,3.457983193277311,238
+BBC,growth & learning,3.162907268170426,399
+BBC,hr & recruitment,3.0115384615384615,260
+BBC,job role clarity,2.8405797101449277,69
+BBC,management,1.8551724137931032,290
+BBC,office & location,3.3278688524590163,122
+BBC,pay,1.8758169934640525,306
+BBC,people,3.63855421686747,332
+BBC,perks & benefits,2.865979381443299,97
+BBC,stress & pressure,2.2830188679245285,53
+BBC,teamwork & collaboration,3.58,150
+BBC,tools & resources,3.335526315789474,152
+BBC,work-life balance,3.5528455284552845,246
+BDO,culture,3.5161290322580645,124
+BDO,growth & learning,3.0753424657534247,146
+BDO,hr & recruitment,2.544642857142857,112
+BDO,job role clarity,2.9166666666666665,24
+BDO,management,2.2048192771084336,83
+BDO,office & location,3.24,50
+BDO,pay,2.395348837209302,129
+BDO,people,3.7452830188679247,106
+BDO,perks & benefits,3.0869565217391304,46
+BDO,stress & pressure,2.0,52
+BDO,teamwork & collaboration,3.765432098765432,81
+BDO,tools & resources,3.1451612903225805,62
+BDO,work-life balance,3.0580645161290323,155
+BHS,culture,3.34375,32
+BHS,growth & learning,2.8518518518518516,27
+BHS,hr & recruitment,2.7857142857142856,70
+BHS,job role clarity,2.875,8
+BHS,management,2.4468085106382977,47
+BHS,office & location,2.0714285714285716,14
+BHS,pay,1.9545454545454544,44
+BHS,people,3.723404255319149,47
+BHS,perks & benefits,3.325,40
+BHS,stress & pressure,1.8095238095238095,21
+BHS,teamwork & collaboration,3.740740740740741,27
+BHS,tools & resources,3.0,11
+BHS,work-life balance,2.5166666666666666,60
+BNP Paribas,culture,3.28099173553719,121
+BNP Paribas,growth & learning,2.4864864864864864,111
+BNP Paribas,hr & recruitment,2.6666666666666665,48
+BNP Paribas,job role clarity,3.047619047619047,21
+BNP Paribas,management,2.0535714285714284,112
+BNP Paribas,office & location,2.9130434782608696,69
+BNP Paribas,pay,2.0902255639097747,133
+BNP Paribas,people,3.6,110
+BNP Paribas,perks & benefits,3.7313432835820897,67
+BNP Paribas,stress & pressure,2.863636363636364,22
+BNP Paribas,teamwork & collaboration,3.0754716981132075,53
+BNP Paribas,tools & resources,3.024390243902439,41
+BNP Paribas,work-life balance,3.643478260869565,115
+BNY Mellon,culture,2.957894736842105,95
+BNY Mellon,growth & learning,2.92,125
+BNY Mellon,hr & recruitment,2.3333333333333335,93
+BNY Mellon,job role clarity,2.5454545454545454,33
+BNY Mellon,management,1.893805309734513,113
+BNY Mellon,office & location,3.1142857142857143,70
+BNY Mellon,pay,1.9344262295081969,122
+BNY Mellon,people,3.617977528089888,89
+BNY Mellon,perks & benefits,3.652173913043478,69
+BNY Mellon,stress & pressure,1.9230769230769231,26
+BNY Mellon,teamwork & collaboration,3.0,43
+BNY Mellon,tools & resources,2.4827586206896552,29
+BNY Mellon,work-life balance,3.1818181818181817,99
+BP,culture,3.346368715083799,179
+BP,growth & learning,3.0,262
+BP,hr & recruitment,2.9545454545454546,154
+BP,job role clarity,2.6315789473684212,57
+BP,management,2.3304721030042916,233
+BP,office & location,2.8472222222222223,72
+BP,pay,3.1327433628318584,226
+BP,people,3.6067961165048543,206
+BP,perks & benefits,3.767567567567568,185
+BP,stress & pressure,2.0,36
+BP,teamwork & collaboration,3.147727272727273,88
+BP,tools & resources,3.1066666666666665,75
+BP,work-life balance,3.406926406926407,231
+BPP Holdings,culture,3.0597014925373136,67
+BPP Holdings,growth & learning,3.0505050505050506,99
+BPP Holdings,hr & recruitment,3.0,68
+BPP Holdings,job role clarity,3.15,20
+BPP Holdings,management,2.3114754098360657,61
+BPP Holdings,office & location,2.702127659574468,47
+BPP Holdings,pay,2.5084745762711864,59
+BPP Holdings,people,3.4153846153846152,65
+BPP Holdings,perks & benefits,3.6666666666666665,39
+BPP Holdings,stress & pressure,2.5416666666666665,24
+BPP Holdings,teamwork & collaboration,3.283333333333333,60
+BPP Holdings,tools & resources,3.409090909090909,44
+BPP Holdings,work-life balance,3.018181818181818,55
+BT,culture,2.8354037267080745,322
+BT,growth & learning,3.145,600
+BT,hr & recruitment,2.5530085959885387,349
+BT,job role clarity,2.99290780141844,141
+BT,management,2.0140350877192983,570
+BT,office & location,2.7818930041152266,243
+BT,pay,2.879251700680272,588
+BT,people,3.3319057815845823,467
+BT,perks & benefits,3.622356495468278,331
+BT,stress & pressure,1.818840579710145,138
+BT,teamwork & collaboration,3.1139240506329116,237
+BT,tools & resources,3.08203125,256
+BT,work-life balance,3.3078512396694215,484
+Babcock International Group,culture,2.5632183908045976,87
+Babcock International Group,growth & learning,2.9066666666666667,150
+Babcock International Group,hr & recruitment,2.4518518518518517,135
+Babcock International Group,job role clarity,2.4,30
+Babcock International Group,management,1.9785714285714289,140
+Babcock International Group,office & location,2.911392405063291,79
+Babcock International Group,pay,2.668831168831169,154
+Babcock International Group,people,3.096774193548387,93
+Babcock International Group,perks & benefits,3.1594202898550723,69
+Babcock International Group,stress & pressure,2.3157894736842106,19
+Babcock International Group,teamwork & collaboration,3.0833333333333335,60
+Babcock International Group,tools & resources,2.8405797101449277,69
+Babcock International Group,work-life balance,3.3214285714285716,112
+Babylon Health,culture,2.888888888888889,135
+Babylon Health,growth & learning,2.727272727272727,143
+Babylon Health,hr & recruitment,2.9431818181818183,88
+Babylon Health,job role clarity,2.7083333333333335,24
+Babylon Health,management,2.0211267605633805,142
+Babylon Health,office & location,3.0357142857142856,84
+Babylon Health,pay,2.3698630136986303,73
+Babylon Health,people,3.231958762886598,194
+Babylon Health,perks & benefits,3.492063492063492,126
+Babylon Health,stress & pressure,2.480769230769231,52
+Babylon Health,teamwork & collaboration,2.956140350877193,114
+Babylon Health,tools & resources,2.869158878504673,107
+Babylon Health,work-life balance,3.128205128205128,78
+Bain and Company,culture,4.010752688172043,93
+Bain and Company,growth & learning,3.8773584905660377,106
+Bain and Company,hr & recruitment,3.652173913043478,46
+Bain and Company,job role clarity,3.1538461538461537,13
+Bain and Company,management,3.2444444444444445,45
+Bain and Company,office & location,3.6153846153846154,26
+Bain and Company,pay,3.7222222222222223,36
+Bain and Company,people,4.2075471698113205,106
+Bain and Company,perks & benefits,4.130434782608695,23
+Bain and Company,stress & pressure,2.1538461538461537,52
+Bain and Company,teamwork & collaboration,3.851851851851851,54
+Bain and Company,tools & resources,4.1891891891891895,37
+Bain and Company,work-life balance,2.6260162601626016,123
+Balfour Beatty,culture,2.7758620689655173,58
+Balfour Beatty,growth & learning,3.1150442477876106,113
+Balfour Beatty,hr & recruitment,2.440366972477064,109
+Balfour Beatty,job role clarity,2.0454545454545454,22
+Balfour Beatty,management,2.23,100
+Balfour Beatty,office & location,3.032258064516129,31
+Balfour Beatty,pay,2.3284671532846715,137
+Balfour Beatty,people,3.25,84
+Balfour Beatty,perks & benefits,3.2888888888888888,45
+Balfour Beatty,stress & pressure,1.6333333333333333,30
+Balfour Beatty,teamwork & collaboration,3.4814814814814814,54
+Balfour Beatty,tools & resources,2.9344262295081966,61
+Balfour Beatty,work-life balance,2.5,84
+Bannatyne Group,culture,3.5535714285714284,56
+Bannatyne Group,growth & learning,3.8285714285714287,70
+Bannatyne Group,hr & recruitment,3.340659340659341,91
+Bannatyne Group,job role clarity,2.8666666666666667,15
+Bannatyne Group,management,2.9361702127659575,47
+Bannatyne Group,office & location,3.15625,32
+Bannatyne Group,pay,2.1621621621621623,74
+Bannatyne Group,people,3.5,36
+Bannatyne Group,perks & benefits,3.56043956043956,91
+Bannatyne Group,stress & pressure,2.533333333333333,15
+Bannatyne Group,teamwork & collaboration,3.9019607843137254,51
+Bannatyne Group,tools & resources,3.96875,32
+Bannatyne Group,work-life balance,2.478723404255319,94
+Barchester Healthcare,culture,2.3492063492063493,63
+Barchester Healthcare,growth & learning,3.5319148936170213,47
+Barchester Healthcare,hr & recruitment,2.8154761904761907,168
+Barchester Healthcare,job role clarity,3.25,12
+Barchester Healthcare,management,2.1627906976744184,86
+Barchester Healthcare,office & location,2.774193548387097,31
+Barchester Healthcare,pay,2.3132530120481927,83
+Barchester Healthcare,people,2.6739130434782608,46
+Barchester Healthcare,perks & benefits,3.4761904761904763,42
+Barchester Healthcare,stress & pressure,1.5217391304347827,23
+Barchester Healthcare,teamwork & collaboration,3.8225806451612905,62
+Barchester Healthcare,tools & resources,2.945945945945946,74
+Barchester Healthcare,work-life balance,2.2708333333333335,48
+Barclays,culture,3.2407628128724673,839
+Barclays,growth & learning,3.1192660550458715,981
+Barclays,hr & recruitment,2.7197106690777577,553
+Barclays,job role clarity,2.5,260
+Barclays,management,2.048076923076923,936
+Barclays,office & location,2.942786069651741,402
+Barclays,pay,2.7384453781512605,952
+Barclays,people,3.5109223300970873,824
+Barclays,perks & benefits,3.8333333333333335,582
+Barclays,stress & pressure,2.015267175572519,262
+Barclays,teamwork & collaboration,3.28125,480
+Barclays,tools & resources,3.104018912529551,423
+Barclays,work-life balance,3.383259911894273,908
+Barnardo s,culture,2.8947368421052633,38
+Barnardo s,growth & learning,2.6666666666666665,24
+Barnardo s,hr & recruitment,2.4634146341463414,82
+Barnardo s,job role clarity,2.933333333333333,15
+Barnardo s,management,1.8771929824561404,57
+Barnardo s,office & location,2.3529411764705883,17
+Barnardo s,pay,1.7692307692307692,52
+Barnardo s,people,3.5964912280701755,57
+Barnardo s,perks & benefits,2.6296296296296298,27
+Barnardo s,stress & pressure,1.75,20
+Barnardo s,teamwork & collaboration,3.53125,32
+Barnardo s,tools & resources,2.393939393939394,33
+Barnardo s,work-life balance,2.2325581395348837,43
+Barnett Waddingham,culture,4.176470588235294,17
+Barnett Waddingham,growth & learning,3.631578947368421,19
+Barnett Waddingham,hr & recruitment,3.5,6
+Barnett Waddingham,job role clarity,3.0,6
+Barnett Waddingham,management,3.6666666666666665,6
+Barnett Waddingham,office & location,2.875,16
+Barnett Waddingham,pay,2.6153846153846154,13
+Barnett Waddingham,people,4.0,19
+Barnett Waddingham,perks & benefits,3.142857142857143,7
+Barnett Waddingham,stress & pressure,2.75,4
+Barnett Waddingham,teamwork & collaboration,3.909090909090909,11
+Barnett Waddingham,tools & resources,5.0,3
+Barnett Waddingham,work-life balance,3.125,8
+Barratt Developments,culture,3.6333333333333337,30
+Barratt Developments,growth & learning,3.5106382978723403,47
+Barratt Developments,hr & recruitment,3.526315789473684,38
+Barratt Developments,job role clarity,2.857142857142857,7
+Barratt Developments,management,3.1951219512195124,41
+Barratt Developments,office & location,3.6,10
+Barratt Developments,pay,3.2452830188679247,53
+Barratt Developments,people,4.071428571428571,28
+Barratt Developments,perks & benefits,3.892857142857143,28
+Barratt Developments,stress & pressure,2.375,16
+Barratt Developments,teamwork & collaboration,3.5517241379310347,29
+Barratt Developments,tools & resources,3.5714285714285716,21
+Barratt Developments,work-life balance,3.1481481481481484,27
+Barts Health NHS Trust,culture,3.0555555555555554,36
+Barts Health NHS Trust,growth & learning,3.230769230769231,39
+Barts Health NHS Trust,hr & recruitment,2.7708333333333335,48
+Barts Health NHS Trust,job role clarity,2.6,5
+Barts Health NHS Trust,management,1.9,40
+Barts Health NHS Trust,office & location,2.888888888888889,18
+Barts Health NHS Trust,pay,2.4583333333333335,24
+Barts Health NHS Trust,people,3.5483870967741935,31
+Barts Health NHS Trust,perks & benefits,2.8260869565217392,23
+Barts Health NHS Trust,stress & pressure,2.6,5
+Barts Health NHS Trust,teamwork & collaboration,3.72,25
+Barts Health NHS Trust,tools & resources,3.7,20
+Barts Health NHS Trust,work-life balance,2.8095238095238093,21
+Bayer,culture,3.391304347826087,23
+Bayer,growth & learning,2.888888888888889,18
+Bayer,hr & recruitment,2.533333333333333,15
+Bayer,job role clarity,3.0,5
+Bayer,management,2.2666666666666666,15
+Bayer,office & location,3.6,10
+Bayer,pay,2.9411764705882355,17
+Bayer,people,3.619047619047619,21
+Bayer,perks & benefits,3.8666666666666663,15
+Bayer,stress & pressure,1.2,5
+Bayer,teamwork & collaboration,3.6153846153846154,13
+Bayer,tools & resources,3.875,8
+Bayer,work-life balance,3.6,15
+Bloomberg L P,culture,3.3588039867109636,301
+Bloomberg L P,growth & learning,3.1091954022988504,348
+Bloomberg L P,hr & recruitment,3.4210526315789473,171
+Bloomberg L P,job role clarity,2.4166666666666665,72
+Bloomberg L P,management,1.9348534201954397,307
+Bloomberg L P,office & location,3.425438596491228,228
+Bloomberg L P,pay,2.975206611570248,242
+Bloomberg L P,people,3.429553264604811,291
+Bloomberg L P,perks & benefits,3.8823529411764706,255
+Bloomberg L P,stress & pressure,2.204225352112676,142
+Bloomberg L P,teamwork & collaboration,3.064516129032258,155
+Bloomberg L P,tools & resources,3.16793893129771,131
+Bloomberg L P,work-life balance,2.642599277978339,277
+Blue Arrow,culture,3.576923076923077,26
+Blue Arrow,growth & learning,3.5384615384615383,26
+Blue Arrow,hr & recruitment,3.1538461538461537,39
+Blue Arrow,job role clarity,3.25,8
+Blue Arrow,management,2.5172413793103448,29
+Blue Arrow,office & location,2.9655172413793105,29
+Blue Arrow,pay,3.0,77
+Blue Arrow,people,3.71875,32
+Blue Arrow,perks & benefits,3.466666666666667,15
+Blue Arrow,stress & pressure,2.888888888888889,9
+Blue Arrow,teamwork & collaboration,3.9545454545454546,22
+Blue Arrow,tools & resources,3.4761904761904763,21
+Blue Arrow,work-life balance,2.7735849056603774,53
+Blue Yonder,culture,3.8947368421052633,19
+Blue Yonder,growth & learning,3.5588235294117645,34
+Blue Yonder,hr & recruitment,3.4285714285714284,14
+Blue Yonder,job role clarity,2.6,5
+Blue Yonder,management,3.12,25
+Blue Yonder,office & location,3.75,8
+Blue Yonder,pay,3.375,16
+Blue Yonder,people,3.7,20
+Blue Yonder,perks & benefits,3.923076923076923,13
+Blue Yonder,stress & pressure,2.6666666666666665,6
+Blue Yonder,teamwork & collaboration,2.9375,16
+Blue Yonder,tools & resources,3.1666666666666665,18
+Blue Yonder,work-life balance,2.6666666666666665,12
+Booking com,culture,3.442982456140351,456
+Booking com,growth & learning,2.984090909090909,440
+Booking com,hr & recruitment,2.6766917293233083,266
+Booking com,job role clarity,2.376470588235294,85
+Booking com,management,2.1246537396121883,361
+Booking com,office & location,3.1045197740112993,354
+Booking com,pay,2.739018087855297,387
+Booking com,people,3.3619246861924688,478
+Booking com,perks & benefits,3.6553287981859417,441
+Booking com,stress & pressure,2.0916030534351147,131
+Booking com,teamwork & collaboration,3.011406844106464,263
+Booking com,tools & resources,3.1123595505617976,178
+Booking com,work-life balance,2.9244186046511627,344
+Boston Consulting Group,culture,3.7058823529411766,34
+Boston Consulting Group,growth & learning,3.8225806451612905,62
+Boston Consulting Group,hr & recruitment,2.8947368421052633,19
+Boston Consulting Group,job role clarity,2.909090909090909,11
+Boston Consulting Group,management,3.0434782608695654,23
+Boston Consulting Group,office & location,3.0526315789473686,19
+Boston Consulting Group,pay,3.1666666666666665,36
+Boston Consulting Group,people,4.246376811594203,69
+Boston Consulting Group,perks & benefits,4.375,16
+Boston Consulting Group,stress & pressure,2.088235294117647,34
+Boston Consulting Group,teamwork & collaboration,3.4782608695652173,23
+Boston Consulting Group,tools & resources,3.0,17
+Boston Consulting Group,work-life balance,2.439393939393939,66
+British Airways,culture,2.544378698224852,338
+British Airways,growth & learning,3.0954773869346734,398
+British Airways,hr & recruitment,2.888888888888889,702
+British Airways,job role clarity,2.8018018018018016,111
+British Airways,management,1.6115241635687731,538
+British Airways,office & location,2.902061855670103,194
+British Airways,pay,2.2149532710280373,642
+British Airways,people,3.4661764705882354,680
+British Airways,perks & benefits,3.5904761904761906,420
+British Airways,stress & pressure,1.6643835616438356,146
+British Airways,teamwork & collaboration,3.048780487804878,205
+British Airways,tools & resources,2.792307692307692,130
+British Airways,work-life balance,2.5522935779816516,545
+British Red Cross,culture,2.926829268292683,41
+British Red Cross,growth & learning,2.8378378378378377,37
+British Red Cross,hr & recruitment,2.843137254901961,51
+British Red Cross,job role clarity,2.1666666666666665,12
+British Red Cross,management,1.9,50
+British Red Cross,office & location,2.8823529411764706,17
+British Red Cross,pay,2.066666666666667,45
+British Red Cross,people,3.2241379310344827,58
+British Red Cross,perks & benefits,3.0833333333333335,12
+British Red Cross,stress & pressure,2.0,7
+British Red Cross,teamwork & collaboration,3.6486486486486487,37
+British Red Cross,tools & resources,3.1785714285714284,28
+British Red Cross,work-life balance,3.5172413793103448,29
+Brook Street,culture,3.2941176470588234,17
+Brook Street,growth & learning,2.5238095238095237,21
+Brook Street,hr & recruitment,2.7288135593220337,59
+Brook Street,job role clarity,2.7058823529411766,17
+Brook Street,management,2.4411764705882355,34
+Brook Street,office & location,2.25,16
+Brook Street,pay,2.352112676056338,71
+Brook Street,people,3.1052631578947367,19
+Brook Street,perks & benefits,2.111111111111111,9
+Brook Street,stress & pressure,2.2,10
+Brook Street,teamwork & collaboration,3.789473684210526,19
+Brook Street,tools & resources,3.0434782608695654,23
+Brook Street,work-life balance,2.2222222222222223,18
+Bullhorn,culture,4.088235294117647,34
+Bullhorn,growth & learning,3.7560975609756095,41
+Bullhorn,hr & recruitment,3.823529411764706,17
+Bullhorn,job role clarity,4.636363636363637,11
+Bullhorn,management,3.6842105263157894,19
+Bullhorn,office & location,3.8461538461538463,13
+Bullhorn,pay,3.888888888888889,9
+Bullhorn,people,4.304347826086956,23
+Bullhorn,perks & benefits,4.133333333333334,15
+Bullhorn,stress & pressure,3.230769230769231,13
+Bullhorn,teamwork & collaboration,3.8421052631578942,19
+Bullhorn,tools & resources,3.8461538461538463,13
+Bullhorn,work-life balance,3.7777777777777777,9
+Bupa,culture,3.3241379310344827,145
+Bupa,growth & learning,3.2532467532467533,154
+Bupa,hr & recruitment,2.657407407407407,216
+Bupa,job role clarity,2.710526315789474,38
+Bupa,management,2.225130890052356,191
+Bupa,office & location,3.330578512396694,121
+Bupa,pay,2.586734693877551,196
+Bupa,people,3.5647058823529414,170
+Bupa,perks & benefits,3.462857142857143,175
+Bupa,stress & pressure,1.7543859649122806,57
+Bupa,teamwork & collaboration,3.3622047244094486,127
+Bupa,tools & resources,3.3545454545454545,110
+Bupa,work-life balance,3.090909090909091,176
+Burberry,culture,2.8343949044585988,157
+Burberry,growth & learning,2.245398773006135,163
+Burberry,hr & recruitment,2.814516129032258,124
+Burberry,job role clarity,2.106382978723404,47
+Burberry,management,1.9613259668508287,181
+Burberry,office & location,3.2988505747126435,87
+Burberry,pay,2.476510067114094,149
+Burberry,people,3.0588235294117645,153
+Burberry,perks & benefits,3.9261083743842367,203
+Burberry,stress & pressure,1.8793103448275863,58
+Burberry,teamwork & collaboration,2.8,90
+Burberry,tools & resources,2.8536585365853657,41
+Burberry,work-life balance,2.4927536231884058,138
+CBRE,culture,3.104761904761905,105
+CBRE,growth & learning,3.388888888888889,180
+CBRE,hr & recruitment,2.6545454545454548,110
+CBRE,job role clarity,2.5161290322580645,31
+CBRE,management,2.1176470588235294,136
+CBRE,office & location,3.0,61
+CBRE,pay,2.263565891472868,129
+CBRE,people,3.625,104
+CBRE,perks & benefits,2.923076923076923,52
+CBRE,stress & pressure,2.142857142857143,35
+CBRE,teamwork & collaboration,3.3536585365853657,82
+CBRE,tools & resources,2.675675675675676,74
+CBRE,work-life balance,2.735294117647059,102
+CVS Group,culture,3.357142857142857,14
+CVS Group,growth & learning,3.6296296296296298,27
+CVS Group,hr & recruitment,2.8684210526315788,38
+CVS Group,job role clarity,3.2,5
+CVS Group,management,2.5833333333333335,24
+CVS Group,office & location,3.25,12
+CVS Group,pay,2.775,40
+CVS Group,people,3.411764705882353,17
+CVS Group,perks & benefits,3.4210526315789473,19
+CVS Group,stress & pressure,1.818181818181818,11
+CVS Group,teamwork & collaboration,4.0,23
+CVS Group,tools & resources,3.25,28
+CVS Group,work-life balance,3.1,30
+Cambridge Assessment,culture,3.026315789473684,38
+Cambridge Assessment,growth & learning,3.12,50
+Cambridge Assessment,hr & recruitment,3.054054054054054,37
+Cambridge Assessment,job role clarity,3.0,15
+Cambridge Assessment,management,2.111111111111111,54
+Cambridge Assessment,office & location,3.39622641509434,53
+Cambridge Assessment,pay,2.6458333333333335,48
+Cambridge Assessment,people,3.3777777777777778,45
+Cambridge Assessment,perks & benefits,3.914285714285714,35
+Cambridge Assessment,stress & pressure,3.0833333333333335,12
+Cambridge Assessment,teamwork & collaboration,3.310344827586207,29
+Cambridge Assessment,tools & resources,3.3333333333333335,24
+Cambridge Assessment,work-life balance,3.5319148936170213,47
+Capita,culture,2.4049217002237135,447
+Capita,growth & learning,2.6115444617784713,641
+Capita,hr & recruitment,2.2913256955810146,611
+Capita,job role clarity,2.5167785234899327,149
+Capita,management,1.891364902506964,718
+Capita,office & location,2.732522796352584,329
+Capita,pay,2.0989159891598916,738
+Capita,people,3.1603927986906712,611
+Capita,perks & benefits,2.8847457627118644,295
+Capita,stress & pressure,2.095890410958904,146
+Capita,teamwork & collaboration,3.0127877237851663,391
+Capita,tools & resources,2.6777777777777776,270
+Capita,work-life balance,2.910569105691057,492
+Capital Group,culture,3.0,34
+Capital Group,growth & learning,2.857142857142857,21
+Capital Group,hr & recruitment,2.375,16
+Capital Group,job role clarity,2.75,4
+Capital Group,management,2.8518518518518516,27
+Capital Group,office & location,2.875,16
+Capital Group,pay,3.357142857142857,14
+Capital Group,people,3.375,24
+Capital Group,perks & benefits,4.0,25
+Capital Group,stress & pressure,2.0,7
+Capital Group,teamwork & collaboration,3.1875,16
+Capital Group,tools & resources,3.4285714285714284,7
+Capital Group,work-life balance,3.391304347826087,23
+CarShop UK,culture,4.270588235294118,85
+CarShop UK,growth & learning,4.1645569620253164,79
+CarShop UK,hr & recruitment,4.0,68
+CarShop UK,job role clarity,3.5714285714285716,14
+CarShop UK,management,3.852941176470588,68
+CarShop UK,office & location,3.533333333333333,15
+CarShop UK,pay,3.8421052631578942,76
+CarShop UK,people,4.194805194805195,77
+CarShop UK,perks & benefits,3.902439024390244,41
+CarShop UK,stress & pressure,2.757575757575758,33
+CarShop UK,teamwork & collaboration,4.315068493150685,73
+CarShop UK,tools & resources,4.615384615384615,39
+CarShop UK,work-life balance,2.909090909090909,66
+Care UK,culture,3.2452830188679247,53
+Care UK,growth & learning,3.6779661016949152,59
+Care UK,hr & recruitment,2.7746478873239435,142
+Care UK,job role clarity,3.1818181818181817,22
+Care UK,management,2.363636363636364,88
+Care UK,office & location,2.5833333333333335,36
+Care UK,pay,2.363636363636364,110
+Care UK,people,3.6,50
+Care UK,perks & benefits,3.111111111111111,45
+Care UK,stress & pressure,1.8928571428571428,28
+Care UK,teamwork & collaboration,3.6307692307692303,65
+Care UK,tools & resources,3.156862745098039,51
+Care UK,work-life balance,2.6373626373626373,91
+Christie s,culture,3.466666666666667,30
+Christie s,growth & learning,3.169811320754717,53
+Christie s,hr & recruitment,2.8857142857142857,35
+Christie s,job role clarity,3.090909090909091,11
+Christie s,management,1.85,20
+Christie s,office & location,3.357142857142857,14
+Christie s,pay,1.9411764705882353,34
+Christie s,people,4.071428571428571,42
+Christie s,perks & benefits,4.166666666666667,12
+Christie s,stress & pressure,2.4285714285714284,14
+Christie s,teamwork & collaboration,3.6875,16
+Christie s,tools & resources,3.4545454545454546,22
+Christie s,work-life balance,2.5714285714285716,21
+Cisco Systems,culture,3.7794871794871794,195
+Cisco Systems,growth & learning,3.2590673575129534,193
+Cisco Systems,hr & recruitment,3.267326732673267,101
+Cisco Systems,job role clarity,3.2045454545454546,44
+Cisco Systems,management,2.435754189944134,179
+Cisco Systems,office & location,3.357142857142857,70
+Cisco Systems,pay,3.0232558139534884,129
+Cisco Systems,people,3.6235955056179776,178
+Cisco Systems,perks & benefits,4.100671140939597,149
+Cisco Systems,stress & pressure,2.911764705882353,34
+Cisco Systems,teamwork & collaboration,3.1463414634146343,82
+Cisco Systems,tools & resources,3.510344827586207,145
+Cisco Systems,work-life balance,3.7830687830687832,189
+Citi,culture,3.304761904761905,210
+Citi,growth & learning,3.4141791044776117,268
+Citi,hr & recruitment,2.889908256880734,109
+Citi,job role clarity,2.909090909090909,33
+Citi,management,2.041284403669725,218
+Citi,office & location,2.973913043478261,115
+Citi,pay,2.5591397849462365,186
+Citi,people,3.631016042780749,187
+Citi,perks & benefits,3.701149425287357,87
+Citi,stress & pressure,1.8507462686567164,67
+Citi,teamwork & collaboration,3.417910447761194,134
+Citi,tools & resources,2.9473684210526314,95
+Citi,work-life balance,2.9043062200956937,209
+Citizens Advice,culture,3.148936170212766,47
+Citizens Advice,growth & learning,3.3389830508474576,59
+Citizens Advice,hr & recruitment,3.056338028169014,71
+Citizens Advice,job role clarity,2.6,20
+Citizens Advice,management,2.3783783783783785,37
+Citizens Advice,office & location,2.84,25
+Citizens Advice,pay,2.278688524590164,61
+Citizens Advice,people,3.9305555555555554,72
+Citizens Advice,perks & benefits,3.0,11
+Citizens Advice,stress & pressure,1.7058823529411764,17
+Citizens Advice,teamwork & collaboration,3.789473684210526,38
+Citizens Advice,tools & resources,3.763157894736842,38
+Citizens Advice,work-life balance,3.3333333333333335,30
+CityFibre,culture,3.7586206896551726,29
+CityFibre,growth & learning,3.4285714285714284,28
+CityFibre,hr & recruitment,3.2,20
+CityFibre,job role clarity,3.125,8
+CityFibre,management,3.4285714285714284,21
+CityFibre,office & location,3.25,8
+CityFibre,pay,3.4444444444444446,9
+CityFibre,people,3.863636363636364,22
+CityFibre,perks & benefits,4.571428571428571,7
+CityFibre,stress & pressure,3.6666666666666665,12
+CityFibre,teamwork & collaboration,4.473684210526316,19
+CityFibre,tools & resources,3.619047619047619,21
+CityFibre,work-life balance,4.166666666666667,12
+Civil Service United Kingdom,culture,3.2564102564102564,39
+Civil Service United Kingdom,growth & learning,3.089430894308943,123
+Civil Service United Kingdom,hr & recruitment,3.076923076923077,65
+Civil Service United Kingdom,job role clarity,2.727272727272727,33
+Civil Service United Kingdom,management,2.0125,80
+Civil Service United Kingdom,office & location,2.933333333333333,30
+Civil Service United Kingdom,pay,2.111764705882353,170
+Civil Service United Kingdom,people,3.375,56
+Civil Service United Kingdom,perks & benefits,3.6511627906976742,86
+Civil Service United Kingdom,stress & pressure,1.7222222222222223,18
+Civil Service United Kingdom,teamwork & collaboration,3.111111111111111,27
+Civil Service United Kingdom,tools & resources,3.125,32
+Civil Service United Kingdom,work-life balance,3.7218543046357615,151
+Co op,culture,3.236051502145923,233
+Co op,growth & learning,3.125560538116592,223
+Co op,hr & recruitment,2.5914221218961626,443
+Co op,job role clarity,2.585858585858586,99
+Co op,management,2.137662337662338,385
+Co op,office & location,2.6231884057971016,138
+Co op,pay,2.9512635379061374,554
+Co op,people,3.28,350
+Co op,perks & benefits,3.358974358974359,273
+Co op,stress & pressure,1.9375,144
+Co op,teamwork & collaboration,3.4280442804428044,271
+Co op,tools & resources,2.9702970297029703,101
+Co op,work-life balance,2.697058823529412,680
+Colosseum Dental,culture,1.6666666666666667,6
+Colosseum Dental,growth & learning,4.4,5
+Colosseum Dental,hr & recruitment,2.6666666666666665,12
+Colosseum Dental,job role clarity,2.0,1
+Colosseum Dental,management,2.5,14
+Colosseum Dental,office & location,2.6666666666666665,3
+Colosseum Dental,pay,1.8571428571428572,7
+Colosseum Dental,people,2.6666666666666665,3
+Colosseum Dental,perks & benefits,3.4,10
+Colosseum Dental,stress & pressure,1.0,2
+Colosseum Dental,teamwork & collaboration,4.0,13
+Colosseum Dental,tools & resources,2.5,8
+Colosseum Dental,work-life balance,2.25,4
+Colt Technology Services,culture,3.86734693877551,98
+Colt Technology Services,growth & learning,3.692307692307693,91
+Colt Technology Services,hr & recruitment,3.18,50
+Colt Technology Services,job role clarity,3.0,33
+Colt Technology Services,management,2.9285714285714284,112
+Colt Technology Services,office & location,3.5652173913043477,46
+Colt Technology Services,pay,3.5,50
+Colt Technology Services,people,3.652173913043478,92
+Colt Technology Services,perks & benefits,4.063492063492063,63
+Colt Technology Services,stress & pressure,2.5714285714285716,14
+Colt Technology Services,teamwork & collaboration,3.513157894736842,76
+Colt Technology Services,tools & resources,3.515151515151515,66
+Colt Technology Services,work-life balance,3.806451612903226,93
+Communities and Local Government,culture,3.4375,16
+Communities and Local Government,growth & learning,2.925925925925926,27
+Communities and Local Government,hr & recruitment,2.9444444444444446,18
+Communities and Local Government,job role clarity,3.1666666666666665,6
+Communities and Local Government,management,2.1875,16
+Communities and Local Government,office & location,3.4285714285714284,14
+Communities and Local Government,pay,2.3333333333333335,24
+Communities and Local Government,people,3.588235294117647,17
+Communities and Local Government,perks & benefits,3.7142857142857144,7
+Communities and Local Government,stress & pressure,1.9090909090909092,11
+Communities and Local Government,teamwork & collaboration,3.6666666666666665,9
+Communities and Local Government,tools & resources,4.142857142857143,7
+Communities and Local Government,work-life balance,3.8260869565217392,23
+Compass Group,culture,2.5588235294117645,102
+Compass Group,growth & learning,3.3125,176
+Compass Group,hr & recruitment,2.6187845303867405,181
+Compass Group,job role clarity,2.53125,32
+Compass Group,management,2.128712871287129,202
+Compass Group,office & location,2.7222222222222223,72
+Compass Group,pay,2.5,262
+Compass Group,people,3.176056338028169,142
+Compass Group,perks & benefits,3.1551724137931036,116
+Compass Group,stress & pressure,1.543859649122807,57
+Compass Group,teamwork & collaboration,3.0833333333333335,96
+Compass Group,tools & resources,2.519230769230769,52
+Compass Group,work-life balance,2.759856630824373,279
+Countrywide plc,culture,2.6333333333333333,60
+Countrywide plc,growth & learning,3.4864864864864864,111
+Countrywide plc,hr & recruitment,2.9285714285714284,154
+Countrywide plc,job role clarity,2.263157894736842,19
+Countrywide plc,management,2.3271028037383177,107
+Countrywide plc,office & location,2.625,64
+Countrywide plc,pay,2.335766423357664,137
+Countrywide plc,people,3.2289156626506026,83
+Countrywide plc,perks & benefits,2.913793103448276,58
+Countrywide plc,stress & pressure,1.7073170731707317,41
+Countrywide plc,teamwork & collaboration,3.2794117647058822,68
+Countrywide plc,tools & resources,2.966666666666667,60
+Countrywide plc,work-life balance,2.5522388059701493,67
+Covea Insurance,culture,4.125,32
+Covea Insurance,growth & learning,4.083333333333333,36
+Covea Insurance,hr & recruitment,3.727272727272727,22
+Covea Insurance,job role clarity,4.4,5
+Covea Insurance,management,3.608695652173913,23
+Covea Insurance,office & location,2.7666666666666666,30
+Covea Insurance,pay,2.636363636363636,22
+Covea Insurance,people,4.0625,32
+Covea Insurance,perks & benefits,3.75,16
+Covea Insurance,stress & pressure,4.0,3
+Covea Insurance,teamwork & collaboration,3.9130434782608696,23
+Covea Insurance,tools & resources,4.04,25
+Covea Insurance,work-life balance,3.9583333333333335,24
+Creative Support,culture,1.7179487179487178,39
+Creative Support,growth & learning,3.155555555555555,45
+Creative Support,hr & recruitment,2.506849315068493,146
+Creative Support,job role clarity,2.21875,32
+Creative Support,management,2.058252427184466,103
+Creative Support,office & location,3.08,25
+Creative Support,pay,1.6285714285714286,105
+Creative Support,people,2.9672131147540983,61
+Creative Support,perks & benefits,2.269230769230769,26
+Creative Support,stress & pressure,1.3157894736842106,19
+Creative Support,teamwork & collaboration,3.2954545454545454,44
+Creative Support,tools & resources,2.4269662921348316,89
+Creative Support,work-life balance,2.0416666666666665,72
+Cromwell Tools,culture,3.566666666666667,30
+Cromwell Tools,growth & learning,3.701754385964912,57
+Cromwell Tools,hr & recruitment,2.952380952380953,63
+Cromwell Tools,job role clarity,3.0,14
+Cromwell Tools,management,2.8157894736842106,76
+Cromwell Tools,office & location,3.1333333333333333,15
+Cromwell Tools,pay,2.823529411764706,51
+Cromwell Tools,people,3.4078947368421053,76
+Cromwell Tools,perks & benefits,4.0,33
+Cromwell Tools,stress & pressure,2.636363636363636,11
+Cromwell Tools,teamwork & collaboration,3.962264150943396,53
+Cromwell Tools,tools & resources,4.03125,32
+Cromwell Tools,work-life balance,3.3181818181818183,22
+Crown Prosecution Service,culture,2.0,14
+Crown Prosecution Service,growth & learning,2.9,20
+Crown Prosecution Service,hr & recruitment,2.4285714285714284,21
+Crown Prosecution Service,job role clarity,2.25,8
+Crown Prosecution Service,management,1.3,20
+Crown Prosecution Service,office & location,3.0,3
+Crown Prosecution Service,pay,2.619047619047619,21
+Crown Prosecution Service,people,3.533333333333333,15
+Crown Prosecution Service,perks & benefits,3.111111111111111,9
+Crown Prosecution Service,stress & pressure,1.9,10
+Crown Prosecution Service,teamwork & collaboration,2.8,5
+Crown Prosecution Service,tools & resources,2.5384615384615383,13
+Crown Prosecution Service,work-life balance,3.5517241379310347,29
+Curtis Banks,culture,2.7142857142857144,21
+Curtis Banks,growth & learning,2.4782608695652173,23
+Curtis Banks,hr & recruitment,2.433333333333333,30
+Curtis Banks,job role clarity,2.7142857142857144,7
+Curtis Banks,management,1.896551724137931,29
+Curtis Banks,office & location,3.363636363636364,22
+Curtis Banks,pay,1.8095238095238095,21
+Curtis Banks,people,3.142857142857143,21
+Curtis Banks,perks & benefits,2.8333333333333335,12
+Curtis Banks,stress & pressure,2.2857142857142856,7
+Curtis Banks,teamwork & collaboration,2.75,20
+Curtis Banks,tools & resources,3.1666666666666665,12
+Curtis Banks,work-life balance,3.75,8
+Cushman and Wakefield,culture,3.0,39
+Cushman and Wakefield,growth & learning,3.0232558139534884,43
+Cushman and Wakefield,hr & recruitment,2.774193548387097,31
+Cushman and Wakefield,job role clarity,2.363636363636364,11
+Cushman and Wakefield,management,2.4857142857142858,35
+Cushman and Wakefield,office & location,3.0454545454545454,22
+Cushman and Wakefield,pay,1.868421052631579,38
+Cushman and Wakefield,people,3.5128205128205128,39
+Cushman and Wakefield,perks & benefits,3.3157894736842106,19
+Cushman and Wakefield,stress & pressure,1.1428571428571428,7
+Cushman and Wakefield,teamwork & collaboration,3.161290322580645,31
+Cushman and Wakefield,tools & resources,3.136363636363636,22
+Cushman and Wakefield,work-life balance,3.1666666666666665,36
+Cygnet Health Care,culture,2.9,30
+Cygnet Health Care,growth & learning,2.8275862068965516,29
+Cygnet Health Care,hr & recruitment,2.8947368421052633,95
+Cygnet Health Care,job role clarity,3.0833333333333335,12
+Cygnet Health Care,management,2.407407407407407,54
+Cygnet Health Care,office & location,3.5416666666666665,24
+Cygnet Health Care,pay,2.593220338983051,59
+Cygnet Health Care,people,3.4705882352941178,17
+Cygnet Health Care,perks & benefits,3.642857142857143,42
+Cygnet Health Care,stress & pressure,1.6153846153846154,13
+Cygnet Health Care,teamwork & collaboration,3.769230769230769,52
+Cygnet Health Care,tools & resources,3.148936170212766,47
+Cygnet Health Care,work-life balance,2.6379310344827585,58
+DFID,culture,2.6666666666666665,3
+DFID,growth & learning,3.8333333333333335,6
+DFID,hr & recruitment,3.0,4
+DFID,job role clarity,4.0,4
+DFID,management,2.3333333333333335,9
+DFID,office & location,4.0,1
+DFID,pay,2.0,3
+DFID,people,3.888888888888889,9
+DFID,perks & benefits,2.0,1
+DFID,stress & pressure,1.5,2
+DFID,teamwork & collaboration,3.5,2
+DFID,tools & resources,4.0,2
+DFID,work-life balance,3.5,4
+DFS Furniture,culture,3.8484848484848486,33
+DFS Furniture,growth & learning,3.3947368421052633,38
+DFS Furniture,hr & recruitment,3.5238095238095237,42
+DFS Furniture,job role clarity,3.6875,16
+DFS Furniture,management,2.5416666666666665,24
+DFS Furniture,office & location,3.5625,16
+DFS Furniture,pay,3.231884057971014,69
+DFS Furniture,people,3.625,32
+DFS Furniture,perks & benefits,3.5217391304347827,23
+DFS Furniture,stress & pressure,1.851851851851852,27
+DFS Furniture,teamwork & collaboration,3.7142857142857144,21
+DFS Furniture,tools & resources,3.2142857142857144,14
+DFS Furniture,work-life balance,2.661290322580645,62
+DHL Supply Chain,culture,2.7228915662650603,83
+DHL Supply Chain,growth & learning,3.227272727272727,132
+DHL Supply Chain,hr & recruitment,2.6923076923076925,117
+DHL Supply Chain,job role clarity,3.0,27
+DHL Supply Chain,management,2.016574585635359,181
+DHL Supply Chain,office & location,2.9166666666666665,60
+DHL Supply Chain,pay,2.9360730593607305,219
+DHL Supply Chain,people,3.1176470588235294,85
+DHL Supply Chain,perks & benefits,3.4941176470588236,85
+DHL Supply Chain,stress & pressure,2.0681818181818183,44
+DHL Supply Chain,teamwork & collaboration,3.0793650793650795,63
+DHL Supply Chain,tools & resources,2.7450980392156863,51
+DHL Supply Chain,work-life balance,2.672316384180791,177
+DPDgroup,culture,2.5833333333333335,36
+DPDgroup,growth & learning,2.84,25
+DPDgroup,hr & recruitment,2.82,50
+DPDgroup,job role clarity,2.363636363636364,11
+DPDgroup,management,1.8615384615384616,65
+DPDgroup,office & location,2.8,10
+DPDgroup,pay,3.125,112
+DPDgroup,people,2.923076923076923,26
+DPDgroup,perks & benefits,3.8,25
+DPDgroup,stress & pressure,1.864864864864865,37
+DPDgroup,teamwork & collaboration,3.3157894736842106,19
+DPDgroup,tools & resources,2.375,8
+DPDgroup,work-life balance,2.3707865168539324,89
+DWF,culture,3.0869565217391304,92
+DWF,growth & learning,3.0875,80
+DWF,hr & recruitment,2.602409638554217,83
+DWF,job role clarity,2.9375,16
+DWF,management,2.125,80
+DWF,office & location,3.289156626506024,83
+DWF,pay,2.2025316455696204,79
+DWF,people,3.3854166666666665,96
+DWF,perks & benefits,3.3,50
+DWF,stress & pressure,2.34375,32
+DWF,teamwork & collaboration,3.1774193548387095,62
+DWF,tools & resources,3.2244897959183674,49
+DWF,work-life balance,3.243243243243243,74
+David Lloyd Leisure,culture,3.4864864864864864,74
+David Lloyd Leisure,growth & learning,2.7586206896551726,58
+David Lloyd Leisure,hr & recruitment,2.517857142857143,112
+David Lloyd Leisure,job role clarity,1.8235294117647056,17
+David Lloyd Leisure,management,1.6574074074074074,108
+David Lloyd Leisure,office & location,2.875,56
+David Lloyd Leisure,pay,2.107692307692308,130
+David Lloyd Leisure,people,3.0945945945945947,74
+David Lloyd Leisure,perks & benefits,3.4728682170542635,129
+David Lloyd Leisure,stress & pressure,1.6111111111111112,36
+David Lloyd Leisure,teamwork & collaboration,3.2758620689655173,58
+David Lloyd Leisure,tools & resources,2.56,25
+David Lloyd Leisure,work-life balance,2.328358208955224,134
+Debenhams,culture,2.9849624060150375,266
+Debenhams,growth & learning,2.6180555555555554,288
+Debenhams,hr & recruitment,2.737463126843658,678
+Debenhams,job role clarity,2.4956521739130433,115
+Debenhams,management,1.8934108527131783,516
+Debenhams,office & location,2.8922155688622753,167
+Debenhams,pay,2.03099173553719,484
+Debenhams,people,3.4436274509803924,408
+Debenhams,perks & benefits,3.3558823529411765,340
+Debenhams,stress & pressure,1.722543352601156,173
+Debenhams,teamwork & collaboration,3.64,300
+Debenhams,tools & resources,2.8404255319148937,94
+Debenhams,work-life balance,2.7203703703703703,540
+Deloitte,culture,3.259036144578314,498
+Deloitte,growth & learning,3.5841487279843443,1022
+Deloitte,hr & recruitment,3.0816733067729083,502
+Deloitte,job role clarity,2.617142857142857,175
+Deloitte,management,2.220183486238532,436
+Deloitte,office & location,3.253846153846154,260
+Deloitte,pay,1.9817671809256665,713
+Deloitte,people,3.724675324675325,770
+Deloitte,perks & benefits,3.3057851239669422,242
+Deloitte,stress & pressure,1.7864583333333333,384
+Deloitte,teamwork & collaboration,3.432515337423313,326
+Deloitte,tools & resources,3.390909090909091,330
+Deloitte,work-life balance,2.561023622047244,1016
+Department for Work And Pensions,culture,2.5483870967741935,93
+Department for Work And Pensions,growth & learning,2.824324324324324,148
+Department for Work And Pensions,hr & recruitment,2.4357142857142855,140
+Department for Work And Pensions,job role clarity,2.8043478260869565,46
+Department for Work And Pensions,management,1.8403361344537816,119
+Department for Work And Pensions,office & location,2.769230769230769,52
+Department for Work And Pensions,pay,2.69375,160
+Department for Work And Pensions,people,3.3865546218487395,119
+Department for Work And Pensions,perks & benefits,3.4479166666666665,96
+Department for Work And Pensions,stress & pressure,2.051282051282051,39
+Department for Work And Pensions,teamwork & collaboration,3.15,60
+Department for Work And Pensions,tools & resources,3.142857142857143,63
+Department for Work And Pensions,work-life balance,3.625698324022346,179
+Department of Health UK,culture,3.3,10
+Department of Health UK,growth & learning,2.7222222222222223,18
+Department of Health UK,hr & recruitment,2.6666666666666665,9
+Department of Health UK,job role clarity,4.0,3
+Department of Health UK,management,2.0,12
+Department of Health UK,office & location,2.5,4
+Department of Health UK,pay,2.4,10
+Department of Health UK,people,3.1,10
+Department of Health UK,perks & benefits,2.75,8
+Department of Health UK,stress & pressure,2.0,2
+Department of Health UK,teamwork & collaboration,3.6666666666666665,6
+Department of Health UK,tools & resources,3.4285714285714284,7
+Department of Health UK,work-life balance,3.8333333333333335,12
+Deutsche Bank,culture,2.94140625,256
+Deutsche Bank,growth & learning,3.0838926174496644,298
+Deutsche Bank,hr & recruitment,2.6458333333333335,144
+Deutsche Bank,job role clarity,2.606060606060606,66
+Deutsche Bank,management,2.0311418685121105,289
+Deutsche Bank,office & location,2.9776119402985075,134
+Deutsche Bank,pay,2.621722846441948,267
+Deutsche Bank,people,3.476534296028881,277
+Deutsche Bank,perks & benefits,3.806060606060606,165
+Deutsche Bank,stress & pressure,2.185185185185185,54
+Deutsche Bank,teamwork & collaboration,3.072463768115942,138
+Deutsche Bank,tools & resources,2.824,125
+Deutsche Bank,work-life balance,3.371900826446281,242
+Diageo,culture,3.6341463414634143,82
+Diageo,growth & learning,3.493333333333333,75
+Diageo,hr & recruitment,3.0,46
+Diageo,job role clarity,3.107142857142857,28
+Diageo,management,2.4,65
+Diageo,office & location,3.473684210526316,38
+Diageo,pay,2.381818181818182,55
+Diageo,people,3.74,100
+Diageo,perks & benefits,4.131147540983607,61
+Diageo,stress & pressure,2.6666666666666665,12
+Diageo,teamwork & collaboration,3.3076923076923075,26
+Diageo,tools & resources,3.05,20
+Diageo,work-life balance,3.7115384615384617,52
+Diligenta,culture,2.130434782608696,23
+Diligenta,growth & learning,2.102564102564102,39
+Diligenta,hr & recruitment,2.3043478260869565,46
+Diligenta,job role clarity,2.3076923076923075,13
+Diligenta,management,2.066666666666667,45
+Diligenta,office & location,3.0,33
+Diligenta,pay,1.7169811320754718,53
+Diligenta,people,2.9555555555555557,45
+Diligenta,perks & benefits,2.5,24
+Diligenta,stress & pressure,1.3333333333333333,9
+Diligenta,teamwork & collaboration,2.576923076923077,26
+Diligenta,tools & resources,2.5,26
+Diligenta,work-life balance,3.0,40
+Dixons Carphone,culture,3.1846153846153844,325
+Dixons Carphone,growth & learning,2.869179600886918,451
+Dixons Carphone,hr & recruitment,2.63047619047619,525
+Dixons Carphone,job role clarity,2.609090909090909,110
+Dixons Carphone,management,1.9967479674796749,615
+Dixons Carphone,office & location,2.802197802197802,182
+Dixons Carphone,pay,2.6554524361948957,862
+Dixons Carphone,people,3.24853228962818,511
+Dixons Carphone,perks & benefits,3.2589073634204277,421
+Dixons Carphone,stress & pressure,1.7335640138408304,289
+Dixons Carphone,teamwork & collaboration,3.3085106382978724,282
+Dixons Carphone,tools & resources,3.138655462184874,238
+Dixons Carphone,work-life balance,2.6051188299817185,547
+Dynatrace,culture,4.0,13
+Dynatrace,growth & learning,3.466666666666667,15
+Dynatrace,hr & recruitment,4.4,10
+Dynatrace,job role clarity,4.333333333333333,3
+Dynatrace,management,3.647058823529412,17
+Dynatrace,office & location,3.727272727272727,11
+Dynatrace,pay,3.6153846153846154,13
+Dynatrace,people,3.7142857142857144,14
+Dynatrace,perks & benefits,4.2,5
+Dynatrace,stress & pressure,2.0,1
+Dynatrace,teamwork & collaboration,4.0,16
+Dynatrace,tools & resources,4.066666666666666,15
+Dynatrace,work-life balance,4.0,4
+EBRD,culture,3.287878787878788,66
+EBRD,growth & learning,2.0112359550561796,89
+EBRD,hr & recruitment,2.25,52
+EBRD,job role clarity,2.6,10
+EBRD,management,1.4941176470588236,85
+EBRD,office & location,3.128205128205128,39
+EBRD,pay,2.3043478260869565,69
+EBRD,people,3.157142857142857,70
+EBRD,perks & benefits,3.38,50
+EBRD,stress & pressure,3.3333333333333335,9
+EBRD,teamwork & collaboration,3.0952380952380953,21
+EBRD,tools & resources,2.5,18
+EBRD,work-life balance,3.896551724137931,58
+ENGIE,culture,2.7636363636363637,55
+ENGIE,growth & learning,2.742424242424242,66
+ENGIE,hr & recruitment,2.5,58
+ENGIE,job role clarity,2.6,20
+ENGIE,management,1.948717948717949,78
+ENGIE,office & location,3.0,29
+ENGIE,pay,2.447058823529412,85
+ENGIE,people,3.14,50
+ENGIE,perks & benefits,3.027027027027027,37
+ENGIE,stress & pressure,1.818181818181818,11
+ENGIE,teamwork & collaboration,2.9705882352941178,34
+ENGIE,tools & resources,2.619047619047619,21
+ENGIE,work-life balance,3.074074074074074,54
+EY,culture,3.4324734446130503,659
+EY,growth & learning,3.5192127460168696,1067
+EY,hr & recruitment,3.106635071090047,422
+EY,job role clarity,2.7111111111111112,135
+EY,management,2.0508849557522124,452
+EY,office & location,3.2669039145907472,281
+EY,pay,1.9454297407912688,733
+EY,people,3.64247311827957,744
+EY,perks & benefits,3.167464114832536,209
+EY,stress & pressure,1.7459893048128343,374
+EY,teamwork & collaboration,3.2216981132075473,424
+EY,tools & resources,3.376543209876543,324
+EY,work-life balance,2.7478184991273995,1146
+East Sussex County Council,culture,3.3333333333333335,6
+East Sussex County Council,growth & learning,3.5,8
+East Sussex County Council,hr & recruitment,2.8333333333333335,6
+East Sussex County Council,job role clarity,3.3333333333333335,3
+East Sussex County Council,management,2.7142857142857144,7
+East Sussex County Council,office & location,2.5,4
+East Sussex County Council,pay,2.7142857142857144,14
+East Sussex County Council,people,3.7,10
+East Sussex County Council,perks & benefits,4.25,4
+East Sussex County Council,stress & pressure,2.0,3
+East Sussex County Council,teamwork & collaboration,3.6666666666666665,9
+East Sussex County Council,tools & resources,3.3333333333333335,9
+East Sussex County Council,work-life balance,3.2857142857142856,7
+Egon Zehnder,culture,3.0,7
+Egon Zehnder,growth & learning,2.5,12
+Egon Zehnder,hr & recruitment,3.2,10
+Egon Zehnder,job role clarity,3.5,2
+Egon Zehnder,management,3.1666666666666665,6
+Egon Zehnder,office & location,3.4444444444444446,9
+Egon Zehnder,pay,2.0,6
+Egon Zehnder,people,3.8333333333333335,12
+Egon Zehnder,perks & benefits,4.0,3
+Egon Zehnder,stress & pressure,1.8,5
+Egon Zehnder,teamwork & collaboration,3.625,8
+Egon Zehnder,tools & resources,2.727272727272727,11
+Egon Zehnder,work-life balance,3.2857142857142856,7
+Equiniti,culture,2.8125,48
+Equiniti,growth & learning,2.8823529411764706,68
+Equiniti,hr & recruitment,2.642857142857143,70
+Equiniti,job role clarity,2.588235294117647,17
+Equiniti,management,2.484375,64
+Equiniti,office & location,2.909090909090909,44
+Equiniti,pay,1.9850746268656716,67
+Equiniti,people,3.3582089552238807,67
+Equiniti,perks & benefits,3.081081081081081,37
+Equiniti,stress & pressure,2.4,10
+Equiniti,teamwork & collaboration,3.3513513513513513,37
+Equiniti,tools & resources,2.931034482758621,29
+Equiniti,work-life balance,3.4130434782608696,46
+Eversheds Sutherland,culture,3.1176470588235294,34
+Eversheds Sutherland,growth & learning,2.5806451612903225,31
+Eversheds Sutherland,hr & recruitment,3.130434782608696,23
+Eversheds Sutherland,job role clarity,3.0,9
+Eversheds Sutherland,management,2.433333333333333,30
+Eversheds Sutherland,office & location,3.28125,32
+Eversheds Sutherland,pay,2.5,42
+Eversheds Sutherland,people,3.3666666666666667,30
+Eversheds Sutherland,perks & benefits,3.6153846153846154,13
+Eversheds Sutherland,stress & pressure,1.875,8
+Eversheds Sutherland,teamwork & collaboration,3.8260869565217392,23
+Eversheds Sutherland,tools & resources,3.136363636363636,22
+Eversheds Sutherland,work-life balance,2.9642857142857144,28
+Everyone Active,culture,3.0,23
+Everyone Active,growth & learning,2.896551724137931,29
+Everyone Active,hr & recruitment,2.5714285714285716,49
+Everyone Active,job role clarity,2.875,8
+Everyone Active,management,2.163265306122449,49
+Everyone Active,office & location,3.4444444444444446,18
+Everyone Active,pay,2.296875,64
+Everyone Active,people,3.3703703703703702,27
+Everyone Active,perks & benefits,3.735294117647059,34
+Everyone Active,stress & pressure,1.5454545454545454,11
+Everyone Active,teamwork & collaboration,3.619047619047619,21
+Everyone Active,tools & resources,3.1176470588235294,17
+Everyone Active,work-life balance,2.76271186440678,59
+FARFETCH,culture,3.6779661016949152,59
+FARFETCH,growth & learning,2.971830985915493,71
+FARFETCH,hr & recruitment,2.264705882352941,34
+FARFETCH,job role clarity,2.75,8
+FARFETCH,management,2.4081632653061225,49
+FARFETCH,office & location,3.4594594594594597,37
+FARFETCH,pay,2.3783783783783785,37
+FARFETCH,people,3.4634146341463414,41
+FARFETCH,perks & benefits,3.9565217391304346,46
+FARFETCH,stress & pressure,2.8181818181818183,22
+FARFETCH,teamwork & collaboration,3.107142857142857,56
+FARFETCH,tools & resources,2.5714285714285716,21
+FARFETCH,work-life balance,3.6666666666666665,39
+FYXER,culture,2.8421052631578947,19
+FYXER,growth & learning,2.9473684210526314,19
+FYXER,hr & recruitment,2.1333333333333333,15
+FYXER,job role clarity,2.7857142857142856,14
+FYXER,management,2.1538461538461537,26
+FYXER,office & location,2.6666666666666665,12
+FYXER,pay,2.125,16
+FYXER,people,2.869565217391304,23
+FYXER,perks & benefits,2.363636363636364,11
+FYXER,stress & pressure,1.9,10
+FYXER,teamwork & collaboration,3.324324324324324,37
+FYXER,tools & resources,3.75,20
+FYXER,work-life balance,2.8260869565217392,23
+Facebook,culture,3.6787878787878783,165
+Facebook,growth & learning,3.5714285714285716,119
+Facebook,hr & recruitment,3.3947368421052633,38
+Facebook,job role clarity,2.810810810810811,37
+Facebook,management,2.7674418604651163,86
+Facebook,office & location,3.6666666666666665,72
+Facebook,pay,3.658536585365854,123
+Facebook,people,3.7142857142857144,182
+Facebook,perks & benefits,4.191489361702128,188
+Facebook,stress & pressure,2.140845070422535,71
+Facebook,teamwork & collaboration,3.259259259259259,81
+Facebook,tools & resources,3.772727272727273,88
+Facebook,work-life balance,2.806201550387597,129
+FirstPort,culture,3.587301587301587,63
+FirstPort,growth & learning,3.932584269662921,89
+FirstPort,hr & recruitment,3.451219512195122,82
+FirstPort,job role clarity,3.413793103448276,29
+FirstPort,management,3.3194444444444446,72
+FirstPort,office & location,3.264705882352941,34
+FirstPort,pay,2.2857142857142856,49
+FirstPort,people,3.875,64
+FirstPort,perks & benefits,3.5,22
+FirstPort,stress & pressure,3.090909090909091,11
+FirstPort,teamwork & collaboration,4.102941176470588,68
+FirstPort,tools & resources,4.069444444444445,72
+FirstPort,work-life balance,3.7142857142857144,21
+Foreign and Commonwealth Office,culture,2.25,8
+Foreign and Commonwealth Office,growth & learning,3.3076923076923075,26
+Foreign and Commonwealth Office,hr & recruitment,2.8421052631578947,19
+Foreign and Commonwealth Office,job role clarity,2.625,8
+Foreign and Commonwealth Office,management,1.5714285714285714,14
+Foreign and Commonwealth Office,office & location,3.4,10
+Foreign and Commonwealth Office,pay,1.52,25
+Foreign and Commonwealth Office,people,3.2,15
+Foreign and Commonwealth Office,perks & benefits,3.1666666666666665,6
+Foreign and Commonwealth Office,stress & pressure,3.0,2
+Foreign and Commonwealth Office,teamwork & collaboration,2.375,8
+Foreign and Commonwealth Office,tools & resources,2.6666666666666665,9
+Foreign and Commonwealth Office,work-life balance,2.857142857142857,7
+Four Seasons Health Care,culture,3.066666666666667,30
+Four Seasons Health Care,growth & learning,3.130434782608696,23
+Four Seasons Health Care,hr & recruitment,2.4615384615384617,117
+Four Seasons Health Care,job role clarity,2.4,10
+Four Seasons Health Care,management,2.2241379310344827,58
+Four Seasons Health Care,office & location,2.263157894736842,19
+Four Seasons Health Care,pay,1.890625,64
+Four Seasons Health Care,people,3.4857142857142858,35
+Four Seasons Health Care,perks & benefits,3.0588235294117645,17
+Four Seasons Health Care,stress & pressure,1.8333333333333333,12
+Four Seasons Health Care,teamwork & collaboration,4.0,37
+Four Seasons Health Care,tools & resources,3.40625,32
+Four Seasons Health Care,work-life balance,2.511627906976744,43
+Foxtons,culture,3.4545454545454546,88
+Foxtons,growth & learning,3.700854700854701,117
+Foxtons,hr & recruitment,3.687943262411347,141
+Foxtons,job role clarity,3.064516129032258,31
+Foxtons,management,2.9029126213592233,103
+Foxtons,office & location,3.1449275362318843,69
+Foxtons,pay,2.957317073170732,164
+Foxtons,people,3.322834645669291,127
+Foxtons,perks & benefits,3.25,52
+Foxtons,stress & pressure,1.7926829268292683,82
+Foxtons,teamwork & collaboration,3.86,50
+Foxtons,tools & resources,4.0,40
+Foxtons,work-life balance,2.084848484848485,165
+Freshfields Bruckhaus Deringer,culture,2.897435897435898,39
+Freshfields Bruckhaus Deringer,growth & learning,2.9318181818181817,44
+Freshfields Bruckhaus Deringer,hr & recruitment,2.425531914893617,47
+Freshfields Bruckhaus Deringer,job role clarity,2.363636363636364,22
+Freshfields Bruckhaus Deringer,management,2.0,35
+Freshfields Bruckhaus Deringer,office & location,3.611111111111111,36
+Freshfields Bruckhaus Deringer,pay,3.0816326530612246,49
+Freshfields Bruckhaus Deringer,people,3.627906976744186,43
+Freshfields Bruckhaus Deringer,perks & benefits,3.720930232558139,43
+Freshfields Bruckhaus Deringer,stress & pressure,2.1379310344827585,29
+Freshfields Bruckhaus Deringer,teamwork & collaboration,3.1794871794871793,39
+Freshfields Bruckhaus Deringer,tools & resources,2.9615384615384617,26
+Freshfields Bruckhaus Deringer,work-life balance,2.3958333333333335,48
+GLL,culture,2.795918367346939,49
+GLL,growth & learning,2.91025641025641,78
+GLL,hr & recruitment,2.576923076923077,104
+GLL,job role clarity,2.3333333333333335,21
+GLL,management,1.7586206896551724,87
+GLL,office & location,2.5,38
+GLL,pay,2.69672131147541,122
+GLL,people,3.4107142857142856,56
+GLL,perks & benefits,2.5714285714285716,35
+GLL,stress & pressure,1.875,24
+GLL,teamwork & collaboration,3.5,20
+GLL,tools & resources,1.9545454545454544,22
+GLL,work-life balance,3.07,100
+GTR Govia Thameslink Railway,culture,3.125,16
+GTR Govia Thameslink Railway,growth & learning,3.25,16
+GTR Govia Thameslink Railway,hr & recruitment,3.103448275862069,29
+GTR Govia Thameslink Railway,job role clarity,3.111111111111111,9
+GTR Govia Thameslink Railway,management,2.5555555555555554,27
+GTR Govia Thameslink Railway,office & location,2.2222222222222223,9
+GTR Govia Thameslink Railway,pay,3.5517241379310347,29
+GTR Govia Thameslink Railway,people,3.1818181818181817,22
+GTR Govia Thameslink Railway,perks & benefits,4.041666666666667,24
+GTR Govia Thameslink Railway,stress & pressure,2.0,3
+GTR Govia Thameslink Railway,teamwork & collaboration,3.6666666666666665,18
+GTR Govia Thameslink Railway,tools & resources,3.0,8
+GTR Govia Thameslink Railway,work-life balance,2.6153846153846154,26
+Gateley,culture,4.409090909090909,22
+Gateley,growth & learning,4.25,20
+Gateley,hr & recruitment,4.066666666666666,15
+Gateley,job role clarity,4.0,3
+Gateley,management,3.7777777777777777,9
+Gateley,office & location,3.6,10
+Gateley,pay,2.4,10
+Gateley,people,4.529411764705882,17
+Gateley,perks & benefits,4.142857142857143,7
+Gateley,stress & pressure,4.0,1
+Gateley,teamwork & collaboration,4.25,16
+Gateley,tools & resources,4.111111111111111,18
+Gateley,work-life balance,3.875,8
+Gi Group,culture,2.5714285714285716,7
+Gi Group,growth & learning,2.4285714285714284,7
+Gi Group,hr & recruitment,2.5,10
+Gi Group,job role clarity,2.0,2
+Gi Group,management,2.3333333333333335,6
+Gi Group,office & location,1.5,4
+Gi Group,pay,2.5652173913043477,23
+Gi Group,people,2.0,5
+Gi Group,perks & benefits,1.8333333333333333,6
+Gi Group,stress & pressure,1.5,2
+Gi Group,teamwork & collaboration,3.5384615384615383,13
+Gi Group,tools & resources,4.0,4
+Gi Group,work-life balance,2.473684210526316,19
+GlaxoSmithKline,culture,3.522796352583587,329
+GlaxoSmithKline,growth & learning,3.3583959899749374,399
+GlaxoSmithKline,hr & recruitment,2.93491124260355,169
+GlaxoSmithKline,job role clarity,2.701492537313433,67
+GlaxoSmithKline,management,2.064150943396226,265
+GlaxoSmithKline,office & location,3.0774647887323945,142
+GlaxoSmithKline,pay,2.938775510204082,245
+GlaxoSmithKline,people,3.648936170212766,282
+GlaxoSmithKline,perks & benefits,3.8794642857142856,224
+GlaxoSmithKline,stress & pressure,2.057142857142857,70
+GlaxoSmithKline,teamwork & collaboration,3.5078125,128
+GlaxoSmithKline,tools & resources,3.579710144927536,138
+GlaxoSmithKline,work-life balance,3.629090909090909,275
+Goldman Sachs,culture,3.194331983805668,247
+Goldman Sachs,growth & learning,3.75,264
+Goldman Sachs,hr & recruitment,3.23943661971831,71
+Goldman Sachs,job role clarity,2.7708333333333335,48
+Goldman Sachs,management,2.0723684210526314,152
+Goldman Sachs,office & location,3.044943820224719,89
+Goldman Sachs,pay,3.3686635944700463,217
+Goldman Sachs,people,3.775577557755775,303
+Goldman Sachs,perks & benefits,3.738636363636364,88
+Goldman Sachs,stress & pressure,1.953216374269006,171
+Goldman Sachs,teamwork & collaboration,3.4444444444444446,99
+Goldman Sachs,tools & resources,3.080808080808081,99
+Goldman Sachs,work-life balance,2.2534722222222223,288
+Google,culture,3.8154761904761902,168
+Google,growth & learning,3.580246913580247,162
+Google,hr & recruitment,2.966666666666667,60
+Google,job role clarity,2.4285714285714284,28
+Google,management,2.092592592592593,108
+Google,office & location,3.6823529411764704,85
+Google,pay,3.598639455782313,147
+Google,people,3.832535885167464,209
+Google,perks & benefits,4.182242990654205,214
+Google,stress & pressure,2.081081081081081,74
+Google,teamwork & collaboration,3.32,75
+Google,tools & resources,3.2804878048780486,82
+Google,work-life balance,3.062992125984252,127
+Grant Thornton,culture,3.375,40
+Grant Thornton,growth & learning,3.5454545454545454,44
+Grant Thornton,hr & recruitment,2.962962962962963,27
+Grant Thornton,job role clarity,3.6666666666666665,6
+Grant Thornton,management,2.7096774193548385,31
+Grant Thornton,office & location,3.066666666666667,15
+Grant Thornton,pay,2.4047619047619047,42
+Grant Thornton,people,3.7954545454545454,44
+Grant Thornton,perks & benefits,3.1818181818181817,11
+Grant Thornton,stress & pressure,2.3076923076923075,13
+Grant Thornton,teamwork & collaboration,3.592592592592593,27
+Grant Thornton,tools & resources,3.0952380952380953,21
+Grant Thornton,work-life balance,3.183673469387755,49
+Grant Thornton UK LLP,culture,3.5341614906832297,161
+Grant Thornton UK LLP,growth & learning,3.398876404494382,178
+Grant Thornton UK LLP,hr & recruitment,3.0,124
+Grant Thornton UK LLP,job role clarity,3.1538461538461537,52
+Grant Thornton UK LLP,management,2.5163934426229506,122
+Grant Thornton UK LLP,office & location,3.3095238095238093,84
+Grant Thornton UK LLP,pay,2.3968253968253967,126
+Grant Thornton UK LLP,people,3.658959537572254,173
+Grant Thornton UK LLP,perks & benefits,3.3518518518518516,54
+Grant Thornton UK LLP,stress & pressure,2.22,50
+Grant Thornton UK LLP,teamwork & collaboration,3.5728155339805827,103
+Grant Thornton UK LLP,tools & resources,3.5961538461538463,104
+Grant Thornton UK LLP,work-life balance,3.2032967032967035,182
+Grosvenor Casinos,culture,3.1538461538461537,52
+Grosvenor Casinos,growth & learning,3.1320754716981134,53
+Grosvenor Casinos,hr & recruitment,2.780821917808219,73
+Grosvenor Casinos,job role clarity,3.0,8
+Grosvenor Casinos,management,2.3529411764705883,51
+Grosvenor Casinos,office & location,2.814814814814815,27
+Grosvenor Casinos,pay,2.3,100
+Grosvenor Casinos,people,2.7142857142857144,49
+Grosvenor Casinos,perks & benefits,2.5555555555555554,45
+Grosvenor Casinos,stress & pressure,1.826086956521739,23
+Grosvenor Casinos,teamwork & collaboration,3.672413793103448,58
+Grosvenor Casinos,tools & resources,3.1666666666666665,12
+Grosvenor Casinos,work-life balance,2.2845528455284554,123
+Guardian News and Media,culture,3.4722222222222223,36
+Guardian News and Media,growth & learning,3.108108108108108,37
+Guardian News and Media,hr & recruitment,2.92,25
+Guardian News and Media,job role clarity,2.8,5
+Guardian News and Media,management,1.975,40
+Guardian News and Media,office & location,3.5,24
+Guardian News and Media,pay,2.2083333333333335,24
+Guardian News and Media,people,3.3846153846153846,52
+Guardian News and Media,perks & benefits,3.923076923076923,13
+Guardian News and Media,stress & pressure,2.7142857142857144,7
+Guardian News and Media,teamwork & collaboration,3.0869565217391304,23
+Guardian News and Media,tools & resources,3.611111111111111,18
+Guardian News and Media,work-life balance,3.5555555555555554,27
+Guy s and St Thomas NHS Foundation Trust,culture,3.0454545454545454,22
+Guy s and St Thomas NHS Foundation Trust,growth & learning,3.1818181818181817,55
+Guy s and St Thomas NHS Foundation Trust,hr & recruitment,2.888888888888889,63
+Guy s and St Thomas NHS Foundation Trust,job role clarity,2.6,10
+Guy s and St Thomas NHS Foundation Trust,management,1.930232558139535,43
+Guy s and St Thomas NHS Foundation Trust,office & location,2.896551724137931,29
+Guy s and St Thomas NHS Foundation Trust,pay,2.0384615384615383,26
+Guy s and St Thomas NHS Foundation Trust,people,3.2333333333333334,30
+Guy s and St Thomas NHS Foundation Trust,perks & benefits,3.054054054054054,37
+Guy s and St Thomas NHS Foundation Trust,stress & pressure,2.1666666666666665,12
+Guy s and St Thomas NHS Foundation Trust,teamwork & collaboration,3.769230769230769,26
+Guy s and St Thomas NHS Foundation Trust,tools & resources,3.5172413793103448,29
+Guy s and St Thomas NHS Foundation Trust,work-life balance,2.772727272727273,22
+H and M,culture,3.09478672985782,211
+H and M,growth & learning,3.1155555555555554,225
+H and M,hr & recruitment,2.7944572748267897,433
+H and M,job role clarity,2.211267605633803,71
+H and M,management,2.0950920245398774,326
+H and M,office & location,2.5054945054945055,91
+H and M,pay,2.4738292011019283,363
+H and M,people,3.3008849557522124,226
+H and M,perks & benefits,3.633228840125392,319
+H and M,stress & pressure,1.976,125
+H and M,teamwork & collaboration,3.4497354497354498,189
+H and M,tools & resources,2.688888888888889,45
+H and M,work-life balance,2.556043956043956,455
+HC One,culture,3.1,60
+HC One,growth & learning,3.795918367346939,49
+HC One,hr & recruitment,2.6721311475409837,122
+HC One,job role clarity,3.875,8
+HC One,management,2.3181818181818183,88
+HC One,office & location,2.1818181818181817,33
+HC One,pay,2.2325581395348837,86
+HC One,people,3.324324324324324,37
+HC One,perks & benefits,2.16,25
+HC One,stress & pressure,1.5,28
+HC One,teamwork & collaboration,3.75,44
+HC One,tools & resources,3.3620689655172415,58
+HC One,work-life balance,2.2266666666666666,75
+HM Courts and Tribunals Service,culture,1.0,2
+HM Courts and Tribunals Service,growth & learning,2.1666666666666665,6
+HM Courts and Tribunals Service,hr & recruitment,2.6,5
+HM Courts and Tribunals Service,job role clarity,4.0,1
+HM Courts and Tribunals Service,management,2.4,5
+HM Courts and Tribunals Service,office & location,1.0,2
+HM Courts and Tribunals Service,pay,1.8333333333333333,12
+HM Courts and Tribunals Service,people,3.6,5
+HM Courts and Tribunals Service,perks & benefits,4.25,4
+HM Courts and Tribunals Service,stress & pressure,1.0,1
+HM Courts and Tribunals Service,teamwork & collaboration,3.75,4
+HM Courts and Tribunals Service,tools & resources,2.0,1
+HM Courts and Tribunals Service,work-life balance,3.6666666666666665,9
+HM Prison Service,culture,2.1578947368421053,19
+HM Prison Service,growth & learning,3.130434782608696,23
+HM Prison Service,hr & recruitment,2.1267605633802815,71
+HM Prison Service,job role clarity,2.0,3
+HM Prison Service,management,1.3478260869565215,46
+HM Prison Service,office & location,2.0588235294117645,17
+HM Prison Service,pay,2.625,64
+HM Prison Service,people,3.21875,32
+HM Prison Service,perks & benefits,3.310344827586207,29
+HM Prison Service,stress & pressure,1.619047619047619,21
+HM Prison Service,teamwork & collaboration,3.0,22
+HM Prison Service,tools & resources,1.9393939393939392,33
+HM Prison Service,work-life balance,2.5106382978723403,47
+HM Treasury,culture,3.5217391304347827,23
+HM Treasury,growth & learning,2.764705882352941,34
+HM Treasury,hr & recruitment,2.6842105263157894,19
+HM Treasury,job role clarity,3.3529411764705883,17
+HM Treasury,management,2.8823529411764706,17
+HM Treasury,office & location,3.1,10
+HM Treasury,pay,1.6666666666666667,33
+HM Treasury,people,3.5789473684210527,19
+HM Treasury,perks & benefits,3.1,10
+HM Treasury,stress & pressure,3.0833333333333335,12
+HM Treasury,teamwork & collaboration,3.230769230769231,13
+HM Treasury,tools & resources,3.0,10
+HM Treasury,work-life balance,3.269230769230769,26
+HMCTS,culture,2.357142857142857,14
+HMCTS,growth & learning,2.375,24
+HMCTS,hr & recruitment,1.9,10
+HMCTS,job role clarity,3.3333333333333335,3
+HMCTS,management,1.76,25
+HMCTS,office & location,2.6,10
+HMCTS,pay,1.6363636363636365,22
+HMCTS,people,3.25,20
+HMCTS,perks & benefits,3.0,8
+HMCTS,stress & pressure,2.5,2
+HMCTS,teamwork & collaboration,3.0,11
+HMCTS,tools & resources,3.1666666666666665,6
+HMCTS,work-life balance,3.235294117647059,17
+HSBC Holdings,culture,3.3375527426160336,474
+HSBC Holdings,growth & learning,3.186797752808989,712
+HSBC Holdings,hr & recruitment,2.8657142857142857,350
+HSBC Holdings,job role clarity,2.7006802721088436,147
+HSBC Holdings,management,1.867330016583748,603
+HSBC Holdings,office & location,3.25,224
+HSBC Holdings,pay,2.2588832487309647,591
+HSBC Holdings,people,3.5231788079470197,453
+HSBC Holdings,perks & benefits,3.8054862842892767,401
+HSBC Holdings,stress & pressure,1.9398496240601504,133
+HSBC Holdings,teamwork & collaboration,3.2828685258964145,251
+HSBC Holdings,tools & resources,3.1210526315789475,190
+HSBC Holdings,work-life balance,3.28544776119403,536
+Hampshire County Council,culture,3.4,20
+Hampshire County Council,growth & learning,3.0384615384615383,26
+Hampshire County Council,hr & recruitment,3.1724137931034484,29
+Hampshire County Council,job role clarity,3.1,10
+Hampshire County Council,management,2.875,24
+Hampshire County Council,office & location,3.25,12
+Hampshire County Council,pay,2.4146341463414633,41
+Hampshire County Council,people,3.7333333333333334,15
+Hampshire County Council,perks & benefits,3.6296296296296298,27
+Hampshire County Council,stress & pressure,2.0,5
+Hampshire County Council,teamwork & collaboration,4.1,20
+Hampshire County Council,tools & resources,3.807692307692307,26
+Hampshire County Council,work-life balance,3.6486486486486487,37
+Harris Federation,culture,1.6666666666666667,9
+Harris Federation,growth & learning,3.2857142857142856,21
+Harris Federation,hr & recruitment,2.8,15
+Harris Federation,job role clarity,2.0,4
+Harris Federation,management,2.2,10
+Harris Federation,office & location,3.6,5
+Harris Federation,pay,2.769230769230769,13
+Harris Federation,people,3.5714285714285716,7
+Harris Federation,perks & benefits,3.25,4
+Harris Federation,stress & pressure,2.0,9
+Harris Federation,teamwork & collaboration,3.2222222222222223,9
+Harris Federation,tools & resources,2.9166666666666665,12
+Harris Federation,work-life balance,2.6875,16
+Harvey Nichols,culture,3.1818181818181817,66
+Harvey Nichols,growth & learning,2.6744186046511627,43
+Harvey Nichols,hr & recruitment,2.9012345679012346,81
+Harvey Nichols,job role clarity,1.818181818181818,11
+Harvey Nichols,management,2.0,66
+Harvey Nichols,office & location,2.4878048780487805,41
+Harvey Nichols,pay,2.068965517241379,58
+Harvey Nichols,people,2.9411764705882355,51
+Harvey Nichols,perks & benefits,3.5595238095238093,84
+Harvey Nichols,stress & pressure,1.9444444444444444,18
+Harvey Nichols,teamwork & collaboration,2.9565217391304346,46
+Harvey Nichols,tools & resources,2.2777777777777777,18
+Harvey Nichols,work-life balance,2.6904761904761907,42
+Hastings Direct,culture,3.4946236559139785,93
+Hastings Direct,growth & learning,3.125,112
+Hastings Direct,hr & recruitment,3.0,91
+Hastings Direct,job role clarity,2.5714285714285716,21
+Hastings Direct,management,2.5057471264367814,87
+Hastings Direct,office & location,3.034090909090909,88
+Hastings Direct,pay,3.304761904761905,105
+Hastings Direct,people,3.57843137254902,102
+Hastings Direct,perks & benefits,3.5913978494623655,93
+Hastings Direct,stress & pressure,1.8205128205128205,39
+Hastings Direct,teamwork & collaboration,3.414285714285714,70
+Hastings Direct,tools & resources,3.395348837209302,43
+Hastings Direct,work-life balance,3.21875,96
+Hays,culture,3.683495145631068,515
+Hays,growth & learning,3.9583931133428982,697
+Hays,hr & recruitment,3.800747198007472,803
+Hays,job role clarity,3.207792207792208,154
+Hays,management,3.1976470588235295,425
+Hays,office & location,3.4945054945054945,273
+Hays,pay,3.110047846889952,627
+Hays,people,3.794666666666666,375
+Hays,perks & benefits,3.4461538461538463,195
+Hays,stress & pressure,2.26007326007326,273
+Hays,teamwork & collaboration,4.023391812865497,342
+Hays,tools & resources,3.948849104859335,391
+Hays,work-life balance,2.455426356589147,516
+Health Education England,culture,2.6666666666666665,6
+Health Education England,growth & learning,2.7333333333333334,15
+Health Education England,hr & recruitment,3.0555555555555554,18
+Health Education England,job role clarity,2.75,4
+Health Education England,management,1.75,12
+Health Education England,office & location,3.5833333333333335,12
+Health Education England,pay,2.4615384615384617,13
+Health Education England,people,3.8461538461538463,13
+Health Education England,perks & benefits,3.1,10
+Health Education England,stress & pressure,1.3333333333333333,3
+Health Education England,teamwork & collaboration,3.8333333333333335,12
+Health Education England,tools & resources,3.8333333333333335,12
+Health Education England,work-life balance,3.44,25
+Her Majesty s Revenue and Customs,culture,2.84375,96
+Her Majesty s Revenue and Customs,growth & learning,2.8157894736842106,190
+Her Majesty s Revenue and Customs,hr & recruitment,2.5277777777777777,144
+Her Majesty s Revenue and Customs,job role clarity,2.576923076923077,52
+Her Majesty s Revenue and Customs,management,2.0516129032258066,155
+Her Majesty s Revenue and Customs,office & location,2.8295454545454546,88
+Her Majesty s Revenue and Customs,pay,2.3666666666666667,210
+Her Majesty s Revenue and Customs,people,3.361344537815126,119
+Her Majesty s Revenue and Customs,perks & benefits,3.563380281690141,71
+Her Majesty s Revenue and Customs,stress & pressure,2.407407407407407,27
+Her Majesty s Revenue and Customs,teamwork & collaboration,3.5272727272727273,55
+Her Majesty s Revenue and Customs,tools & resources,3.4375,64
+Her Majesty s Revenue and Customs,work-life balance,3.776315789473684,228
+Hitachi Capital UK,culture,4.095238095238095,42
+Hitachi Capital UK,growth & learning,3.5,48
+Hitachi Capital UK,hr & recruitment,3.7551020408163263,49
+Hitachi Capital UK,job role clarity,3.909090909090909,11
+Hitachi Capital UK,management,2.911764705882353,34
+Hitachi Capital UK,office & location,3.3333333333333335,30
+Hitachi Capital UK,pay,3.6842105263157894,38
+Hitachi Capital UK,people,3.84,50
+Hitachi Capital UK,perks & benefits,3.9705882352941178,34
+Hitachi Capital UK,stress & pressure,3.4285714285714284,14
+Hitachi Capital UK,teamwork & collaboration,3.7142857142857144,35
+Hitachi Capital UK,tools & resources,3.9444444444444446,36
+Hitachi Capital UK,work-life balance,3.5806451612903225,31
+Home Group,culture,2.7714285714285714,35
+Home Group,growth & learning,3.1333333333333333,30
+Home Group,hr & recruitment,3.2,40
+Home Group,job role clarity,2.090909090909091,11
+Home Group,management,2.5306122448979593,49
+Home Group,office & location,2.75,12
+Home Group,pay,2.65,40
+Home Group,people,3.275,40
+Home Group,perks & benefits,3.857142857142857,21
+Home Group,stress & pressure,1.625,16
+Home Group,teamwork & collaboration,3.4545454545454546,33
+Home Group,tools & resources,3.236842105263158,38
+Home Group,work-life balance,3.702702702702702,37
+Home Office,culture,2.0350877192982457,57
+Home Office,growth & learning,3.068965517241379,87
+Home Office,hr & recruitment,2.3544303797468356,79
+Home Office,job role clarity,2.892857142857143,28
+Home Office,management,1.7571428571428571,70
+Home Office,office & location,2.912280701754386,57
+Home Office,pay,2.556701030927835,97
+Home Office,people,3.2203389830508473,59
+Home Office,perks & benefits,3.136363636363636,44
+Home Office,stress & pressure,2.0,24
+Home Office,teamwork & collaboration,3.423076923076923,26
+Home Office,tools & resources,2.6923076923076925,26
+Home Office,work-life balance,3.269230769230769,104
+IBM,culture,3.0779944289693595,359
+IBM,growth & learning,3.3191489361702127,705
+IBM,hr & recruitment,2.685878962536023,347
+IBM,job role clarity,2.7709497206703912,179
+IBM,management,1.9125560538116593,446
+IBM,office & location,3.188888888888889,180
+IBM,pay,2.147577092511013,454
+IBM,people,3.4857142857142858,525
+IBM,perks & benefits,3.296747967479675,246
+IBM,stress & pressure,1.9438202247191012,89
+IBM,teamwork & collaboration,3.2290748898678414,227
+IBM,tools & resources,3.2832080200501252,399
+IBM,work-life balance,3.3363431151241536,443
+ISS Facility Services,culture,2.537037037037037,54
+ISS Facility Services,growth & learning,2.907407407407407,54
+ISS Facility Services,hr & recruitment,2.4193548387096775,62
+ISS Facility Services,job role clarity,2.7058823529411766,17
+ISS Facility Services,management,1.8686868686868687,99
+ISS Facility Services,office & location,2.8372093023255816,43
+ISS Facility Services,pay,2.5,120
+ISS Facility Services,people,3.159090909090909,44
+ISS Facility Services,perks & benefits,2.652173913043478,23
+ISS Facility Services,stress & pressure,1.7272727272727273,11
+ISS Facility Services,teamwork & collaboration,3.3055555555555554,36
+ISS Facility Services,tools & resources,2.4242424242424243,33
+ISS Facility Services,work-life balance,2.984375,64
+Immediate Media Company,culture,4.024096385542169,83
+Immediate Media Company,growth & learning,3.3275862068965516,58
+Immediate Media Company,hr & recruitment,3.725806451612903,62
+Immediate Media Company,job role clarity,2.6666666666666665,3
+Immediate Media Company,management,3.130434782608696,46
+Immediate Media Company,office & location,3.1538461538461537,65
+Immediate Media Company,pay,2.263157894736842,57
+Immediate Media Company,people,4.078947368421052,76
+Immediate Media Company,perks & benefits,3.7,30
+Immediate Media Company,stress & pressure,3.8,10
+Immediate Media Company,teamwork & collaboration,3.86046511627907,43
+Immediate Media Company,tools & resources,3.8666666666666663,30
+Immediate Media Company,work-life balance,3.744186046511628,43
+Indeed,culture,3.6875,16
+Indeed,growth & learning,3.0714285714285716,14
+Indeed,hr & recruitment,3.875,8
+Indeed,job role clarity,2.857142857142857,7
+Indeed,management,2.6315789473684212,19
+Indeed,office & location,3.7777777777777777,9
+Indeed,pay,3.1666666666666665,18
+Indeed,people,4.071428571428571,14
+Indeed,perks & benefits,4.15,20
+Indeed,stress & pressure,3.0,2
+Indeed,teamwork & collaboration,4.0,6
+Indeed,tools & resources,4.166666666666667,6
+Indeed,work-life balance,3.941176470588235,17
+Intelligent Office UK,culture,2.5625,16
+Intelligent Office UK,growth & learning,3.7058823529411766,17
+Intelligent Office UK,hr & recruitment,3.1875,16
+Intelligent Office UK,job role clarity,1.0,2
+Intelligent Office UK,management,3.2666666666666666,15
+Intelligent Office UK,office & location,3.076923076923077,13
+Intelligent Office UK,pay,2.272727272727273,11
+Intelligent Office UK,people,3.0,7
+Intelligent Office UK,perks & benefits,1.8,5
+Intelligent Office UK,stress & pressure,2.8333333333333335,6
+Intelligent Office UK,teamwork & collaboration,3.75,16
+Intelligent Office UK,tools & resources,3.375,8
+Intelligent Office UK,work-life balance,2.3333333333333335,9
+Interserve,culture,2.3859649122807016,57
+Interserve,growth & learning,3.098360655737705,61
+Interserve,hr & recruitment,2.263157894736842,95
+Interserve,job role clarity,2.5555555555555554,18
+Interserve,management,1.8108108108108107,111
+Interserve,office & location,2.62,50
+Interserve,pay,2.2442748091603053,131
+Interserve,people,3.050632911392405,79
+Interserve,perks & benefits,2.864864864864865,37
+Interserve,stress & pressure,1.8,20
+Interserve,teamwork & collaboration,3.259259259259259,54
+Interserve,tools & resources,2.3529411764705883,34
+Interserve,work-life balance,2.9146341463414633,82
+Iron Mountain Inc,culture,2.8333333333333335,12
+Iron Mountain Inc,growth & learning,2.2857142857142856,14
+Iron Mountain Inc,hr & recruitment,1.8,20
+Iron Mountain Inc,job role clarity,3.0,4
+Iron Mountain Inc,management,1.7857142857142858,28
+Iron Mountain Inc,office & location,3.0,14
+Iron Mountain Inc,pay,2.0,24
+Iron Mountain Inc,people,3.1052631578947367,19
+Iron Mountain Inc,perks & benefits,3.4444444444444446,9
+Iron Mountain Inc,stress & pressure,2.25,4
+Iron Mountain Inc,teamwork & collaboration,3.4545454545454546,11
+Iron Mountain Inc,tools & resources,1.75,8
+Iron Mountain Inc,work-life balance,3.2941176470588234,17
+Irwin Mitchell,culture,3.0277777777777777,36
+Irwin Mitchell,growth & learning,2.4473684210526314,38
+Irwin Mitchell,hr & recruitment,2.727272727272727,44
+Irwin Mitchell,job role clarity,2.076923076923077,13
+Irwin Mitchell,management,2.2325581395348837,43
+Irwin Mitchell,office & location,3.2413793103448274,29
+Irwin Mitchell,pay,1.7966101694915255,59
+Irwin Mitchell,people,3.148936170212766,47
+Irwin Mitchell,perks & benefits,3.103448275862069,29
+Irwin Mitchell,stress & pressure,1.4166666666666667,12
+Irwin Mitchell,teamwork & collaboration,3.1904761904761907,42
+Irwin Mitchell,tools & resources,2.8,25
+Irwin Mitchell,work-life balance,3.0,52
+J P Morgan,culture,3.4604519774011298,354
+J P Morgan,growth & learning,3.494071146245059,506
+J P Morgan,hr & recruitment,3.195767195767196,189
+J P Morgan,job role clarity,2.8260869565217392,92
+J P Morgan,management,2.2561307901907357,367
+J P Morgan,office & location,2.9763313609467454,169
+J P Morgan,pay,3.009925558312655,403
+J P Morgan,people,3.7220543806646527,331
+J P Morgan,perks & benefits,3.990566037735849,212
+J P Morgan,stress & pressure,1.8095238095238095,168
+J P Morgan,teamwork & collaboration,3.2916666666666665,192
+J P Morgan,tools & resources,3.19,200
+J P Morgan,work-life balance,2.5816326530612246,392
+JLL,culture,3.123076923076923,65
+JLL,growth & learning,2.9107142857142856,112
+JLL,hr & recruitment,2.7666666666666666,60
+JLL,job role clarity,2.875,16
+JLL,management,2.3823529411764706,68
+JLL,office & location,3.235294117647059,51
+JLL,pay,2.3488372093023258,86
+JLL,people,3.4473684210526314,76
+JLL,perks & benefits,3.796296296296296,54
+JLL,stress & pressure,1.9473684210526316,19
+JLL,teamwork & collaboration,3.32,50
+JLL,tools & resources,3.4411764705882355,34
+JLL,work-life balance,3.27027027027027,74
+JLT Group,culture,2.6451612903225805,31
+JLT Group,growth & learning,2.911764705882353,34
+JLT Group,hr & recruitment,2.5428571428571427,35
+JLT Group,job role clarity,1.5,2
+JLT Group,management,1.891891891891892,37
+JLT Group,office & location,3.130434782608696,23
+JLT Group,pay,1.8571428571428572,28
+JLT Group,people,3.375,24
+JLT Group,perks & benefits,3.3684210526315788,19
+JLT Group,stress & pressure,3.2857142857142856,7
+JLT Group,teamwork & collaboration,2.125,16
+JLT Group,tools & resources,3.0,19
+JLT Group,work-life balance,3.25,20
+JP Boden and Co,culture,2.838709677419355,31
+JP Boden and Co,growth & learning,2.6666666666666665,30
+JP Boden and Co,hr & recruitment,2.625,40
+JP Boden and Co,job role clarity,1.5,6
+JP Boden and Co,management,1.84375,32
+JP Boden and Co,office & location,2.933333333333333,45
+JP Boden and Co,pay,1.7,20
+JP Boden and Co,people,3.3191489361702127,47
+JP Boden and Co,perks & benefits,3.2916666666666665,24
+JP Boden and Co,stress & pressure,1.6666666666666667,12
+JP Boden and Co,teamwork & collaboration,3.1739130434782608,23
+JP Boden and Co,tools & resources,2.2222222222222223,9
+JP Boden and Co,work-life balance,2.76,25
+Jaguar Land Rover,culture,2.6548387096774193,310
+Jaguar Land Rover,growth & learning,3.2940038684719535,517
+Jaguar Land Rover,hr & recruitment,2.7913385826771653,254
+Jaguar Land Rover,job role clarity,2.7925925925925927,135
+Jaguar Land Rover,management,1.9794238683127572,486
+Jaguar Land Rover,office & location,2.7857142857142856,238
+Jaguar Land Rover,pay,3.5649484536082476,485
+Jaguar Land Rover,people,3.371428571428571,315
+Jaguar Land Rover,perks & benefits,3.894957983193277,238
+Jaguar Land Rover,stress & pressure,2.507936507936508,126
+Jaguar Land Rover,teamwork & collaboration,3.227027027027027,185
+Jaguar Land Rover,tools & resources,2.973821989528796,191
+Jaguar Land Rover,work-life balance,3.1061007957559683,377
+James Hay Partnership,culture,2.5217391304347827,23
+James Hay Partnership,growth & learning,2.45,20
+James Hay Partnership,hr & recruitment,2.3684210526315788,38
+James Hay Partnership,job role clarity,2.142857142857143,7
+James Hay Partnership,management,2.0208333333333335,48
+James Hay Partnership,office & location,2.764705882352941,17
+James Hay Partnership,pay,2.16,25
+James Hay Partnership,people,3.710526315789474,38
+James Hay Partnership,perks & benefits,3.3333333333333335,18
+James Hay Partnership,stress & pressure,1.8333333333333333,6
+James Hay Partnership,teamwork & collaboration,2.966666666666667,30
+James Hay Partnership,tools & resources,2.8421052631578947,19
+James Hay Partnership,work-life balance,3.272727272727273,22
+John Lewis and Partners,culture,3.403225806451613,372
+John Lewis and Partners,growth & learning,2.751231527093596,406
+John Lewis and Partners,hr & recruitment,3.04296875,512
+John Lewis and Partners,job role clarity,2.590551181102362,127
+John Lewis and Partners,management,2.22020202020202,495
+John Lewis and Partners,office & location,3.051136363636364,176
+John Lewis and Partners,pay,3.0236220472440944,635
+John Lewis and Partners,people,3.5755208333333335,384
+John Lewis and Partners,perks & benefits,3.84390243902439,615
+John Lewis and Partners,stress & pressure,1.8203125,128
+John Lewis and Partners,teamwork & collaboration,3.629213483146067,267
+John Lewis and Partners,tools & resources,3.4093959731543624,149
+John Lewis and Partners,work-life balance,2.8297872340425534,517
+KPMG,culture,3.156186612576065,493
+KPMG,growth & learning,3.3469640644361833,807
+KPMG,hr & recruitment,3.0597014925373136,402
+KPMG,job role clarity,2.596330275229358,109
+KPMG,management,2.0340136054421767,441
+KPMG,office & location,3.1454545454545455,220
+KPMG,pay,2.2055267702936097,579
+KPMG,people,3.7261345852895142,639
+KPMG,perks & benefits,3.503571428571429,280
+KPMG,stress & pressure,1.7171052631578947,304
+KPMG,teamwork & collaboration,3.267080745341615,322
+KPMG,tools & resources,3.3068181818181817,264
+KPMG,work-life balance,2.616891064871481,817
+Kent County Council,culture,2.823529411764706,17
+Kent County Council,growth & learning,2.740740740740741,27
+Kent County Council,hr & recruitment,2.6315789473684212,19
+Kent County Council,job role clarity,2.6666666666666665,6
+Kent County Council,management,2.3,20
+Kent County Council,office & location,2.5555555555555554,9
+Kent County Council,pay,2.5454545454545454,22
+Kent County Council,people,3.4285714285714284,14
+Kent County Council,perks & benefits,3.9047619047619047,21
+Kent County Council,stress & pressure,1.7142857142857142,7
+Kent County Council,teamwork & collaboration,3.25,16
+Kent County Council,tools & resources,2.823529411764706,17
+Kent County Council,work-life balance,3.5625,32
+Kier Group,culture,3.1666666666666665,78
+Kier Group,growth & learning,3.257575757575758,132
+Kier Group,hr & recruitment,2.8095238095238093,105
+Kier Group,job role clarity,3.0416666666666665,24
+Kier Group,management,2.123809523809524,105
+Kier Group,office & location,3.1666666666666665,54
+Kier Group,pay,2.705357142857143,112
+Kier Group,people,3.4910714285714284,112
+Kier Group,perks & benefits,3.754385964912281,57
+Kier Group,stress & pressure,2.130434782608696,23
+Kier Group,teamwork & collaboration,3.4155844155844157,77
+Kier Group,tools & resources,3.257575757575758,66
+Kier Group,work-life balance,3.2625,80
+Kingsley Healthcare,culture,4.0,41
+Kingsley Healthcare,growth & learning,4.333333333333333,30
+Kingsley Healthcare,hr & recruitment,4.125,48
+Kingsley Healthcare,job role clarity,3.6666666666666665,9
+Kingsley Healthcare,management,3.9696969696969697,33
+Kingsley Healthcare,office & location,3.769230769230769,13
+Kingsley Healthcare,pay,3.5483870967741935,31
+Kingsley Healthcare,people,3.928571428571429,14
+Kingsley Healthcare,perks & benefits,3.566666666666667,30
+Kingsley Healthcare,stress & pressure,2.3333333333333335,3
+Kingsley Healthcare,teamwork & collaboration,4.266666666666667,45
+Kingsley Healthcare,tools & resources,4.24,50
+Kingsley Healthcare,work-life balance,2.75,12
+Knight Frank,culture,2.673469387755102,49
+Knight Frank,growth & learning,2.736842105263158,57
+Knight Frank,hr & recruitment,2.823529411764706,51
+Knight Frank,job role clarity,2.6666666666666665,12
+Knight Frank,management,2.2444444444444445,45
+Knight Frank,office & location,3.0,43
+Knight Frank,pay,2.2,50
+Knight Frank,people,3.090909090909091,66
+Knight Frank,perks & benefits,2.7142857142857144,21
+Knight Frank,stress & pressure,2.1538461538461537,13
+Knight Frank,teamwork & collaboration,2.891891891891892,37
+Knight Frank,tools & resources,3.068965517241379,29
+Knight Frank,work-life balance,2.6216216216216215,37
+Korn Ferry,culture,2.271604938271605,81
+Korn Ferry,growth & learning,2.656862745098039,102
+Korn Ferry,hr & recruitment,2.3088235294117645,68
+Korn Ferry,job role clarity,2.65,20
+Korn Ferry,management,1.8421052631578947,95
+Korn Ferry,office & location,3.1458333333333335,48
+Korn Ferry,pay,2.103448275862069,87
+Korn Ferry,people,3.0350877192982457,114
+Korn Ferry,perks & benefits,3.236842105263158,38
+Korn Ferry,stress & pressure,1.4444444444444444,18
+Korn Ferry,teamwork & collaboration,2.673076923076923,52
+Korn Ferry,tools & resources,2.7777777777777777,45
+Korn Ferry,work-life balance,3.1447368421052633,76
+Kurt Geiger,culture,2.710144927536232,69
+Kurt Geiger,growth & learning,2.6458333333333335,48
+Kurt Geiger,hr & recruitment,2.369369369369369,111
+Kurt Geiger,job role clarity,2.090909090909091,22
+Kurt Geiger,management,1.9029126213592231,103
+Kurt Geiger,office & location,2.723404255319149,47
+Kurt Geiger,pay,2.341666666666667,120
+Kurt Geiger,people,3.0444444444444443,45
+Kurt Geiger,perks & benefits,3.30188679245283,106
+Kurt Geiger,stress & pressure,1.7179487179487178,39
+Kurt Geiger,teamwork & collaboration,3.0923076923076924,65
+Kurt Geiger,tools & resources,2.057142857142857,35
+Kurt Geiger,work-life balance,2.3448275862068964,87
+LSE,culture,3.618181818181818,55
+LSE,growth & learning,3.4444444444444446,117
+LSE,hr & recruitment,3.1707317073170733,41
+LSE,job role clarity,3.0,6
+LSE,management,2.4411764705882355,34
+LSE,office & location,3.128205128205128,39
+LSE,pay,3.0,59
+LSE,people,3.5964912280701755,57
+LSE,perks & benefits,3.6153846153846154,26
+LSE,stress & pressure,2.3157894736842106,19
+LSE,teamwork & collaboration,3.48,25
+LSE,tools & resources,3.5416666666666665,48
+LSE,work-life balance,3.459016393442623,61
+LV,culture,3.3402061855670104,97
+LV,growth & learning,2.8160919540229883,87
+LV,hr & recruitment,2.557894736842105,95
+LV,job role clarity,2.5161290322580645,31
+LV,management,1.97979797979798,99
+LV,office & location,2.887323943661972,71
+LV,pay,2.602272727272727,88
+LV,people,3.373913043478261,115
+LV,perks & benefits,3.6707317073170738,82
+LV,stress & pressure,2.0952380952380953,21
+LV,teamwork & collaboration,3.04,50
+LV,tools & resources,3.2244897959183674,49
+LV,work-life balance,3.111111111111111,63
+Latham and Watkins,culture,3.857142857142857,7
+Latham and Watkins,growth & learning,3.3,10
+Latham and Watkins,hr & recruitment,3.857142857142857,7
+Latham and Watkins,job role clarity,3.0,2
+Latham and Watkins,management,1.7,10
+Latham and Watkins,office & location,4.4,5
+Latham and Watkins,pay,4.0,16
+Latham and Watkins,people,4.363636363636363,11
+Latham and Watkins,perks & benefits,4.166666666666667,6
+Latham and Watkins,stress & pressure,2.4166666666666665,12
+Latham and Watkins,teamwork & collaboration,2.6666666666666665,6
+Latham and Watkins,tools & resources,3.8333333333333335,6
+Latham and Watkins,work-life balance,2.1875,16
+Leaders Romans Group,culture,3.568965517241379,58
+Leaders Romans Group,growth & learning,4.0,87
+Leaders Romans Group,hr & recruitment,3.5436893203883497,103
+Leaders Romans Group,job role clarity,3.0555555555555554,18
+Leaders Romans Group,management,3.3255813953488373,86
+Leaders Romans Group,office & location,3.375,40
+Leaders Romans Group,pay,2.9857142857142858,70
+Leaders Romans Group,people,3.7941176470588234,34
+Leaders Romans Group,perks & benefits,3.3902439024390243,41
+Leaders Romans Group,stress & pressure,2.380952380952381,21
+Leaders Romans Group,teamwork & collaboration,4.0,57
+Leaders Romans Group,tools & resources,3.962962962962963,54
+Leaders Romans Group,work-life balance,2.869565217391304,46
+Leeds City Council,culture,3.227272727272727,22
+Leeds City Council,growth & learning,2.861111111111111,36
+Leeds City Council,hr & recruitment,3.138888888888889,36
+Leeds City Council,job role clarity,2.3333333333333335,12
+Leeds City Council,management,2.28,25
+Leeds City Council,office & location,3.25,12
+Leeds City Council,pay,2.4761904761904763,42
+Leeds City Council,people,3.1153846153846154,26
+Leeds City Council,perks & benefits,3.533333333333333,15
+Leeds City Council,stress & pressure,2.4285714285714284,14
+Leeds City Council,teamwork & collaboration,3.2941176470588234,17
+Leeds City Council,tools & resources,3.5,14
+Leeds City Council,work-life balance,3.4130434782608696,46
+Legal and General,culture,3.433734939759036,83
+Legal and General,growth & learning,3.010989010989011,91
+Legal and General,hr & recruitment,2.9452054794520546,73
+Legal and General,job role clarity,2.8666666666666667,15
+Legal and General,management,2.1818181818181817,99
+Legal and General,office & location,3.287671232876712,73
+Legal and General,pay,2.8241758241758244,91
+Legal and General,people,3.5128205128205128,78
+Legal and General,perks & benefits,3.924050632911392,79
+Legal and General,stress & pressure,2.2941176470588234,17
+Legal and General,teamwork & collaboration,3.215686274509804,51
+Legal and General,tools & resources,3.0256410256410255,39
+Legal and General,work-life balance,3.617283950617284,81
+Link Group,culture,2.2115384615384617,52
+Link Group,growth & learning,2.4716981132075473,53
+Link Group,hr & recruitment,2.066666666666667,60
+Link Group,job role clarity,1.5833333333333333,12
+Link Group,management,2.0,71
+Link Group,office & location,2.46875,32
+Link Group,pay,1.3725490196078431,51
+Link Group,people,3.272727272727273,55
+Link Group,perks & benefits,2.36,25
+Link Group,stress & pressure,1.6,15
+Link Group,teamwork & collaboration,2.918918918918919,37
+Link Group,tools & resources,2.3684210526315788,19
+Link Group,work-life balance,2.5294117647058822,34
+LinkedIn,culture,3.863636363636364,44
+LinkedIn,growth & learning,3.05,40
+LinkedIn,hr & recruitment,3.4375,16
+LinkedIn,job role clarity,3.6666666666666665,3
+LinkedIn,management,2.9696969696969697,33
+LinkedIn,office & location,3.047619047619047,21
+LinkedIn,pay,3.0,12
+LinkedIn,people,3.793103448275862,29
+LinkedIn,perks & benefits,4.24,25
+LinkedIn,stress & pressure,3.2857142857142856,7
+LinkedIn,teamwork & collaboration,2.857142857142857,7
+LinkedIn,tools & resources,3.7,10
+LinkedIn,work-life balance,3.0,11
+Lloyds Banking Group,culture,3.3305263157894736,475
+Lloyds Banking Group,growth & learning,2.9545454545454546,638
+Lloyds Banking Group,hr & recruitment,2.7336343115124153,443
+Lloyds Banking Group,job role clarity,2.7664670658682633,167
+Lloyds Banking Group,management,2.041736227045075,599
+Lloyds Banking Group,office & location,2.925,240
+Lloyds Banking Group,pay,2.825291181364393,601
+Lloyds Banking Group,people,3.37551867219917,482
+Lloyds Banking Group,perks & benefits,3.861771058315335,463
+Lloyds Banking Group,stress & pressure,1.7719298245614037,114
+Lloyds Banking Group,teamwork & collaboration,3.3926174496644297,298
+Lloyds Banking Group,tools & resources,3.215767634854772,241
+Lloyds Banking Group,work-life balance,3.5059880239520957,668
+London Underground,culture,2.409090909090909,22
+London Underground,growth & learning,3.6,40
+London Underground,hr & recruitment,2.863636363636364,44
+London Underground,job role clarity,2.125,8
+London Underground,management,2.1,30
+London Underground,office & location,2.4615384615384617,13
+London Underground,pay,3.5294117647058822,68
+London Underground,people,2.757575757575758,33
+London Underground,perks & benefits,3.864406779661017,59
+London Underground,stress & pressure,1.6363636363636365,11
+London Underground,teamwork & collaboration,3.6153846153846154,13
+London Underground,tools & resources,3.8181818181818183,11
+London Underground,work-life balance,2.8045977011494254,87
+Malmaison,culture,3.0,12
+Malmaison,growth & learning,4.0,12
+Malmaison,hr & recruitment,2.628571428571429,35
+Malmaison,job role clarity,4.0,1
+Malmaison,management,2.0,21
+Malmaison,office & location,2.75,8
+Malmaison,pay,2.3,20
+Malmaison,people,2.0,7
+Malmaison,perks & benefits,2.7222222222222223,18
+Malmaison,stress & pressure,1.4545454545454546,11
+Malmaison,teamwork & collaboration,3.6875,16
+Malmaison,tools & resources,2.5,2
+Malmaison,work-life balance,2.1818181818181817,22
+Manpower,culture,3.193548387096774,31
+Manpower,growth & learning,3.7142857142857144,42
+Manpower,hr & recruitment,2.8771929824561404,57
+Manpower,job role clarity,3.0,14
+Manpower,management,2.8048780487804876,41
+Manpower,office & location,2.739130434782609,23
+Manpower,pay,2.566265060240964,83
+Manpower,people,3.5185185185185186,27
+Manpower,perks & benefits,2.8666666666666667,15
+Manpower,stress & pressure,2.4,5
+Manpower,teamwork & collaboration,3.5,24
+Manpower,tools & resources,3.95,20
+Manpower,work-life balance,3.1666666666666665,54
+Mastercard,culture,3.673076923076923,52
+Mastercard,growth & learning,3.393939393939394,66
+Mastercard,hr & recruitment,2.9583333333333335,24
+Mastercard,job role clarity,3.0,15
+Mastercard,management,2.8378378378378377,37
+Mastercard,office & location,3.3125,32
+Mastercard,pay,3.411764705882353,34
+Mastercard,people,3.466666666666667,45
+Mastercard,perks & benefits,3.96,25
+Mastercard,stress & pressure,2.5833333333333335,12
+Mastercard,teamwork & collaboration,3.5,24
+Mastercard,tools & resources,3.2222222222222223,36
+Mastercard,work-life balance,3.710526315789474,38
+McKinsey and Company,culture,3.5526315789473686,38
+McKinsey and Company,growth & learning,3.9655172413793105,116
+McKinsey and Company,hr & recruitment,3.59375,32
+McKinsey and Company,job role clarity,2.6666666666666665,18
+McKinsey and Company,management,2.52,25
+McKinsey and Company,office & location,3.533333333333333,15
+McKinsey and Company,pay,3.4285714285714284,28
+McKinsey and Company,people,3.962264150943396,106
+McKinsey and Company,perks & benefits,4.136363636363637,22
+McKinsey and Company,stress & pressure,2.064516129032258,62
+McKinsey and Company,teamwork & collaboration,3.75,12
+McKinsey and Company,tools & resources,3.807692307692307,26
+McKinsey and Company,work-life balance,2.1293103448275863,116
+Mears,culture,2.0526315789473686,19
+Mears,growth & learning,3.5,22
+Mears,hr & recruitment,2.075,40
+Mears,job role clarity,1.5,4
+Mears,management,1.9268292682926829,41
+Mears,office & location,2.769230769230769,26
+Mears,pay,2.0697674418604652,43
+Mears,people,2.878787878787879,33
+Mears,perks & benefits,2.2222222222222223,9
+Mears,stress & pressure,1.625,8
+Mears,teamwork & collaboration,2.8125,16
+Mears,tools & resources,3.0,8
+Mears,work-life balance,2.588235294117647,34
+Mercer,culture,3.2037037037037037,54
+Mercer,growth & learning,3.0121951219512195,82
+Mercer,hr & recruitment,2.466666666666667,45
+Mercer,job role clarity,2.5,12
+Mercer,management,2.2131147540983607,61
+Mercer,office & location,3.2244897959183674,49
+Mercer,pay,1.95,60
+Mercer,people,3.4835164835164836,91
+Mercer,perks & benefits,3.7,40
+Mercer,stress & pressure,1.4615384615384617,13
+Mercer,teamwork & collaboration,3.097560975609756,41
+Mercer,tools & resources,3.111111111111111,36
+Mercer,work-life balance,3.357142857142857,70
+Met Office,culture,4.076923076923077,13
+Met Office,growth & learning,3.4210526315789473,19
+Met Office,hr & recruitment,2.9166666666666665,12
+Met Office,job role clarity,3.5,4
+Met Office,management,2.6,15
+Met Office,office & location,3.411764705882353,17
+Met Office,pay,2.2222222222222223,27
+Met Office,people,3.7058823529411766,17
+Met Office,perks & benefits,4.176470588235294,17
+Met Office,stress & pressure,3.3333333333333335,3
+Met Office,teamwork & collaboration,3.857142857142857,7
+Met Office,tools & resources,4.2727272727272725,11
+Met Office,work-life balance,3.75,16
+Metro Bank,culture,3.6476510067114094,298
+Metro Bank,growth & learning,3.508361204013378,299
+Metro Bank,hr & recruitment,3.08187134502924,171
+Metro Bank,job role clarity,2.752577319587629,97
+Metro Bank,management,2.725274725274726,182
+Metro Bank,office & location,3.4,90
+Metro Bank,pay,2.3820224719101124,178
+Metro Bank,people,3.5400696864111496,287
+Metro Bank,perks & benefits,3.234375,64
+Metro Bank,stress & pressure,2.6666666666666665,81
+Metro Bank,teamwork & collaboration,3.4873417721518987,158
+Metro Bank,tools & resources,3.57,100
+Metro Bank,work-life balance,2.4379084967320264,153
+Michelmores,culture,3.789473684210526,19
+Michelmores,growth & learning,4.0,26
+Michelmores,hr & recruitment,4.230769230769231,26
+Michelmores,job role clarity,3.7777777777777777,9
+Michelmores,management,3.4375,16
+Michelmores,office & location,3.7,30
+Michelmores,pay,3.5,6
+Michelmores,people,4.041666666666667,24
+Michelmores,perks & benefits,3.8421052631578942,19
+Michelmores,stress & pressure,3.8,5
+Michelmores,teamwork & collaboration,4.130434782608695,23
+Michelmores,tools & resources,4.066666666666666,15
+Michelmores,work-life balance,3.923076923076923,13
+Microsoft,culture,3.6584158415841586,202
+Microsoft,growth & learning,3.624413145539906,213
+Microsoft,hr & recruitment,3.2804878048780486,82
+Microsoft,job role clarity,2.907407407407407,54
+Microsoft,management,2.3350785340314135,191
+Microsoft,office & location,3.3376623376623376,77
+Microsoft,pay,3.2167832167832167,143
+Microsoft,people,3.557894736842105,190
+Microsoft,perks & benefits,3.863636363636364,154
+Microsoft,stress & pressure,2.242424242424242,66
+Microsoft,teamwork & collaboration,3.1954022988505746,87
+Microsoft,tools & resources,3.5579710144927534,138
+Microsoft,work-life balance,3.2994350282485874,177
+Ministry of Justice UK,culture,2.823529411764706,51
+Ministry of Justice UK,growth & learning,3.0121951219512195,82
+Ministry of Justice UK,hr & recruitment,2.5294117647058822,68
+Ministry of Justice UK,job role clarity,2.9473684210526314,19
+Ministry of Justice UK,management,1.8732394366197185,71
+Ministry of Justice UK,office & location,3.0526315789473686,38
+Ministry of Justice UK,pay,2.0660377358490565,106
+Ministry of Justice UK,people,3.5238095238095237,63
+Ministry of Justice UK,perks & benefits,3.388888888888889,36
+Ministry of Justice UK,stress & pressure,1.818181818181818,22
+Ministry of Justice UK,teamwork & collaboration,3.4210526315789473,38
+Ministry of Justice UK,tools & resources,2.6923076923076925,26
+Ministry of Justice UK,work-life balance,3.588785046728972,107
+Mitie,culture,2.3461538461538463,104
+Mitie,growth & learning,2.870967741935484,124
+Mitie,hr & recruitment,2.316546762589928,139
+Mitie,job role clarity,2.243243243243243,37
+Mitie,management,2.0256410256410255,195
+Mitie,office & location,2.6805555555555554,72
+Mitie,pay,2.25,236
+Mitie,people,3.0814814814814815,135
+Mitie,perks & benefits,2.8253968253968256,63
+Mitie,stress & pressure,1.9069767441860463,43
+Mitie,teamwork & collaboration,2.9565217391304346,69
+Mitie,tools & resources,2.3815789473684212,76
+Mitie,work-life balance,2.6467065868263475,167
+Morgan Stanley,culture,3.647368421052632,190
+Morgan Stanley,growth & learning,3.198717948717949,156
+Morgan Stanley,hr & recruitment,3.380952380952381,84
+Morgan Stanley,job role clarity,3.057142857142857,35
+Morgan Stanley,management,2.4923076923076923,130
+Morgan Stanley,office & location,3.164383561643836,73
+Morgan Stanley,pay,2.627329192546584,161
+Morgan Stanley,people,3.834285714285714,175
+Morgan Stanley,perks & benefits,3.7088607594936702,79
+Morgan Stanley,stress & pressure,2.0641025641025643,78
+Morgan Stanley,teamwork & collaboration,3.3580246913580245,81
+Morgan Stanley,tools & resources,3.0864197530864197,81
+Morgan Stanley,work-life balance,2.515151515151515,165
+Mountain Warehouse,culture,2.608695652173913,46
+Mountain Warehouse,growth & learning,2.933333333333333,45
+Mountain Warehouse,hr & recruitment,2.6506024096385543,83
+Mountain Warehouse,job role clarity,1.9230769230769231,13
+Mountain Warehouse,management,2.0508474576271185,59
+Mountain Warehouse,office & location,2.282608695652174,46
+Mountain Warehouse,pay,1.6714285714285717,70
+Mountain Warehouse,people,2.871794871794872,39
+Mountain Warehouse,perks & benefits,3.168831168831169,77
+Mountain Warehouse,stress & pressure,1.681818181818182,22
+Mountain Warehouse,teamwork & collaboration,2.6923076923076925,26
+Mountain Warehouse,tools & resources,2.409090909090909,22
+Mountain Warehouse,work-life balance,2.0185185185185186,54
+MyCSP,culture,3.0,10
+MyCSP,growth & learning,2.8181818181818183,11
+MyCSP,hr & recruitment,2.3529411764705883,17
+MyCSP,job role clarity,2.75,4
+MyCSP,management,2.2222222222222223,9
+MyCSP,office & location,3.25,8
+MyCSP,pay,2.7333333333333334,15
+MyCSP,people,2.9166666666666665,12
+MyCSP,perks & benefits,2.5,8
+MyCSP,stress & pressure,4.0,2
+MyCSP,teamwork & collaboration,3.8,5
+MyCSP,tools & resources,5.0,1
+MyCSP,work-life balance,3.0,5
+NHS,culture,3.074487895716946,537
+NHS,growth & learning,3.2154031287605296,831
+NHS,hr & recruitment,2.706858407079646,904
+NHS,job role clarity,2.7333333333333334,165
+NHS,management,1.8536121673003805,526
+NHS,office & location,2.5166666666666666,240
+NHS,pay,2.437348423605497,1237
+NHS,people,3.6961414790996785,622
+NHS,perks & benefits,3.4205378973105134,818
+NHS,stress & pressure,1.6125,560
+NHS,teamwork & collaboration,3.963302752293578,545
+NHS,tools & resources,3.071269487750557,449
+NHS,work-life balance,2.825123152709359,1218
+NHS England,culture,3.2549019607843137,51
+NHS England,growth & learning,3.311688311688312,77
+NHS England,hr & recruitment,3.047619047619047,63
+NHS England,job role clarity,2.4,10
+NHS England,management,1.981818181818182,55
+NHS England,office & location,2.375,16
+NHS England,pay,2.707865168539326,89
+NHS England,people,3.5681818181818183,44
+NHS England,perks & benefits,3.5961538461538463,52
+NHS England,stress & pressure,1.65625,32
+NHS England,teamwork & collaboration,3.5319148936170213,47
+NHS England,tools & resources,3.2083333333333335,24
+NHS England,work-life balance,2.970873786407767,103
+NHS Professionals,culture,2.526315789473684,19
+NHS Professionals,growth & learning,2.896551724137931,29
+NHS Professionals,hr & recruitment,1.9523809523809523,42
+NHS Professionals,job role clarity,2.363636363636364,11
+NHS Professionals,management,2.2,30
+NHS Professionals,office & location,2.4210526315789473,19
+NHS Professionals,pay,2.611940298507463,67
+NHS Professionals,people,3.2941176470588234,17
+NHS Professionals,perks & benefits,2.2941176470588234,34
+NHS Professionals,stress & pressure,1.1666666666666667,6
+NHS Professionals,teamwork & collaboration,3.5454545454545454,22
+NHS Professionals,tools & resources,2.2083333333333335,24
+NHS Professionals,work-life balance,3.0,80
+Nando s UK and IRE,culture,3.806930693069307,202
+Nando s UK and IRE,growth & learning,3.548611111111111,144
+Nando s UK and IRE,hr & recruitment,3.269767441860465,215
+Nando s UK and IRE,job role clarity,2.875,24
+Nando s UK and IRE,management,2.6145833333333335,192
+Nando s UK and IRE,office & location,3.2790697674418605,43
+Nando s UK and IRE,pay,3.079847908745247,263
+Nando s UK and IRE,people,3.652439024390244,164
+Nando s UK and IRE,perks & benefits,4.027777777777778,324
+Nando s UK and IRE,stress & pressure,1.7878787878787878,132
+Nando s UK and IRE,teamwork & collaboration,3.8086956521739137,115
+Nando s UK and IRE,tools & resources,3.847826086956522,46
+Nando s UK and IRE,work-life balance,2.941043083900227,441
+National Institute for Health and Care Excellence,culture,3.4545454545454546,11
+National Institute for Health and Care Excellence,growth & learning,2.857142857142857,21
+National Institute for Health and Care Excellence,hr & recruitment,2.6470588235294117,17
+National Institute for Health and Care Excellence,job role clarity,2.5,6
+National Institute for Health and Care Excellence,management,1.9473684210526316,19
+National Institute for Health and Care Excellence,office & location,3.5833333333333335,12
+National Institute for Health and Care Excellence,pay,4.0,7
+National Institute for Health and Care Excellence,people,3.636363636363636,11
+National Institute for Health and Care Excellence,perks & benefits,3.4375,16
+National Institute for Health and Care Excellence,stress & pressure,2.0,2
+National Institute for Health and Care Excellence,teamwork & collaboration,2.8333333333333335,12
+National Institute for Health and Care Excellence,tools & resources,3.5454545454545454,11
+National Institute for Health and Care Excellence,work-life balance,3.6296296296296298,27
+National Star,culture,2.8,5
+National Star,growth & learning,3.5555555555555554,9
+National Star,hr & recruitment,3.4,10
+National Star,job role clarity,3.0,3
+National Star,management,3.75,4
+National Star,office & location,2.3333333333333335,3
+National Star,pay,3.375,8
+National Star,people,3.7142857142857144,7
+National Star,perks & benefits,4.0,2
+National Star,stress & pressure,1.0,1
+National Star,teamwork & collaboration,3.0,3
+National Star,tools & resources,2.5,2
+National Star,work-life balance,2.8,5
+Nationwide Building Society,culture,3.364102564102564,195
+Nationwide Building Society,growth & learning,2.9233333333333333,300
+Nationwide Building Society,hr & recruitment,3.0559006211180124,161
+Nationwide Building Society,job role clarity,2.3214285714285716,84
+Nationwide Building Society,management,2.272727272727273,242
+Nationwide Building Society,office & location,3.013793103448276,145
+Nationwide Building Society,pay,2.49618320610687,262
+Nationwide Building Society,people,3.360189573459716,211
+Nationwide Building Society,perks & benefits,3.9661016949152543,177
+Nationwide Building Society,stress & pressure,1.9824561403508771,57
+Nationwide Building Society,teamwork & collaboration,3.5238095238095237,105
+Nationwide Building Society,tools & resources,3.322834645669291,127
+Nationwide Building Society,work-life balance,3.6601941747572817,206
+Network Rail,culture,3.0,137
+Network Rail,growth & learning,3.444,250
+Network Rail,hr & recruitment,2.824242424242424,165
+Network Rail,job role clarity,2.984375,64
+Network Rail,management,1.9504950495049505,202
+Network Rail,office & location,3.1682242990654204,107
+Network Rail,pay,3.154166666666667,240
+Network Rail,people,3.2956521739130435,115
+Network Rail,perks & benefits,3.7251461988304095,171
+Network Rail,stress & pressure,1.9696969696969695,33
+Network Rail,teamwork & collaboration,3.246913580246914,81
+Network Rail,tools & resources,3.0405405405405403,74
+Network Rail,work-life balance,3.5016835016835017,297
+North Yorkshire County Council,culture,3.0,8
+North Yorkshire County Council,growth & learning,3.875,16
+North Yorkshire County Council,hr & recruitment,3.5384615384615383,13
+North Yorkshire County Council,job role clarity,2.5,4
+North Yorkshire County Council,management,2.3,10
+North Yorkshire County Council,office & location,3.111111111111111,9
+North Yorkshire County Council,pay,2.875,16
+North Yorkshire County Council,people,3.923076923076923,13
+North Yorkshire County Council,perks & benefits,3.8125,16
+North Yorkshire County Council,stress & pressure,1.0,1
+North Yorkshire County Council,teamwork & collaboration,3.909090909090909,11
+North Yorkshire County Council,tools & resources,3.4705882352941178,17
+North Yorkshire County Council,work-life balance,3.4,20
+Northern Gas and Power,culture,4.358208955223881,201
+Northern Gas and Power,growth & learning,4.469230769230769,130
+Northern Gas and Power,hr & recruitment,4.212903225806452,155
+Northern Gas and Power,job role clarity,4.129032258064516,31
+Northern Gas and Power,management,4.072727272727272,110
+Northern Gas and Power,office & location,3.4210526315789473,76
+Northern Gas and Power,pay,4.334615384615384,260
+Northern Gas and Power,people,3.9305555555555554,72
+Northern Gas and Power,perks & benefits,4.0,85
+Northern Gas and Power,stress & pressure,2.3513513513513513,37
+Northern Gas and Power,teamwork & collaboration,4.287671232876712,73
+Northern Gas and Power,tools & resources,4.482758620689655,87
+Northern Gas and Power,work-life balance,4.228346456692913,127
+Nuffield Health,culture,3.0681818181818183,88
+Nuffield Health,growth & learning,2.776470588235294,85
+Nuffield Health,hr & recruitment,2.5669291338582676,127
+Nuffield Health,job role clarity,2.1621621621621623,37
+Nuffield Health,management,1.826086956521739,92
+Nuffield Health,office & location,2.84,50
+Nuffield Health,pay,2.0551181102362204,127
+Nuffield Health,people,2.9726027397260273,73
+Nuffield Health,perks & benefits,3.6301369863013697,146
+Nuffield Health,stress & pressure,1.88,25
+Nuffield Health,teamwork & collaboration,3.338235294117647,68
+Nuffield Health,tools & resources,2.8780487804878048,41
+Nuffield Health,work-life balance,2.7083333333333335,96
+Odgers Berndtson,culture,2.6666666666666665,15
+Odgers Berndtson,growth & learning,2.4,10
+Odgers Berndtson,hr & recruitment,2.8823529411764706,17
+Odgers Berndtson,job role clarity,2.2857142857142856,7
+Odgers Berndtson,management,1.6666666666666667,12
+Odgers Berndtson,office & location,3.8823529411764706,17
+Odgers Berndtson,pay,2.25,8
+Odgers Berndtson,people,3.1176470588235294,17
+Odgers Berndtson,perks & benefits,3.75,4
+Odgers Berndtson,stress & pressure,3.0,1
+Odgers Berndtson,teamwork & collaboration,3.0714285714285716,14
+Odgers Berndtson,tools & resources,2.8666666666666667,15
+Odgers Berndtson,work-life balance,2.9166666666666665,12
+Office Angels,culture,3.4545454545454546,22
+Office Angels,growth & learning,3.857142857142857,14
+Office Angels,hr & recruitment,3.736842105263158,19
+Office Angels,job role clarity,3.142857142857143,7
+Office Angels,management,4.166666666666667,6
+Office Angels,office & location,3.6666666666666665,12
+Office Angels,pay,3.1923076923076925,26
+Office Angels,people,3.75,8
+Office Angels,perks & benefits,4.25,8
+Office Angels,stress & pressure,1.5,2
+Office Angels,teamwork & collaboration,4.076923076923077,13
+Office Angels,tools & resources,4.571428571428571,7
+Office Angels,work-life balance,3.142857142857143,14
+Office Concierge,culture,2.8,25
+Office Concierge,growth & learning,3.1951219512195124,41
+Office Concierge,hr & recruitment,2.488888888888889,45
+Office Concierge,job role clarity,3.32,25
+Office Concierge,management,2.5365853658536586,41
+Office Concierge,office & location,3.475,40
+Office Concierge,pay,2.3877551020408165,49
+Office Concierge,people,3.4285714285714284,42
+Office Concierge,perks & benefits,2.764705882352941,17
+Office Concierge,stress & pressure,2.5833333333333335,12
+Office Concierge,teamwork & collaboration,3.7,40
+Office Concierge,tools & resources,3.96,25
+Office Concierge,work-life balance,2.36734693877551,49
+Office for National Statistics,culture,3.4166666666666665,12
+Office for National Statistics,growth & learning,3.4210526315789473,19
+Office for National Statistics,hr & recruitment,3.3846153846153846,13
+Office for National Statistics,job role clarity,2.6,5
+Office for National Statistics,management,3.1875,16
+Office for National Statistics,office & location,2.5714285714285716,7
+Office for National Statistics,pay,2.375,24
+Office for National Statistics,people,4.2,10
+Office for National Statistics,perks & benefits,3.7142857142857144,7
+Office for National Statistics,stress & pressure,2.25,4
+Office for National Statistics,teamwork & collaboration,3.2222222222222223,9
+Office for National Statistics,tools & resources,3.2857142857142856,14
+Office for National Statistics,work-life balance,3.741935483870967,31
+Oliver Wyman,culture,3.744186046511628,43
+Oliver Wyman,growth & learning,3.566666666666667,60
+Oliver Wyman,hr & recruitment,3.1666666666666665,18
+Oliver Wyman,job role clarity,3.111111111111111,9
+Oliver Wyman,management,2.526315789473684,19
+Oliver Wyman,office & location,3.090909090909091,22
+Oliver Wyman,pay,2.9545454545454546,22
+Oliver Wyman,people,3.952380952380953,63
+Oliver Wyman,perks & benefits,3.8666666666666663,15
+Oliver Wyman,stress & pressure,1.6875,16
+Oliver Wyman,teamwork & collaboration,3.3333333333333335,18
+Oliver Wyman,tools & resources,3.1,20
+Oliver Wyman,work-life balance,2.6724137931034484,58
+Oracle,culture,3.1185185185185187,135
+Oracle,growth & learning,2.867704280155642,257
+Oracle,hr & recruitment,2.7338709677419355,124
+Oracle,job role clarity,2.8833333333333333,60
+Oracle,management,2.0108108108108107,185
+Oracle,office & location,3.072289156626506,83
+Oracle,pay,2.306859205776173,277
+Oracle,people,3.3190184049079754,163
+Oracle,perks & benefits,3.953216374269006,171
+Oracle,stress & pressure,2.1724137931034484,29
+Oracle,teamwork & collaboration,3.0714285714285716,98
+Oracle,tools & resources,3.441666666666667,120
+Oracle,work-life balance,3.7885714285714287,175
+Orbit Group,culture,3.55,20
+Orbit Group,growth & learning,3.5833333333333335,12
+Orbit Group,hr & recruitment,3.636363636363636,11
+Orbit Group,job role clarity,3.0,5
+Orbit Group,management,3.3333333333333335,18
+Orbit Group,office & location,2.857142857142857,7
+Orbit Group,pay,3.1,10
+Orbit Group,people,4.0,17
+Orbit Group,perks & benefits,4.545454545454546,11
+Orbit Group,stress & pressure,2.4,5
+Orbit Group,teamwork & collaboration,3.8461538461538463,13
+Orbit Group,tools & resources,3.4166666666666665,12
+Orbit Group,work-life balance,4.071428571428571,14
+Ordnance Survey,culture,3.111111111111111,27
+Ordnance Survey,growth & learning,2.857142857142857,21
+Ordnance Survey,hr & recruitment,2.761904761904762,21
+Ordnance Survey,job role clarity,3.0,4
+Ordnance Survey,management,2.2222222222222223,18
+Ordnance Survey,office & location,3.607142857142857,28
+Ordnance Survey,pay,2.5,16
+Ordnance Survey,people,3.8181818181818183,33
+Ordnance Survey,perks & benefits,3.8181818181818183,11
+Ordnance Survey,stress & pressure,2.6666666666666665,3
+Ordnance Survey,teamwork & collaboration,4.5,6
+Ordnance Survey,tools & resources,3.388888888888889,18
+Ordnance Survey,work-life balance,4.076923076923077,26
+Penguin Random House,culture,3.303030303030303,33
+Penguin Random House,growth & learning,2.871794871794872,39
+Penguin Random House,hr & recruitment,3.142857142857143,21
+Penguin Random House,job role clarity,2.875,8
+Penguin Random House,management,2.3333333333333335,15
+Penguin Random House,office & location,3.7,20
+Penguin Random House,pay,1.8571428571428572,42
+Penguin Random House,people,3.693877551020408,49
+Penguin Random House,perks & benefits,4.043478260869565,23
+Penguin Random House,stress & pressure,1.625,8
+Penguin Random House,teamwork & collaboration,3.4615384615384617,13
+Penguin Random House,tools & resources,2.142857142857143,14
+Penguin Random House,work-life balance,3.0952380952380953,21
+Pertemps,culture,2.9444444444444446,36
+Pertemps,growth & learning,3.085714285714286,35
+Pertemps,hr & recruitment,3.0,45
+Pertemps,job role clarity,2.4285714285714284,7
+Pertemps,management,2.911764705882353,34
+Pertemps,office & location,3.1153846153846154,26
+Pertemps,pay,2.734375,64
+Pertemps,people,3.161290322580645,31
+Pertemps,perks & benefits,2.4,15
+Pertemps,stress & pressure,1.4166666666666667,12
+Pertemps,teamwork & collaboration,3.25,24
+Pertemps,tools & resources,2.608695652173913,23
+Pertemps,work-life balance,2.7857142857142856,56
+Portico,culture,3.7777777777777777,9
+Portico,growth & learning,3.4,25
+Portico,hr & recruitment,3.111111111111111,18
+Portico,job role clarity,3.25,4
+Portico,management,1.8823529411764703,17
+Portico,office & location,3.4,5
+Portico,pay,2.8333333333333335,24
+Portico,people,3.4444444444444446,9
+Portico,perks & benefits,2.142857142857143,7
+Portico,stress & pressure,1.5,2
+Portico,teamwork & collaboration,2.7777777777777777,18
+Portico,tools & resources,2.6666666666666665,6
+Portico,work-life balance,2.636363636363636,11
+Post Office,culture,3.136363636363636,44
+Post Office,growth & learning,2.8227848101265822,79
+Post Office,hr & recruitment,2.7777777777777777,81
+Post Office,job role clarity,2.3529411764705883,17
+Post Office,management,2.0806451612903225,62
+Post Office,office & location,3.103448275862069,58
+Post Office,pay,2.803921568627451,102
+Post Office,people,3.8472222222222223,72
+Post Office,perks & benefits,3.34375,32
+Post Office,stress & pressure,1.870967741935484,31
+Post Office,teamwork & collaboration,4.090909090909091,33
+Post Office,tools & resources,3.6666666666666665,18
+Post Office,work-life balance,3.340909090909091,88
+Priory Group,culture,2.4714285714285715,70
+Priory Group,growth & learning,3.1222222222222222,90
+Priory Group,hr & recruitment,2.5853658536585367,205
+Priory Group,job role clarity,2.9166666666666665,24
+Priory Group,management,2.0483870967741935,124
+Priory Group,office & location,3.0,32
+Priory Group,pay,2.439393939393939,132
+Priory Group,people,3.3076923076923075,91
+Priory Group,perks & benefits,2.8360655737704916,61
+Priory Group,stress & pressure,1.4285714285714286,35
+Priory Group,teamwork & collaboration,3.69,100
+Priory Group,tools & resources,3.1809523809523808,105
+Priory Group,work-life balance,2.4946236559139785,93
+Public Health England,culture,2.6206896551724137,29
+Public Health England,growth & learning,2.7454545454545456,55
+Public Health England,hr & recruitment,2.8048780487804876,41
+Public Health England,job role clarity,2.272727272727273,11
+Public Health England,management,2.135135135135135,37
+Public Health England,office & location,2.642857142857143,14
+Public Health England,pay,2.019230769230769,52
+Public Health England,people,3.1,50
+Public Health England,perks & benefits,3.1379310344827585,29
+Public Health England,stress & pressure,2.6666666666666665,6
+Public Health England,teamwork & collaboration,3.5,24
+Public Health England,tools & resources,3.55,20
+Public Health England,work-life balance,3.4878048780487805,41
+PwC,culture,3.3432539682539684,504
+PwC,growth & learning,3.5733082706766917,1064
+PwC,hr & recruitment,3.4420131291028446,457
+PwC,job role clarity,2.8181818181818183,176
+PwC,management,2.2482100238663483,419
+PwC,office & location,3.396694214876033,242
+PwC,pay,2.082014388489209,695
+PwC,people,3.7771010962241167,821
+PwC,perks & benefits,3.487603305785124,242
+PwC,stress & pressure,1.705463182897862,421
+PwC,teamwork & collaboration,3.326984126984127,315
+PwC,tools & resources,3.4655172413793105,348
+PwC,work-life balance,2.6439326837909656,1129
+REED,culture,3.169421487603306,242
+REED,growth & learning,3.9124579124579126,297
+REED,hr & recruitment,3.589442815249267,341
+REED,job role clarity,3.125,64
+REED,management,3.0833333333333335,216
+REED,office & location,3.2285714285714286,140
+REED,pay,2.9962546816479403,267
+REED,people,3.798780487804878,164
+REED,perks & benefits,3.7457627118644066,118
+REED,stress & pressure,2.3,40
+REED,teamwork & collaboration,3.9273743016759775,179
+REED,tools & resources,3.8191489361702127,188
+REED,work-life balance,2.9548387096774196,155
+RSM,culture,3.156862745098039,51
+RSM,growth & learning,3.1621621621621623,74
+RSM,hr & recruitment,2.6,65
+RSM,job role clarity,2.823529411764706,17
+RSM,management,2.0833333333333335,48
+RSM,office & location,2.939393939393939,33
+RSM,pay,2.103448275862069,58
+RSM,people,3.7936507936507935,63
+RSM,perks & benefits,3.0,25
+RSM,stress & pressure,1.7142857142857142,21
+RSM,teamwork & collaboration,3.695652173913043,46
+RSM,tools & resources,3.909090909090909,33
+RSM,work-life balance,2.835616438356164,73
+Randstad,culture,3.768595041322314,121
+Randstad,growth & learning,4.086705202312139,173
+Randstad,hr & recruitment,3.9565217391304346,161
+Randstad,job role clarity,3.5384615384615383,39
+Randstad,management,3.56,125
+Randstad,office & location,3.5121951219512195,82
+Randstad,pay,3.2421875,128
+Randstad,people,4.131868131868132,91
+Randstad,perks & benefits,4.071428571428571,70
+Randstad,stress & pressure,2.5952380952380953,42
+Randstad,teamwork & collaboration,4.079365079365079,126
+Randstad,tools & resources,4.390243902439025,123
+Randstad,work-life balance,3.0576923076923075,104
+Rapport London,culture,3.12,25
+Rapport London,growth & learning,3.282051282051282,39
+Rapport London,hr & recruitment,3.107142857142857,28
+Rapport London,job role clarity,2.2222222222222223,9
+Rapport London,management,1.9642857142857144,28
+Rapport London,office & location,2.5217391304347827,23
+Rapport London,pay,3.033333333333333,30
+Rapport London,people,2.8,30
+Rapport London,perks & benefits,2.7777777777777777,18
+Rapport London,stress & pressure,1.0,6
+Rapport London,teamwork & collaboration,3.1379310344827585,29
+Rapport London,tools & resources,3.7,10
+Rapport London,work-life balance,2.3529411764705883,17
+Rathbone Brothers,culture,3.761904761904762,21
+Rathbone Brothers,growth & learning,3.0526315789473686,19
+Rathbone Brothers,hr & recruitment,3.1052631578947367,19
+Rathbone Brothers,job role clarity,3.3333333333333335,6
+Rathbone Brothers,management,3.5,16
+Rathbone Brothers,office & location,3.411764705882353,17
+Rathbone Brothers,pay,2.230769230769231,13
+Rathbone Brothers,people,3.7142857142857144,21
+Rathbone Brothers,perks & benefits,4.2,10
+Rathbone Brothers,stress & pressure,2.6666666666666665,6
+Rathbone Brothers,teamwork & collaboration,3.0,9
+Rathbone Brothers,tools & resources,3.7333333333333334,15
+Rathbone Brothers,work-life balance,3.909090909090909,11
+Reassured,culture,4.0,47
+Reassured,growth & learning,4.466666666666667,60
+Reassured,hr & recruitment,3.9827586206896552,58
+Reassured,job role clarity,3.1052631578947367,19
+Reassured,management,3.9649122807017543,57
+Reassured,office & location,3.515151515151515,33
+Reassured,pay,3.903225806451613,93
+Reassured,people,3.4473684210526314,38
+Reassured,perks & benefits,3.25,24
+Reassured,stress & pressure,2.88,25
+Reassured,teamwork & collaboration,4.324324324324325,37
+Reassured,tools & resources,4.6,35
+Reassured,work-life balance,2.7142857142857144,42
+Rendall and Rittner,culture,2.9696969696969697,33
+Rendall and Rittner,growth & learning,3.3333333333333335,63
+Rendall and Rittner,hr & recruitment,3.338709677419355,62
+Rendall and Rittner,job role clarity,3.2,10
+Rendall and Rittner,management,2.883720930232558,43
+Rendall and Rittner,office & location,2.4583333333333335,24
+Rendall and Rittner,pay,2.875,40
+Rendall and Rittner,people,3.4444444444444446,27
+Rendall and Rittner,perks & benefits,3.4210526315789473,19
+Rendall and Rittner,stress & pressure,2.0,9
+Rendall and Rittner,teamwork & collaboration,3.8620689655172415,29
+Rendall and Rittner,tools & resources,3.5675675675675675,37
+Rendall and Rittner,work-life balance,3.1714285714285713,35
+Rentokil Initial,culture,3.660377358490566,106
+Rentokil Initial,growth & learning,4.073170731707317,205
+Rentokil Initial,hr & recruitment,3.898809523809524,168
+Rentokil Initial,job role clarity,3.3424657534246576,73
+Rentokil Initial,management,3.360294117647059,136
+Rentokil Initial,office & location,3.3529411764705883,51
+Rentokil Initial,pay,3.25,180
+Rentokil Initial,people,3.8514851485148514,101
+Rentokil Initial,perks & benefits,3.6176470588235294,68
+Rentokil Initial,stress & pressure,2.5172413793103448,58
+Rentokil Initial,teamwork & collaboration,3.887755102040817,98
+Rentokil Initial,tools & resources,3.969924812030075,133
+Rentokil Initial,work-life balance,3.040650406504065,123
+Robert Walters,culture,3.7945205479452055,73
+Robert Walters,growth & learning,3.924242424242424,66
+Robert Walters,hr & recruitment,3.102564102564102,78
+Robert Walters,job role clarity,3.2666666666666666,15
+Robert Walters,management,3.1666666666666665,66
+Robert Walters,office & location,3.609756097560976,41
+Robert Walters,pay,3.208955223880597,67
+Robert Walters,people,3.466666666666667,45
+Robert Walters,perks & benefits,3.4583333333333335,24
+Robert Walters,stress & pressure,1.761904761904762,21
+Robert Walters,teamwork & collaboration,3.6615384615384614,65
+Robert Walters,tools & resources,3.878787878787879,33
+Robert Walters,work-life balance,2.6666666666666665,60
+Roche,culture,3.28,50
+Roche,growth & learning,3.1153846153846154,52
+Roche,hr & recruitment,2.212121212121212,33
+Roche,job role clarity,2.8333333333333335,12
+Roche,management,1.951219512195122,41
+Roche,office & location,3.4838709677419355,31
+Roche,pay,2.7058823529411766,34
+Roche,people,3.5,50
+Roche,perks & benefits,3.95,40
+Roche,stress & pressure,2.111111111111111,9
+Roche,teamwork & collaboration,3.1481481481481484,27
+Roche,tools & resources,3.35,20
+Roche,work-life balance,3.4347826086956523,46
+Rodericks Dental,culture,4.2,10
+Rodericks Dental,growth & learning,4.2,25
+Rodericks Dental,hr & recruitment,3.4166666666666665,24
+Rodericks Dental,job role clarity,3.0,7
+Rodericks Dental,management,3.941176470588235,17
+Rodericks Dental,office & location,3.4375,16
+Rodericks Dental,pay,2.6,15
+Rodericks Dental,people,3.8666666666666663,15
+Rodericks Dental,perks & benefits,3.0,13
+Rodericks Dental,stress & pressure,3.0,6
+Rodericks Dental,teamwork & collaboration,4.2272727272727275,22
+Rodericks Dental,tools & resources,3.967741935483871,31
+Rodericks Dental,work-life balance,3.8461538461538463,13
+Royal Mail,culture,2.5775401069518717,187
+Royal Mail,growth & learning,2.9689119170984455,193
+Royal Mail,hr & recruitment,2.4552845528455283,246
+Royal Mail,job role clarity,2.4696969696969697,66
+Royal Mail,management,1.7387862796833773,379
+Royal Mail,office & location,2.6323529411764706,136
+Royal Mail,pay,3.3605947955390336,538
+Royal Mail,people,3.4738955823293174,249
+Royal Mail,perks & benefits,3.747422680412371,194
+Royal Mail,stress & pressure,1.887323943661972,142
+Royal Mail,teamwork & collaboration,3.388235294117647,85
+Royal Mail,tools & resources,2.4285714285714284,70
+Royal Mail,work-life balance,2.9397590361445785,498
+Rural Payments Agency,culture,2.6666666666666665,6
+Rural Payments Agency,growth & learning,2.0,5
+Rural Payments Agency,hr & recruitment,1.6,5
+Rural Payments Agency,job role clarity,3.0,2
+Rural Payments Agency,management,1.5,6
+Rural Payments Agency,office & location,1.6,5
+Rural Payments Agency,pay,1.75,8
+Rural Payments Agency,people,2.1666666666666665,6
+Rural Payments Agency,perks & benefits,2.8,5
+Rural Payments Agency,stress & pressure,1.0,1
+Rural Payments Agency,teamwork & collaboration,2.6,5
+Rural Payments Agency,tools & resources,2.0,4
+Rural Payments Agency,work-life balance,3.1666666666666665,6
+SAP,culture,3.6740331491712706,181
+SAP,growth & learning,3.789473684210526,209
+SAP,hr & recruitment,3.24,100
+SAP,job role clarity,3.090909090909091,55
+SAP,management,2.8682634730538923,167
+SAP,office & location,3.305263157894737,95
+SAP,pay,3.9044117647058822,136
+SAP,people,3.729032258064516,155
+SAP,perks & benefits,4.2063492063492065,189
+SAP,stress & pressure,2.0208333333333335,48
+SAP,teamwork & collaboration,3.586206896551724,116
+SAP,tools & resources,3.946564885496183,131
+SAP,work-life balance,3.703448275862069,145
+SSE,culture,2.634920634920635,63
+SSE,growth & learning,2.585714285714286,70
+SSE,hr & recruitment,2.4545454545454546,77
+SSE,job role clarity,2.05,20
+SSE,management,1.7951807228915662,83
+SSE,office & location,2.5,60
+SSE,pay,3.099009900990099,101
+SSE,people,3.0972222222222223,72
+SSE,perks & benefits,3.357894736842105,95
+SSE,stress & pressure,1.818181818181818,22
+SSE,teamwork & collaboration,3.076923076923077,26
+SSE,tools & resources,2.4878048780487805,41
+SSE,work-life balance,3.1805555555555554,72
+Sage,culture,3.574675324675325,308
+Sage,growth & learning,3.5389408099688473,321
+Sage,hr & recruitment,3.212355212355212,259
+Sage,job role clarity,2.865168539325843,89
+Sage,management,2.8392282958199355,311
+Sage,office & location,3.3968253968253967,189
+Sage,pay,3.2580645161290325,217
+Sage,people,3.6227848101265825,395
+Sage,perks & benefits,3.8979591836734695,245
+Sage,stress & pressure,2.4347826086956523,92
+Sage,teamwork & collaboration,3.366336633663366,202
+Sage,tools & resources,3.54421768707483,294
+Sage,work-life balance,3.8078817733990142,203
+Salesforce,culture,3.974895397489539,239
+Salesforce,growth & learning,3.559471365638766,227
+Salesforce,hr & recruitment,3.4313725490196076,102
+Salesforce,job role clarity,3.03125,32
+Salesforce,management,3.0,127
+Salesforce,office & location,3.574712643678161,87
+Salesforce,pay,3.7157894736842105,95
+Salesforce,people,3.686274509803922,153
+Salesforce,perks & benefits,4.32089552238806,134
+Salesforce,stress & pressure,3.061728395061728,81
+Salesforce,teamwork & collaboration,3.4875,80
+Salesforce,tools & resources,3.8990825688073394,109
+Salesforce,work-life balance,3.522727272727273,88
+Sanctuary Group,culture,2.727272727272727,22
+Sanctuary Group,growth & learning,2.347826086956522,23
+Sanctuary Group,hr & recruitment,2.5636363636363635,55
+Sanctuary Group,job role clarity,2.8,10
+Sanctuary Group,management,2.113636363636364,44
+Sanctuary Group,office & location,2.5,22
+Sanctuary Group,pay,2.3333333333333335,48
+Sanctuary Group,people,2.793103448275862,29
+Sanctuary Group,perks & benefits,2.8461538461538463,13
+Sanctuary Group,stress & pressure,1.25,4
+Sanctuary Group,teamwork & collaboration,3.212121212121212,33
+Sanctuary Group,tools & resources,3.0,35
+Sanctuary Group,work-life balance,2.522727272727273,44
+Santander,culture,3.194331983805668,247
+Santander,growth & learning,2.71875,352
+Santander,hr & recruitment,2.7788018433179724,217
+Santander,job role clarity,2.5789473684210527,95
+Santander,management,2.132013201320132,303
+Santander,office & location,2.7580645161290325,124
+Santander,pay,2.590909090909091,352
+Santander,people,3.3375527426160336,237
+Santander,perks & benefits,3.7513513513513512,185
+Santander,stress & pressure,1.679245283018868,53
+Santander,teamwork & collaboration,3.31055900621118,161
+Santander,tools & resources,3.2125984251968505,127
+Santander,work-life balance,3.19571865443425,327
+Savills,culture,3.466666666666667,60
+Savills,growth & learning,3.5774647887323945,71
+Savills,hr & recruitment,2.896551724137931,58
+Savills,job role clarity,2.888888888888889,18
+Savills,management,2.7450980392156863,51
+Savills,office & location,3.0833333333333335,48
+Savills,pay,2.6710526315789473,76
+Savills,people,3.7205882352941178,68
+Savills,perks & benefits,3.6875,32
+Savills,stress & pressure,1.7058823529411764,17
+Savills,teamwork & collaboration,3.217391304347826,46
+Savills,tools & resources,3.2666666666666666,30
+Savills,work-life balance,3.019230769230769,52
+ScS Sofas,culture,2.7777777777777777,18
+ScS Sofas,growth & learning,3.736842105263158,19
+ScS Sofas,hr & recruitment,2.92,25
+ScS Sofas,job role clarity,2.1666666666666665,6
+ScS Sofas,management,2.823529411764706,17
+ScS Sofas,office & location,2.619047619047619,21
+ScS Sofas,pay,3.066666666666667,45
+ScS Sofas,people,3.4,15
+ScS Sofas,perks & benefits,3.1666666666666665,18
+ScS Sofas,stress & pressure,2.142857142857143,14
+ScS Sofas,teamwork & collaboration,3.5555555555555554,9
+ScS Sofas,tools & resources,2.5,10
+ScS Sofas,work-life balance,2.1621621621621623,37
+Search Consultancy,culture,3.236842105263158,38
+Search Consultancy,growth & learning,4.022222222222222,45
+Search Consultancy,hr & recruitment,3.602564102564102,78
+Search Consultancy,job role clarity,2.75,8
+Search Consultancy,management,2.9482758620689653,58
+Search Consultancy,office & location,3.1818181818181817,33
+Search Consultancy,pay,2.8793103448275863,58
+Search Consultancy,people,3.3333333333333335,33
+Search Consultancy,perks & benefits,3.142857142857143,14
+Search Consultancy,stress & pressure,2.636363636363636,11
+Search Consultancy,teamwork & collaboration,3.911764705882353,34
+Search Consultancy,tools & resources,3.743589743589744,39
+Search Consultancy,work-life balance,2.12,25
+Serco Group,culture,2.5555555555555554,99
+Serco Group,growth & learning,2.6728971962616823,107
+Serco Group,hr & recruitment,2.4964028776978417,139
+Serco Group,job role clarity,2.6785714285714284,28
+Serco Group,management,1.872611464968153,157
+Serco Group,office & location,2.6557377049180326,61
+Serco Group,pay,2.3444976076555024,209
+Serco Group,people,3.3307086614173227,127
+Serco Group,perks & benefits,2.466666666666667,45
+Serco Group,stress & pressure,2.4,25
+Serco Group,teamwork & collaboration,3.2933333333333334,75
+Serco Group,tools & resources,2.557142857142857,70
+Serco Group,work-life balance,2.7899159663865545,119
+Skipton Building Society,culture,3.641025641025641,39
+Skipton Building Society,growth & learning,3.4571428571428573,35
+Skipton Building Society,hr & recruitment,3.12,25
+Skipton Building Society,job role clarity,3.3333333333333335,12
+Skipton Building Society,management,2.1904761904761907,21
+Skipton Building Society,office & location,3.0357142857142856,28
+Skipton Building Society,pay,2.71875,32
+Skipton Building Society,people,3.558139534883721,43
+Skipton Building Society,perks & benefits,3.7916666666666665,24
+Skipton Building Society,stress & pressure,3.0,7
+Skipton Building Society,teamwork & collaboration,3.7333333333333334,15
+Skipton Building Society,tools & resources,3.3333333333333335,15
+Skipton Building Society,work-life balance,3.75,20
+Sky,culture,3.413793103448276,406
+Sky,growth & learning,3.057142857142857,420
+Sky,hr & recruitment,2.8969465648854964,262
+Sky,job role clarity,2.485981308411215,107
+Sky,management,1.9656019656019657,407
+Sky,office & location,3.297071129707113,478
+Sky,pay,3.033126293995859,483
+Sky,people,3.425974025974026,385
+Sky,perks & benefits,3.989795918367347,588
+Sky,stress & pressure,2.480392156862745,204
+Sky,teamwork & collaboration,2.969298245614035,228
+Sky,tools & resources,3.200836820083682,239
+Sky,work-life balance,2.9887640449438204,445
+Sodexo,culture,2.989130434782609,92
+Sodexo,growth & learning,3.3076923076923075,78
+Sodexo,hr & recruitment,2.467741935483871,124
+Sodexo,job role clarity,2.9047619047619047,21
+Sodexo,management,2.041322314049587,121
+Sodexo,office & location,2.5483870967741935,31
+Sodexo,pay,2.6711409395973154,149
+Sodexo,people,3.55,80
+Sodexo,perks & benefits,3.371428571428571,70
+Sodexo,stress & pressure,1.7407407407407407,27
+Sodexo,teamwork & collaboration,3.5084745762711864,59
+Sodexo,tools & resources,2.5434782608695654,46
+Sodexo,work-life balance,2.793103448275862,145
+Somerset County Council,culture,2.7142857142857144,7
+Somerset County Council,growth & learning,3.3846153846153846,13
+Somerset County Council,hr & recruitment,3.65,20
+Somerset County Council,job role clarity,3.5,4
+Somerset County Council,management,2.6666666666666665,9
+Somerset County Council,office & location,3.142857142857143,7
+Somerset County Council,pay,2.636363636363636,11
+Somerset County Council,people,3.625,8
+Somerset County Council,perks & benefits,3.7777777777777777,9
+Somerset County Council,stress & pressure,2.0,1
+Somerset County Council,teamwork & collaboration,4.2727272727272725,11
+Somerset County Council,tools & resources,3.642857142857143,14
+Somerset County Council,work-life balance,4.0,6
+Sotheby s,culture,3.142857142857143,28
+Sotheby s,growth & learning,3.0,30
+Sotheby s,hr & recruitment,2.4285714285714284,28
+Sotheby s,job role clarity,1.8,5
+Sotheby s,management,1.9285714285714288,14
+Sotheby s,office & location,3.625,8
+Sotheby s,pay,1.6153846153846154,26
+Sotheby s,people,3.814814814814815,27
+Sotheby s,perks & benefits,3.2857142857142856,7
+Sotheby s,stress & pressure,2.3076923076923075,13
+Sotheby s,teamwork & collaboration,3.1666666666666665,12
+Sotheby s,tools & resources,3.375,8
+Sotheby s,work-life balance,2.0588235294117645,17
+Spire Healthcare,culture,3.217391304347826,23
+Spire Healthcare,growth & learning,2.2903225806451615,31
+Spire Healthcare,hr & recruitment,2.5853658536585367,41
+Spire Healthcare,job role clarity,2.111111111111111,9
+Spire Healthcare,management,2.09375,32
+Spire Healthcare,office & location,3.2142857142857144,14
+Spire Healthcare,pay,2.2058823529411766,34
+Spire Healthcare,people,3.4545454545454546,22
+Spire Healthcare,perks & benefits,3.5,24
+Spire Healthcare,stress & pressure,1.2857142857142858,7
+Spire Healthcare,teamwork & collaboration,3.52,25
+Spire Healthcare,tools & resources,3.1578947368421053,19
+Spire Healthcare,work-life balance,3.2413793103448274,29
+Sport England,culture,4.0,9
+Sport England,growth & learning,3.6666666666666665,9
+Sport England,hr & recruitment,4.2,5
+Sport England,job role clarity,3.6,5
+Sport England,management,3.6666666666666665,6
+Sport England,office & location,3.8333333333333335,6
+Sport England,pay,3.0,4
+Sport England,people,4.333333333333333,3
+Sport England,perks & benefits,4.0,3
+Sport England,stress & pressure,4.0,1
+Sport England,teamwork & collaboration,4.0,2
+Sport England,tools & resources,4.333333333333333,3
+Sport England,work-life balance,4.142857142857143,7
+St James s Place Wealth Management,culture,3.3555555555555556,45
+St James s Place Wealth Management,growth & learning,3.627906976744186,43
+St James s Place Wealth Management,hr & recruitment,3.076923076923077,39
+St James s Place Wealth Management,job role clarity,3.0833333333333335,12
+St James s Place Wealth Management,management,3.0,25
+St James s Place Wealth Management,office & location,2.925925925925926,27
+St James s Place Wealth Management,pay,2.441860465116279,43
+St James s Place Wealth Management,people,3.78125,32
+St James s Place Wealth Management,perks & benefits,3.4482758620689653,29
+St James s Place Wealth Management,stress & pressure,2.090909090909091,11
+St James s Place Wealth Management,teamwork & collaboration,3.7058823529411766,17
+St James s Place Wealth Management,tools & resources,3.2,40
+St James s Place Wealth Management,work-life balance,3.2580645161290325,31
+Standard Life Aberdeen,culture,3.0,18
+Standard Life Aberdeen,growth & learning,2.8947368421052633,19
+Standard Life Aberdeen,hr & recruitment,2.7142857142857144,21
+Standard Life Aberdeen,job role clarity,1.8,5
+Standard Life Aberdeen,management,2.0,23
+Standard Life Aberdeen,office & location,3.3333333333333335,3
+Standard Life Aberdeen,pay,2.1666666666666665,24
+Standard Life Aberdeen,people,3.363636363636364,22
+Standard Life Aberdeen,perks & benefits,3.736842105263158,19
+Standard Life Aberdeen,stress & pressure,3.0,3
+Standard Life Aberdeen,teamwork & collaboration,3.0,10
+Standard Life Aberdeen,tools & resources,2.5,8
+Standard Life Aberdeen,work-life balance,3.5555555555555554,18
+Student Loans Company,culture,2.2941176470588234,17
+Student Loans Company,growth & learning,2.054054054054054,37
+Student Loans Company,hr & recruitment,2.1666666666666665,42
+Student Loans Company,job role clarity,2.3333333333333335,15
+Student Loans Company,management,2.057142857142857,35
+Student Loans Company,office & location,2.0,19
+Student Loans Company,pay,1.7105263157894737,38
+Student Loans Company,people,2.34375,32
+Student Loans Company,perks & benefits,2.736842105263158,19
+Student Loans Company,stress & pressure,1.7142857142857142,7
+Student Loans Company,teamwork & collaboration,2.409090909090909,22
+Student Loans Company,tools & resources,3.8333333333333335,6
+Student Loans Company,work-life balance,3.4878048780487805,41
+Surrey County Council,culture,2.1724137931034484,29
+Surrey County Council,growth & learning,2.710526315789474,38
+Surrey County Council,hr & recruitment,2.484848484848485,33
+Surrey County Council,job role clarity,1.9333333333333331,15
+Surrey County Council,management,1.9285714285714288,42
+Surrey County Council,office & location,2.6666666666666665,18
+Surrey County Council,pay,2.6176470588235294,34
+Surrey County Council,people,3.3793103448275863,29
+Surrey County Council,perks & benefits,3.1052631578947367,19
+Surrey County Council,stress & pressure,1.0,7
+Surrey County Council,teamwork & collaboration,3.4285714285714284,28
+Surrey County Council,tools & resources,2.4,30
+Surrey County Council,work-life balance,3.342857142857143,35
+Sytner,culture,3.623376623376624,77
+Sytner,growth & learning,3.953846153846154,65
+Sytner,hr & recruitment,3.1728395061728394,81
+Sytner,job role clarity,3.25,16
+Sytner,management,3.292134831460674,89
+Sytner,office & location,3.5714285714285716,28
+Sytner,pay,3.111111111111111,90
+Sytner,people,3.7183098591549295,71
+Sytner,perks & benefits,3.234042553191489,47
+Sytner,stress & pressure,1.75,28
+Sytner,teamwork & collaboration,3.7804878048780486,82
+Sytner,tools & resources,4.033333333333333,60
+Sytner,work-life balance,2.896551724137931,58
+TLT,culture,2.888888888888889,27
+TLT,growth & learning,3.0357142857142856,28
+TLT,hr & recruitment,3.08,25
+TLT,job role clarity,2.5,10
+TLT,management,1.9166666666666667,24
+TLT,office & location,3.4482758620689653,29
+TLT,pay,1.5,22
+TLT,people,3.5714285714285716,35
+TLT,perks & benefits,3.1818181818181817,22
+TLT,stress & pressure,1.5,6
+TLT,teamwork & collaboration,3.3043478260869565,23
+TLT,tools & resources,3.2941176470588234,17
+TLT,work-life balance,3.125,24
+TUI Group,culture,3.2941176470588234,85
+TUI Group,growth & learning,3.2735042735042734,117
+TUI Group,hr & recruitment,2.728395061728395,81
+TUI Group,job role clarity,2.1578947368421053,19
+TUI Group,management,2.182795698924731,93
+TUI Group,office & location,2.689655172413793,58
+TUI Group,pay,2.24,150
+TUI Group,people,3.526315789473684,95
+TUI Group,perks & benefits,3.6,85
+TUI Group,stress & pressure,1.6,35
+TUI Group,teamwork & collaboration,3.679245283018868,53
+TUI Group,tools & resources,2.945945945945946,37
+TUI Group,work-life balance,3.045751633986928,153
+Tate,culture,2.625,24
+Tate,growth & learning,2.076923076923077,13
+Tate,hr & recruitment,2.76,25
+Tate,job role clarity,1.75,4
+Tate,management,2.0,21
+Tate,office & location,3.3,10
+Tate,pay,1.9259259259259256,27
+Tate,people,3.772727272727273,22
+Tate,perks & benefits,4.181818181818182,11
+Tate,stress & pressure,2.3333333333333335,3
+Tate,teamwork & collaboration,2.769230769230769,13
+Tate,tools & resources,3.6666666666666665,9
+Tate,work-life balance,2.9375,16
+Tate Recruitment,culture,3.857142857142857,14
+Tate Recruitment,growth & learning,3.933333333333333,15
+Tate Recruitment,hr & recruitment,3.869565217391304,23
+Tate Recruitment,job role clarity,4.333333333333333,3
+Tate Recruitment,management,3.7142857142857144,14
+Tate Recruitment,office & location,4.5,4
+Tate Recruitment,pay,3.4444444444444446,9
+Tate Recruitment,people,3.7777777777777777,9
+Tate Recruitment,perks & benefits,5.0,1
+Tate Recruitment,stress & pressure,2.6666666666666665,3
+Tate Recruitment,teamwork & collaboration,4.214285714285714,28
+Tate Recruitment,tools & resources,4.333333333333333,15
+Tate Recruitment,work-life balance,3.2,5
+Taylor Wimpey,culture,4.280487804878049,82
+Taylor Wimpey,growth & learning,3.886075949367088,79
+Taylor Wimpey,hr & recruitment,3.9375,112
+Taylor Wimpey,job role clarity,3.8,25
+Taylor Wimpey,management,3.4305555555555554,72
+Taylor Wimpey,office & location,3.5952380952380953,42
+Taylor Wimpey,pay,3.4691358024691357,81
+Taylor Wimpey,people,4.186440677966102,59
+Taylor Wimpey,perks & benefits,4.144578313253012,83
+Taylor Wimpey,stress & pressure,2.375,16
+Taylor Wimpey,teamwork & collaboration,4.149253731343284,67
+Taylor Wimpey,tools & resources,4.0,52
+Taylor Wimpey,work-life balance,3.840579710144928,69
+The Access Group UK,culture,3.532710280373832,107
+The Access Group UK,growth & learning,3.3278688524590163,122
+The Access Group UK,hr & recruitment,3.01010101010101,99
+The Access Group UK,job role clarity,3.0714285714285716,28
+The Access Group UK,management,3.0638297872340425,94
+The Access Group UK,office & location,2.931034482758621,29
+The Access Group UK,pay,2.89,100
+The Access Group UK,people,3.5391304347826087,115
+The Access Group UK,perks & benefits,3.9444444444444446,54
+The Access Group UK,stress & pressure,2.869565217391304,46
+The Access Group UK,teamwork & collaboration,3.5060240963855422,83
+The Access Group UK,tools & resources,3.1610169491525424,118
+The Access Group UK,work-life balance,3.5,80
+The British Army,culture,2.035532994923858,197
+The British Army,growth & learning,3.611570247933885,363
+The British Army,hr & recruitment,3.513888888888889,144
+The British Army,job role clarity,2.9775280898876404,89
+The British Army,management,2.2427745664739884,173
+The British Army,office & location,2.404255319148936,94
+The British Army,pay,3.206642066420664,271
+The British Army,people,3.676829268292683,164
+The British Army,perks & benefits,3.3133333333333335,150
+The British Army,stress & pressure,1.8823529411764703,51
+The British Army,teamwork & collaboration,4.048387096774194,62
+The British Army,tools & resources,3.0714285714285716,42
+The British Army,work-life balance,2.497297297297297,185
+The Coal Authority,culture,2.4444444444444446,9
+The Coal Authority,growth & learning,2.0,3
+The Coal Authority,hr & recruitment,2.142857142857143,7
+The Coal Authority,job role clarity,1.0,1
+The Coal Authority,management,1.9,10
+The Coal Authority,office & location,3.0,7
+The Coal Authority,pay,2.7142857142857144,7
+The Coal Authority,people,3.6666666666666665,6
+The Coal Authority,perks & benefits,3.5555555555555554,9
+The Coal Authority,stress & pressure,2.3333333333333335,3
+The Coal Authority,teamwork & collaboration,3.0,7
+The Coal Authority,tools & resources,2.5,4
+The Coal Authority,work-life balance,3.4,5
+The Department for Education UK,culture,3.136363636363636,22
+The Department for Education UK,growth & learning,3.588235294117647,34
+The Department for Education UK,hr & recruitment,2.9,10
+The Department for Education UK,job role clarity,2.6,10
+The Department for Education UK,management,1.9565217391304348,23
+The Department for Education UK,office & location,3.3333333333333335,15
+The Department for Education UK,pay,2.6551724137931036,29
+The Department for Education UK,people,3.772727272727273,22
+The Department for Education UK,perks & benefits,3.7333333333333334,15
+The Department for Education UK,stress & pressure,2.0,6
+The Department for Education UK,teamwork & collaboration,3.272727272727273,11
+The Department for Education UK,tools & resources,3.466666666666667,15
+The Department for Education UK,work-life balance,3.647058823529412,34
+The Ivy Collection,culture,3.25,24
+The Ivy Collection,growth & learning,4.0,35
+The Ivy Collection,hr & recruitment,3.16,50
+The Ivy Collection,job role clarity,3.0,3
+The Ivy Collection,management,2.5135135135135136,37
+The Ivy Collection,office & location,3.1333333333333333,15
+The Ivy Collection,pay,2.6666666666666665,36
+The Ivy Collection,people,3.576923076923077,26
+The Ivy Collection,perks & benefits,3.756756756756757,37
+The Ivy Collection,stress & pressure,2.0526315789473686,38
+The Ivy Collection,teamwork & collaboration,4.0,28
+The Ivy Collection,tools & resources,3.7777777777777777,9
+The Ivy Collection,work-life balance,2.2033898305084745,59
+The London Clinic,culture,3.7777777777777777,9
+The London Clinic,growth & learning,3.0,12
+The London Clinic,hr & recruitment,3.25,20
+The London Clinic,job role clarity,2.5,2
+The London Clinic,management,2.363636363636364,11
+The London Clinic,office & location,2.875,8
+The London Clinic,pay,3.3333333333333335,6
+The London Clinic,people,3.888888888888889,9
+The London Clinic,perks & benefits,3.5,4
+The London Clinic,stress & pressure,2.0,1
+The London Clinic,teamwork & collaboration,3.7142857142857144,7
+The London Clinic,tools & resources,4.125,8
+The London Clinic,work-life balance,2.7142857142857144,7
+The Range,culture,1.9454545454545455,55
+The Range,growth & learning,2.388888888888889,36
+The Range,hr & recruitment,2.258992805755396,139
+The Range,job role clarity,1.5555555555555556,18
+The Range,management,1.631578947368421,114
+The Range,office & location,1.911764705882353,34
+The Range,pay,1.776,125
+The Range,people,2.9603960396039604,101
+The Range,perks & benefits,2.7903225806451615,62
+The Range,stress & pressure,1.7428571428571429,35
+The Range,teamwork & collaboration,3.0303030303030303,33
+The Range,tools & resources,1.64,25
+The Range,work-life balance,2.118181818181818,110
+The Royal Marsden NHS Foundation Trust,culture,2.4285714285714284,14
+The Royal Marsden NHS Foundation Trust,growth & learning,2.7777777777777777,18
+The Royal Marsden NHS Foundation Trust,hr & recruitment,2.7666666666666666,30
+The Royal Marsden NHS Foundation Trust,job role clarity,2.25,4
+The Royal Marsden NHS Foundation Trust,management,1.8571428571428572,14
+The Royal Marsden NHS Foundation Trust,office & location,2.0555555555555554,18
+The Royal Marsden NHS Foundation Trust,pay,3.1666666666666665,6
+The Royal Marsden NHS Foundation Trust,people,3.4347826086956523,23
+The Royal Marsden NHS Foundation Trust,perks & benefits,3.2857142857142856,14
+The Royal Marsden NHS Foundation Trust,stress & pressure,2.0,9
+The Royal Marsden NHS Foundation Trust,teamwork & collaboration,2.727272727272727,11
+The Royal Marsden NHS Foundation Trust,tools & resources,3.5,10
+The Royal Marsden NHS Foundation Trust,work-life balance,2.7,10
+The Salvation Army,culture,3.1666666666666665,18
+The Salvation Army,growth & learning,2.6315789473684212,19
+The Salvation Army,hr & recruitment,2.966666666666667,30
+The Salvation Army,job role clarity,1.6666666666666667,3
+The Salvation Army,management,1.75,20
+The Salvation Army,office & location,1.6363636363636365,11
+The Salvation Army,pay,2.347826086956522,23
+The Salvation Army,people,3.8947368421052633,19
+The Salvation Army,perks & benefits,2.9166666666666665,12
+The Salvation Army,stress & pressure,1.5,2
+The Salvation Army,teamwork & collaboration,3.9166666666666665,12
+The Salvation Army,tools & resources,3.066666666666667,15
+The Salvation Army,work-life balance,2.56,25
+The White Company,culture,3.0,38
+The White Company,growth & learning,2.638888888888889,36
+The White Company,hr & recruitment,2.776119402985074,67
+The White Company,job role clarity,2.2857142857142856,14
+The White Company,management,1.6136363636363635,44
+The White Company,office & location,2.88,25
+The White Company,pay,2.2181818181818183,55
+The White Company,people,3.4473684210526314,38
+The White Company,perks & benefits,3.542372881355932,59
+The White Company,stress & pressure,1.4444444444444444,9
+The White Company,teamwork & collaboration,3.2,35
+The White Company,tools & resources,2.888888888888889,9
+The White Company,work-life balance,2.3260869565217392,46
+Thomas Cook,culture,3.297029702970297,101
+Thomas Cook,growth & learning,3.2526315789473683,95
+Thomas Cook,hr & recruitment,3.0495049504950495,101
+Thomas Cook,job role clarity,2.7142857142857144,28
+Thomas Cook,management,2.0161290322580645,124
+Thomas Cook,office & location,3.15,60
+Thomas Cook,pay,2.8814814814814813,135
+Thomas Cook,people,3.875,144
+Thomas Cook,perks & benefits,3.4457831325301207,83
+Thomas Cook,stress & pressure,1.78125,32
+Thomas Cook,teamwork & collaboration,3.758241758241758,91
+Thomas Cook,tools & resources,2.90625,32
+Thomas Cook,work-life balance,2.934306569343066,137
+Thomson Reuters,culture,3.5,184
+Thomson Reuters,growth & learning,3.0132743362831858,226
+Thomson Reuters,hr & recruitment,2.570175438596491,114
+Thomson Reuters,job role clarity,2.693877551020408,49
+Thomson Reuters,management,2.056701030927835,194
+Thomson Reuters,office & location,3.304761904761905,105
+Thomson Reuters,pay,2.4251497005988023,167
+Thomson Reuters,people,3.70995670995671,231
+Thomson Reuters,perks & benefits,3.75,120
+Thomson Reuters,stress & pressure,2.2058823529411766,34
+Thomson Reuters,teamwork & collaboration,3.2674418604651163,86
+Thomson Reuters,tools & resources,2.9207920792079207,101
+Thomson Reuters,work-life balance,3.799107142857143,224
+Time Etc,culture,4.642857142857143,14
+Time Etc,growth & learning,4.333333333333333,9
+Time Etc,hr & recruitment,4.6,5
+Time Etc,job role clarity,5.0,1
+Time Etc,management,4.222222222222222,9
+Time Etc,office & location,4.333333333333333,6
+Time Etc,pay,4.083333333333333,12
+Time Etc,people,4.454545454545454,11
+Time Etc,perks & benefits,4.0,6
+Time Etc,stress & pressure,1.0,1
+Time Etc,teamwork & collaboration,4.190476190476191,21
+Time Etc,tools & resources,4.25,12
+Time Etc,work-life balance,3.75,8
+Topshop,culture,3.141843971631206,141
+Topshop,growth & learning,2.8146067415730336,178
+Topshop,hr & recruitment,2.8518518518518516,270
+Topshop,job role clarity,2.2051282051282053,39
+Topshop,management,1.8844444444444444,225
+Topshop,office & location,2.532258064516129,62
+Topshop,pay,2.1030042918454934,233
+Topshop,people,3.4973821989528795,191
+Topshop,perks & benefits,3.629213483146067,267
+Topshop,stress & pressure,1.907216494845361,97
+Topshop,teamwork & collaboration,3.4834437086092715,151
+Topshop,tools & resources,2.5416666666666665,24
+Topshop,work-life balance,2.5141843971631204,282
+Tower Hamlets Council,culture,3.0,11
+Tower Hamlets Council,growth & learning,3.1666666666666665,12
+Tower Hamlets Council,hr & recruitment,3.0,14
+Tower Hamlets Council,job role clarity,3.3333333333333335,3
+Tower Hamlets Council,management,1.7,10
+Tower Hamlets Council,office & location,3.4285714285714284,7
+Tower Hamlets Council,pay,3.2222222222222223,9
+Tower Hamlets Council,people,4.0,4
+Tower Hamlets Council,perks & benefits,4.166666666666667,6
+Tower Hamlets Council,stress & pressure,1.5,4
+Tower Hamlets Council,teamwork & collaboration,4.111111111111111,9
+Tower Hamlets Council,tools & resources,3.857142857142857,7
+Tower Hamlets Council,work-life balance,3.3333333333333335,9
+Transport for London,culture,2.9574468085106385,94
+Transport for London,growth & learning,2.8684210526315788,190
+Transport for London,hr & recruitment,2.8333333333333335,114
+Transport for London,job role clarity,2.9791666666666665,48
+Transport for London,management,1.7828947368421053,152
+Transport for London,office & location,2.909090909090909,66
+Transport for London,pay,3.11,200
+Transport for London,people,3.147887323943662,142
+Transport for London,perks & benefits,3.981042654028436,211
+Transport for London,stress & pressure,2.3333333333333335,33
+Transport for London,teamwork & collaboration,3.5,46
+Transport for London,tools & resources,3.019230769230769,52
+Transport for London,work-life balance,3.508130081300813,246
+UK Ministry of Defence,culture,2.485294117647059,68
+UK Ministry of Defence,growth & learning,3.25,172
+UK Ministry of Defence,hr & recruitment,2.9292929292929295,99
+UK Ministry of Defence,job role clarity,2.7209302325581395,43
+UK Ministry of Defence,management,1.7532467532467533,77
+UK Ministry of Defence,office & location,2.292307692307692,65
+UK Ministry of Defence,pay,2.3351351351351353,185
+UK Ministry of Defence,people,3.0,69
+UK Ministry of Defence,perks & benefits,3.6379310344827585,116
+UK Ministry of Defence,stress & pressure,2.1515151515151514,33
+UK Ministry of Defence,teamwork & collaboration,3.55,40
+UK Ministry of Defence,tools & resources,2.9038461538461537,52
+UK Ministry of Defence,work-life balance,3.3566433566433567,143
+Unilever,culture,3.69327731092437,238
+Unilever,growth & learning,3.081272084805654,283
+Unilever,hr & recruitment,2.982905982905983,117
+Unilever,job role clarity,2.9146341463414633,82
+Unilever,management,2.2606060606060607,165
+Unilever,office & location,3.43956043956044,91
+Unilever,pay,2.09,200
+Unilever,people,3.7541899441340782,179
+Unilever,perks & benefits,3.681159420289855,138
+Unilever,stress & pressure,2.227272727272727,44
+Unilever,teamwork & collaboration,3.342857142857143,70
+Unilever,tools & resources,3.236111111111111,72
+Unilever,work-life balance,3.5751295336787563,193
+United Utilities,culture,3.3870967741935485,31
+United Utilities,growth & learning,3.381818181818182,55
+United Utilities,hr & recruitment,2.7333333333333334,30
+United Utilities,job role clarity,2.75,12
+United Utilities,management,2.5142857142857142,35
+United Utilities,office & location,3.3870967741935485,31
+United Utilities,pay,3.3333333333333335,54
+United Utilities,people,3.566666666666667,30
+United Utilities,perks & benefits,3.966666666666667,60
+United Utilities,stress & pressure,1.5714285714285714,7
+United Utilities,teamwork & collaboration,4.0,8
+United Utilities,tools & resources,3.357142857142857,14
+United Utilities,work-life balance,3.6,25
+Unity Technologies,culture,4.08,25
+Unity Technologies,growth & learning,3.4166666666666665,24
+Unity Technologies,hr & recruitment,3.7058823529411766,17
+Unity Technologies,job role clarity,3.0,7
+Unity Technologies,management,3.466666666666667,15
+Unity Technologies,office & location,3.6153846153846154,26
+Unity Technologies,pay,3.4285714285714284,14
+Unity Technologies,people,3.423076923076923,26
+Unity Technologies,perks & benefits,3.5714285714285716,21
+Unity Technologies,stress & pressure,3.1,10
+Unity Technologies,teamwork & collaboration,3.0833333333333335,12
+Unity Technologies,tools & resources,4.066666666666666,15
+Unity Technologies,work-life balance,3.4615384615384617,13
+VMware,culture,3.9066666666666663,75
+VMware,growth & learning,3.418918918918919,74
+VMware,hr & recruitment,2.6923076923076925,39
+VMware,job role clarity,3.0,11
+VMware,management,2.746268656716418,67
+VMware,office & location,2.8055555555555554,36
+VMware,pay,3.452830188679245,53
+VMware,people,3.392857142857143,56
+VMware,perks & benefits,4.0212765957446805,47
+VMware,stress & pressure,3.3333333333333335,12
+VMware,teamwork & collaboration,3.6206896551724137,29
+VMware,tools & resources,3.9454545454545458,55
+VMware,work-life balance,3.5185185185185186,27
+Valuation Office Agency,culture,2.8,5
+Valuation Office Agency,growth & learning,2.636363636363636,11
+Valuation Office Agency,hr & recruitment,2.727272727272727,11
+Valuation Office Agency,job role clarity,3.0,2
+Valuation Office Agency,management,1.181818181818182,11
+Valuation Office Agency,office & location,2.5,4
+Valuation Office Agency,pay,1.5454545454545454,11
+Valuation Office Agency,people,2.7142857142857144,7
+Valuation Office Agency,perks & benefits,3.5,4
+Valuation Office Agency,stress & pressure,1.5,2
+Valuation Office Agency,teamwork & collaboration,4.5,2
+Valuation Office Agency,tools & resources,2.7142857142857144,7
+Valuation Office Agency,work-life balance,3.928571428571429,14
+Veolia,culture,2.46,50
+Veolia,growth & learning,2.9545454545454546,44
+Veolia,hr & recruitment,2.5918367346938775,49
+Veolia,job role clarity,2.0625,16
+Veolia,management,1.8235294117647056,51
+Veolia,office & location,3.1176470588235294,34
+Veolia,pay,2.588235294117647,68
+Veolia,people,3.619047619047619,42
+Veolia,perks & benefits,3.6666666666666665,42
+Veolia,stress & pressure,2.357142857142857,14
+Veolia,teamwork & collaboration,3.2666666666666666,30
+Veolia,tools & resources,2.9615384615384617,26
+Veolia,work-life balance,2.897435897435898,39
+Vets Now,culture,3.75,8
+Vets Now,growth & learning,4.133333333333334,15
+Vets Now,hr & recruitment,3.1,20
+Vets Now,job role clarity,2.5714285714285716,7
+Vets Now,management,3.0,6
+Vets Now,office & location,2.3333333333333335,3
+Vets Now,pay,2.7857142857142856,14
+Vets Now,people,3.2,5
+Vets Now,perks & benefits,2.5,2
+Vets Now,stress & pressure,1.8,5
+Vets Now,teamwork & collaboration,3.8666666666666663,15
+Vets Now,tools & resources,3.5555555555555554,9
+Vets Now,work-life balance,2.892857142857143,28
+Vets4Pets,culture,3.0,24
+Vets4Pets,growth & learning,3.0,28
+Vets4Pets,hr & recruitment,2.2857142857142856,28
+Vets4Pets,job role clarity,2.4285714285714284,7
+Vets4Pets,management,2.066666666666667,30
+Vets4Pets,office & location,2.2941176470588234,17
+Vets4Pets,pay,2.21875,32
+Vets4Pets,people,3.55,20
+Vets4Pets,perks & benefits,2.8823529411764706,17
+Vets4Pets,stress & pressure,1.4444444444444444,18
+Vets4Pets,teamwork & collaboration,3.5121951219512195,41
+Vets4Pets,tools & resources,3.625,16
+Vets4Pets,work-life balance,2.135135135135135,37
+Virgin Active,culture,3.5057471264367814,87
+Virgin Active,growth & learning,3.146067415730337,89
+Virgin Active,hr & recruitment,2.8333333333333335,126
+Virgin Active,job role clarity,2.65,40
+Virgin Active,management,2.229357798165138,109
+Virgin Active,office & location,3.0,54
+Virgin Active,pay,2.0,151
+Virgin Active,people,3.617021276595745,94
+Virgin Active,perks & benefits,3.67479674796748,123
+Virgin Active,stress & pressure,2.142857142857143,35
+Virgin Active,teamwork & collaboration,3.5238095238095237,63
+Virgin Active,tools & resources,3.52,50
+Virgin Active,work-life balance,2.4948453608247423,97
+Virgin Media,culture,3.1077586206896552,232
+Virgin Media,growth & learning,2.9392265193370166,181
+Virgin Media,hr & recruitment,2.6424870466321244,193
+Virgin Media,job role clarity,2.492063492063492,63
+Virgin Media,management,2.0843373493975905,249
+Virgin Media,office & location,2.705263157894737,95
+Virgin Media,pay,2.983108108108108,296
+Virgin Media,people,3.328358208955224,201
+Virgin Media,perks & benefits,3.8853754940711465,253
+Virgin Media,stress & pressure,1.5365853658536586,82
+Virgin Media,teamwork & collaboration,3.376068376068376,117
+Virgin Media,tools & resources,2.7454545454545456,110
+Virgin Media,work-life balance,2.89237668161435,223
+Vodafone,culture,3.4945770065075923,461
+Vodafone,growth & learning,3.209255533199195,497
+Vodafone,hr & recruitment,2.6319018404907975,326
+Vodafone,job role clarity,2.653225806451613,124
+Vodafone,management,2.0859538784067087,477
+Vodafone,office & location,3.273062730627306,271
+Vodafone,pay,3.1885098743267504,557
+Vodafone,people,3.4177545691906004,383
+Vodafone,perks & benefits,3.68668407310705,383
+Vodafone,stress & pressure,2.3783783783783785,148
+Vodafone,teamwork & collaboration,3.126530612244898,245
+Vodafone,tools & resources,3.1496062992125986,254
+Vodafone,work-life balance,3.1545253863134657,453
+WHSmith,culture,3.064814814814815,108
+WHSmith,growth & learning,2.803921568627451,102
+WHSmith,hr & recruitment,2.3797909407665507,287
+WHSmith,job role clarity,2.303030303030303,33
+WHSmith,management,1.765,200
+WHSmith,office & location,2.037735849056604,53
+WHSmith,pay,1.6360294117647058,272
+WHSmith,people,3.299363057324841,157
+WHSmith,perks & benefits,2.7363636363636363,110
+WHSmith,stress & pressure,1.9285714285714288,56
+WHSmith,teamwork & collaboration,3.358695652173913,92
+WHSmith,tools & resources,2.5348837209302326,43
+WHSmith,work-life balance,2.526119402985074,268
+WLT Group,culture,2.15625,64
+WLT Group,growth & learning,2.4383561643835616,73
+WLT Group,hr & recruitment,1.7777777777777777,72
+WLT Group,job role clarity,2.4,20
+WLT Group,management,1.5737704918032789,122
+WLT Group,office & location,2.6973684210526314,76
+WLT Group,pay,1.962264150943396,106
+WLT Group,people,3.2123893805309733,113
+WLT Group,perks & benefits,2.3333333333333335,45
+WLT Group,stress & pressure,1.52,25
+WLT Group,teamwork & collaboration,2.547169811320755,53
+WLT Group,tools & resources,2.3783783783783785,37
+WLT Group,work-life balance,2.5,74
+Wellington Management,culture,3.8181818181818183,11
+Wellington Management,growth & learning,3.0833333333333335,12
+Wellington Management,hr & recruitment,3.75,4
+Wellington Management,job role clarity,4.0,2
+Wellington Management,management,2.4285714285714284,7
+Wellington Management,office & location,3.25,4
+Wellington Management,pay,3.2,5
+Wellington Management,people,3.923076923076923,13
+Wellington Management,perks & benefits,4.25,4
+Wellington Management,stress & pressure,1.0,1
+Wellington Management,teamwork & collaboration,3.3333333333333335,3
+Wellington Management,tools & resources,4.5,4
+Wellington Management,work-life balance,3.2857142857142856,7
+West Sussex County Council,culture,1.75,16
+West Sussex County Council,growth & learning,3.1052631578947367,19
+West Sussex County Council,hr & recruitment,2.909090909090909,22
+West Sussex County Council,job role clarity,3.25,4
+West Sussex County Council,management,1.8636363636363635,22
+West Sussex County Council,office & location,3.272727272727273,11
+West Sussex County Council,pay,2.7142857142857144,21
+West Sussex County Council,people,3.6,10
+West Sussex County Council,perks & benefits,3.25,8
+West Sussex County Council,stress & pressure,1.0,1
+West Sussex County Council,teamwork & collaboration,3.5,10
+West Sussex County Council,tools & resources,3.4166666666666665,12
+West Sussex County Council,work-life balance,3.736842105263158,19
+Whitbread,culture,3.088495575221239,113
+Whitbread,growth & learning,3.201492537313433,134
+Whitbread,hr & recruitment,2.5724137931034483,145
+Whitbread,job role clarity,2.5384615384615383,39
+Whitbread,management,2.3401360544217686,147
+Whitbread,office & location,2.5526315789473686,76
+Whitbread,pay,2.560693641618497,173
+Whitbread,people,3.0833333333333335,144
+Whitbread,perks & benefits,3.5130434782608697,115
+Whitbread,stress & pressure,1.8695652173913044,46
+Whitbread,teamwork & collaboration,3.260869565217391,92
+Whitbread,tools & resources,2.808219178082192,73
+Whitbread,work-life balance,2.557213930348259,201
+Willis Towers Watson,culture,3.3828125,128
+Willis Towers Watson,growth & learning,3.0793650793650795,189
+Willis Towers Watson,hr & recruitment,2.875,88
+Willis Towers Watson,job role clarity,3.1785714285714284,28
+Willis Towers Watson,management,2.2403846153846154,104
+Willis Towers Watson,office & location,3.3506493506493507,77
+Willis Towers Watson,pay,2.1946308724832213,149
+Willis Towers Watson,people,3.64,150
+Willis Towers Watson,perks & benefits,3.5681818181818183,88
+Willis Towers Watson,stress & pressure,2.0277777777777777,36
+Willis Towers Watson,teamwork & collaboration,3.3295454545454546,88
+Willis Towers Watson,tools & resources,3.1411764705882352,85
+Willis Towers Watson,work-life balance,3.2828947368421053,152
+Willmott Dixon,culture,4.0,27
+Willmott Dixon,growth & learning,3.857142857142857,14
+Willmott Dixon,hr & recruitment,3.4545454545454546,22
+Willmott Dixon,job role clarity,3.0,5
+Willmott Dixon,management,2.8,20
+Willmott Dixon,office & location,3.588235294117647,17
+Willmott Dixon,pay,3.4782608695652173,23
+Willmott Dixon,people,3.9642857142857144,28
+Willmott Dixon,perks & benefits,4.25,20
+Willmott Dixon,stress & pressure,2.2,5
+Willmott Dixon,teamwork & collaboration,3.5555555555555554,9
+Willmott Dixon,tools & resources,3.642857142857143,14
+Willmott Dixon,work-life balance,3.210526315789474,19
+Wipro,culture,2.9906542056074765,107
+Wipro,growth & learning,3.2216216216216216,185
+Wipro,hr & recruitment,2.696078431372549,102
+Wipro,job role clarity,2.533333333333333,30
+Wipro,management,2.062937062937063,143
+Wipro,office & location,2.7454545454545456,55
+Wipro,pay,1.9183673469387752,147
+Wipro,people,2.8181818181818183,66
+Wipro,perks & benefits,2.6458333333333335,48
+Wipro,stress & pressure,2.0588235294117645,17
+Wipro,teamwork & collaboration,2.6842105263157894,38
+Wipro,tools & resources,3.1882352941176473,85
+Wipro,work-life balance,3.0277777777777777,72
+Wise,culture,3.6853932584269664,89
+Wise,growth & learning,3.3956043956043955,91
+Wise,hr & recruitment,3.5652173913043477,23
+Wise,job role clarity,3.3333333333333335,24
+Wise,management,2.6382978723404253,47
+Wise,office & location,3.652173913043478,46
+Wise,pay,2.702127659574468,47
+Wise,people,3.648148148148149,108
+Wise,perks & benefits,3.720930232558139,43
+Wise,stress & pressure,3.0416666666666665,24
+Wise,teamwork & collaboration,3.3068181818181817,88
+Wise,tools & resources,3.4615384615384617,39
+Wise,work-life balance,3.86046511627907,43
+Workday,culture,3.923076923076923,26
+Workday,growth & learning,3.2857142857142856,14
+Workday,hr & recruitment,3.3333333333333335,6
+Workday,job role clarity,2.4,5
+Workday,management,3.0555555555555554,18
+Workday,office & location,2.125,8
+Workday,pay,3.5555555555555554,9
+Workday,people,4.142857142857143,14
+Workday,perks & benefits,4.363636363636363,11
+Workday,stress & pressure,3.0,1
+Workday,teamwork & collaboration,4.5,14
+Workday,tools & resources,3.727272727272727,11
+Workday,work-life balance,4.0,15
+XPO Logistics,culture,3.810126582278481,158
+XPO Logistics,growth & learning,4.049382716049383,243
+XPO Logistics,hr & recruitment,3.8285714285714287,140
+XPO Logistics,job role clarity,3.5416666666666665,48
+XPO Logistics,management,3.140939597315436,149
+XPO Logistics,office & location,3.068965517241379,58
+XPO Logistics,pay,3.0484848484848484,165
+XPO Logistics,people,3.9185185185185185,135
+XPO Logistics,perks & benefits,3.3529411764705883,68
+XPO Logistics,stress & pressure,3.1323529411764706,68
+XPO Logistics,teamwork & collaboration,4.050955414012739,157
+XPO Logistics,tools & resources,4.229508196721311,122
+XPO Logistics,work-life balance,2.959349593495935,123
+XPS Pensions Group,culture,4.0,7
+XPS Pensions Group,growth & learning,3.6842105263157894,19
+XPS Pensions Group,hr & recruitment,3.3333333333333335,12
+XPS Pensions Group,job role clarity,4.0,3
+XPS Pensions Group,management,3.2,5
+XPS Pensions Group,office & location,3.090909090909091,11
+XPS Pensions Group,pay,2.0,11
+XPS Pensions Group,people,4.333333333333333,12
+XPS Pensions Group,perks & benefits,3.125,16
+XPS Pensions Group,stress & pressure,2.0,1
+XPS Pensions Group,teamwork & collaboration,4.222222222222222,9
+XPS Pensions Group,tools & resources,3.6666666666666665,6
+XPS Pensions Group,work-life balance,2.4545454545454546,11
+YOOX NET A PORTER GROUP,culture,2.45,80
+YOOX NET A PORTER GROUP,growth & learning,2.1511627906976742,86
+YOOX NET A PORTER GROUP,hr & recruitment,2.775,80
+YOOX NET A PORTER GROUP,job role clarity,1.7,20
+YOOX NET A PORTER GROUP,management,1.6341463414634143,82
+YOOX NET A PORTER GROUP,office & location,3.275,80
+YOOX NET A PORTER GROUP,pay,1.8714285714285712,70
+YOOX NET A PORTER GROUP,people,3.048780487804878,82
+YOOX NET A PORTER GROUP,perks & benefits,3.5304347826086957,115
+YOOX NET A PORTER GROUP,stress & pressure,2.0416666666666665,24
+YOOX NET A PORTER GROUP,teamwork & collaboration,2.8461538461538463,65
+YOOX NET A PORTER GROUP,tools & resources,2.693877551020408,49
+YOOX NET A PORTER GROUP,work-life balance,2.8214285714285716,56
+mydentist UK,culture,3.8333333333333335,6
+mydentist UK,growth & learning,3.5454545454545454,22
+mydentist UK,hr & recruitment,3.064516129032258,31
+mydentist UK,job role clarity,2.1666666666666665,6
+mydentist UK,management,2.272727272727273,22
+mydentist UK,office & location,2.6666666666666665,15
+mydentist UK,pay,2.085714285714286,35
+mydentist UK,people,3.1538461538461537,13
+mydentist UK,perks & benefits,2.9285714285714284,14
+mydentist UK,stress & pressure,2.6666666666666665,6
+mydentist UK,teamwork & collaboration,4.0,23
+mydentist UK,tools & resources,3.2916666666666665,24
+mydentist UK,work-life balance,3.2222222222222223,9
+next,culture,3.200557103064067,359
+next,growth & learning,2.9572192513368982,374
+next,hr & recruitment,2.789189189189189,925
+next,job role clarity,2.3947368421052633,114
+next,management,2.125,608
+next,office & location,2.8802083333333335,192
+next,pay,2.3971119133574006,831
+next,people,3.343601895734597,422
+next,perks & benefits,3.6792114695340503,558
+next,stress & pressure,1.7956989247311828,186
+next,teamwork & collaboration,3.510324483775811,339
+next,tools & resources,3.1322314049586777,121
+next,work-life balance,2.7519858781994704,1133
+the LEGO Group,culture,3.6515151515151514,66
+the LEGO Group,growth & learning,2.952380952380953,42
+the LEGO Group,hr & recruitment,3.113636363636364,44
+the LEGO Group,job role clarity,2.6,15
+the LEGO Group,management,2.675,40
+the LEGO Group,office & location,3.25,28
+the LEGO Group,pay,2.6904761904761907,42
+the LEGO Group,people,3.4444444444444446,54
+the LEGO Group,perks & benefits,3.9302325581395343,43
+the LEGO Group,stress & pressure,2.7,10
+the LEGO Group,teamwork & collaboration,3.5384615384615383,39
+the LEGO Group,tools & resources,3.4285714285714284,14
+the LEGO Group,work-life balance,3.04,50
