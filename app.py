@@ -36,7 +36,7 @@ div[data-testid="stDataFrame"] > div:first-child {
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<h1>🔥 Cinder – Company Matcher (Filtered Version)</h1>", unsafe_allow_html=True)
+st.markdown("<h1>🔥 Cinder – Company Matcher</h1>", unsafe_allow_html=True)
 st.write("Pick up to five aspects and rank them to discover companies that match your vibe!")
 
 # --- Aspect selector
@@ -80,7 +80,7 @@ df_out = pd.DataFrame(rows).reset_index(drop=True).set_index("#")
 fmt = {"score": "{:.3f}", **{a: "{:.2f}" for a in choices}}
 
 # --- Display top 10 matching companies
-st.markdown("### Best-matching companies (Filtered)")
+st.markdown("### Best-matching companies")
 st.dataframe(df_out.style
              .format(fmt)
              .background_gradient(cmap="Greens", subset=["score"])
@@ -94,7 +94,7 @@ st.download_button("⬇️ Download results as CSV",
                    mime="text/csv")
 
 # --- Load company summaries (from structured BART summarization)
-summary_path = "company_summaries_structured_bart.csv"
+summary_path = "company_merged_summaries.csv"
 df_summaries = pd.read_csv(summary_path)
 
 # --- Get top 3 firms and display summaries
@@ -105,4 +105,13 @@ st.markdown("### 📝 Summaries of Top 3 Companies")
 
 for _, row in top_3_summaries.iterrows():
     st.markdown(f"#### {row['firm']}")
-    st.markdown(f"```\n{row['summary']}\n```")
+
+    st.markdown("**✅ Pros**")
+    st.markdown(f"- **Summary:** {row['pros_summary']}")
+
+    st.markdown("**⚠️ Cons**")
+    st.markdown(f"- **Summary:** {row['cons_summary']}")
+
+    st.markdown("---")
+
+
