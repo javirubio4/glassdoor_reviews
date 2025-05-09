@@ -18,7 +18,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 194,KPMG,1515,corporate/desk,keep
 74,Capita,1498,corporate/desk,keep
 214,Lloyds Banking Group,1489,corporate/desk,keep
-65,British Airways,1465,corporate/desk,keep
+65,British Airways,1465,corporate/desk,remove
 236,Morrisons,1398,grocery,remove
 39,BT,1348,corporate/desk,keep
 116,Dixons Carphone,1339,corporate/desk,keep
@@ -31,68 +31,68 @@ Unnamed: 0,firm,Count,industry,suggestion
 86,Co op,1067,corporate/desk,keep
 184,J P Morgan,1052,corporate/desk,keep
 189,Jaguar Land Rover,994,corporate/desk,keep
-294,Royal Mail,959,corporate/desk,keep
+294,Royal Mail,959,corporate/desk,remove
 300,Sainsbury s,868,grocery,remove
 178,Imperial College London,825,education,remove
 60,Booking com,816,corporate/desk,keep
 141,GlaxoSmithKline,800,corporate/desk,keep
-151,H and M,780,corporate/desk,keep
+151,H and M,780,corporate/desk,remove
 2,ALDI,777,grocery,remove
 211,Lidl,772,grocery,remove
 303,Santander,771,corporate/desk,keep
-29,B and Q,759,corporate/desk,keep
+29,B and Q,759,corporate/desk,remove
 31,BBC,753,corporate/desk,keep
 360,University College London,697,education,remove
 113,Deutsche Bank,673,corporate/desk,keep
-333,The British Army,672,corporate/desk,keep
+333,The British Army,672,corporate/desk,remove
 299,Sage,651,corporate/desk,keep
-28,B and M Retail,625,corporate/desk,keep
+28,B and M Retail,625,corporate/desk,remove
 57,Bloomberg L P,620,corporate/desk,keep
 264,Oxford University,618,education,remove
 367,University of Cambridge,602,education,remove
 142,Goldman Sachs,601,corporate/desk,keep
 394,Virgin Media,577,corporate/desk,keep
 160,Harrods,574,retail,remove
-348,Topshop,569,corporate/desk,keep
+348,Topshop,569,corporate/desk,remove
 23,Apple,568,corporate/desk,keep
 5,ASOS,561,corporate/desk,keep
 143,Google,556,corporate/desk,keep
 82,Citi,555,corporate/desk,keep
 280,REED,553,corporate/desk,keep
 246,Nationwide Building Society,552,corporate/desk,keep
-37,BP,544,corporate/desk,keep
-242,Nando s UK and IRE,536,corporate/desk,keep
-247,Network Rail,535,corporate/desk,keep
+37,BP,544,corporate/desk,remove
+242,Nando s UK and IRE,536,corporate/desk,remove
+247,Network Rail,535,corporate/desk,remove
 290,River Island Clothing,527,retail,remove
 261,Oracle,511,corporate/desk,keep
 231,Microsoft,501,corporate/desk,keep
 90,Compass Group,499,corporate/desk,keep
 351,Travelodge Hotels UK,487,hospitality,remove
 357,Unilever,482,corporate/desk,keep
-396,WHSmith,479,corporate/desk,keep
+396,WHSmith,479,corporate/desk,remove
 346,Thomson Reuters,474,corporate/desk,keep
 197,King s College London,471,education,remove
 248,New Look,470,retail,remove
 408,XPO Logistics,467,corporate/desk,keep
-350,Transport for London,460,corporate/desk,keep
+350,Transport for London,460,corporate/desk,remove
 69,Bupa,455,corporate/desk,keep
 229,Metro Bank,445,corporate/desk,keep
 16,American Express,443,corporate/desk,keep
 376,University of Manchester,439,education,remove
 297,SAP,438,corporate/desk,keep
 166,Her Majesty s Revenue and Customs,433,corporate/desk,keep
-251,Northern Gas and Power,427,corporate/desk,keep
+251,Northern Gas and Power,427,corporate/desk,remove
 81,Cisco Systems,423,corporate/desk,keep
-104,DHL Supply Chain,411,corporate/desk,keep
+104,DHL Supply Chain,411,corporate/desk,remove
 234,Mitie,407,corporate/desk,keep
 235,Morgan Stanley,401,corporate/desk,keep
 167,Hilton,387,hospitality,remove
 24,Arcadia,382,corporate/desk,keep
 111,Department for Work And Pensions,375,corporate/desk,keep
-289,Rentokil Initial,369,corporate/desk,keep
+289,Rentokil Initial,369,corporate/desk,remove
 71,CBRE,365,corporate/desk,keep
 309,Serco Group,364,corporate/desk,keep
-70,Burberry,360,corporate/desk,keep
+70,Burberry,360,corporate/desk,remove
 27,Aviva,359,corporate/desk,keep
 355,UK Ministry of Defence,359,corporate/desk,keep
 316,Specsavers,356,retail,remove
@@ -120,7 +120,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 271,Pizza Hut,280,restaurant_service,remove
 222,Marriott International,279,hospitality,remove
 381,University of Sheffield,278,education,remove
-393,Virgin Active,270,corporate/desk,keep
+393,Virgin Active,270,corporate/desk,remove
 17,Amey,267,corporate/desk,keep
 366,University of Bristol,267,education,remove
 43,Balfour Beatty,265,corporate/desk,keep
@@ -138,7 +138,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 108,David Lloyd Leisure,234,corporate/desk,keep
 240,NHS England,233,corporate/desk,keep
 382,University of Southampton,231,education,remove
-273,Post Office,227,corporate/desk,keep
+273,Post Office,227,corporate/desk,remove
 329,Taylor Wimpey,224,corporate/desk,keep
 162,Hastings Direct,221,corporate/desk,keep
 186,JLL,217,corporate/desk,keep
@@ -146,7 +146,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 341,The Range,214,corporate/desk,keep
 204,LV,213,corporate/desk,keep
 209,Legal and General,212,corporate/desk,keep
-172,Home Office,209,corporate/desk,keep
+172,Home Office,209,corporate/desk,remove
 88,Colt Technology Services,204,corporate/desk,keep
 298,SSE,204,corporate/desk,keep
 232,Ministry of Justice UK,203,corporate/desk,keep
@@ -155,7 +155,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 176,ISS Facility Services,199,corporate/desk,keep
 30,BAT,196,corporate/desk,keep
 45,Barchester Healthcare,196,corporate/desk,keep
-76,CarShop UK,195,corporate/desk,keep
+76,CarShop UK,195,corporate/desk,remove
 152,HC One,195,corporate/desk,keep
 397,WLT Group,195,corporate/desk,keep
 106,DWF,194,corporate/desk,keep
@@ -164,7 +164,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 410,YOOX NET A PORTER GROUP,185,corporate/desk,keep
 132,FirstPort,182,corporate/desk,keep
 378,University of Newcastle UK,178,education,remove
-203,LSE,177,corporate/desk,keep
+203,LSE,177,corporate/desk,remove
 340,The Open University,177,education,remove
 62,Boots Opticians,173,retail,remove
 225,McKinsey and Company,173,corporate/desk,keep
@@ -175,7 +175,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 121,ENGIE,170,corporate/desk,keep
 207,Leaders Romans Group,170,corporate/desk,keep
 83,Citizens Advice,169,corporate/desk,keep
-105,DPDgroup,169,corporate/desk,keep
+105,DPDgroup,169,corporate/desk,remove
 42,Bain and Company,168,corporate/desk,keep
 281,RSM,167,corporate/desk,keep
 120,EBRD,164,corporate/desk,keep
@@ -186,7 +186,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 265,Oxford University Press,155,education,remove
 227,Mercer,154,corporate/desk,keep
 134,Four Seasons Health Care,147,corporate/desk,keep
-147,Grosvenor Casinos,147,corporate/desk,keep
+147,Grosvenor Casinos,147,corporate/desk,remove
 220,Manpower,145,corporate/desk,keep
 38,BPP Holdings,144,corporate/desk,keep
 95,Creative Support,144,corporate/desk,keep
@@ -222,7 +222,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 415,the LEGO Group,111,corporate/desk,keep
 154,HM Prison Service,110,corporate/desk,keep
 136,Freshfields Bruckhaus Deringer,109,corporate/desk,keep
-215,London Underground,109,corporate/desk,keep
+215,London Underground,109,corporate/desk,remove
 145,Grant Thornton,107,corporate/desk,keep
 344,The White Company,106,corporate/desk,keep
 51,Barts Health NHS Trust,105,corporate/desk,keep
@@ -235,7 +235,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 241,NHS Professionals,102,corporate/desk,keep
 287,Reassured,102,corporate/desk,keep
 73,Cambridge Assessment,101,corporate/desk,keep
-129,FARFETCH,100,corporate/desk,keep
+129,FARFETCH,100,corporate/desk,remove
 25,Arnold Clark,99,corporate/desk,keep
 337,The Ivy Collection,99,corporate/desk,keep
 358,United Utilities,99,corporate/desk,keep
@@ -261,7 +261,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 158,Hampshire County Council,80,corporate/desk,keep
 385,University of York,80,education,remove
 148,Guardian News and Media,79,corporate/desk,keep
-323,Surrey County Council,78,corporate/desk,keep
+323,Surrey County Council,78,corporate/desk,remove
 80,Christie s,77,corporate/desk,keep
 233,Missguided,77,retail,remove
 268,Penguin Random House,77,corporate/desk,keep
@@ -271,7 +271,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 336,The Department for Education UK,76,corporate/desk,keep
 127,Eversheds Sutherland,75,corporate/desk,keep
 310,Skipton Building Society,74,corporate/desk,keep
-392,Vets4Pets,74,corporate/desk,keep
+392,Vets4Pets,74,corporate/desk,remove
 138,GTR Govia Thameslink Railway,72,corporate/desk,keep
 317,Spire Healthcare,72,corporate/desk,keep
 64,Brewin Dolphin,71,corporate/desk,keep
@@ -280,7 +280,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 192,Jurys Inns,69,hospitality,remove
 217,Macdonald Hotels and Resorts,68,hospitality,remove
 343,The Salvation Army,68,corporate/desk,keep
-72,CVS Group,67,corporate/desk,keep
+72,CVS Group,67,corporate/desk,remove
 93,Covea Insurance,65,corporate/desk,keep
 155,HM Treasury,64,corporate/desk,keep
 195,Kent County Council,63,corporate/desk,keep
@@ -292,7 +292,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 213,LinkedIn,61,corporate/desk,keep
 322,Student Loans Company,61,corporate/desk,keep
 18,Angard Staffing,60,corporate/desk,keep
-413,mydentist UK,60,corporate/desk,keep
+413,mydentist UK,60,corporate/desk,remove
 84,CityFibre,59,corporate/desk,keep
 371,University of Huddersfield,57,education,remove
 285,Rapport London,56,corporate/desk,keep
@@ -333,7 +333,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 150,Gymbox,39,retail,remove
 252,Novotel Hotels,39,hospitality,remove
 164,Health Education England,38,corporate/desk,keep
-250,North Yorkshire County Council,38,corporate/desk,keep
+250,North Yorkshire County Council,38,corporate/desk,remove
 68,Bullhorn,37,corporate/desk,keep
 365,University of Bradford,37,education,remove
 49,Barnett Waddingham,36,corporate/desk,keep
@@ -353,7 +353,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 338,The London Clinic,32,corporate/desk,keep
 20,Anglo American,31,corporate/desk,keep
 391,Vets Now,30,corporate/desk,keep
-412,ibis,30,corporate/desk,keep
+412,ibis,30,corporate/desk,remove
 0,AFH Wealth Management,29,corporate/desk,keep
 112,Department of Health UK,29,corporate/desk,keep
 118,Durham County Council,29,corporate/desk,keep
@@ -362,10 +362,10 @@ Unnamed: 0,firm,Count,industry,suggestion
 254,Odgers Berndtson,26,corporate/desk,keep
 389,Valuation Office Agency,26,corporate/desk,keep
 87,Colosseum Dental,25,corporate/desk,keep
-123,East Sussex County Council,25,corporate/desk,keep
+123,East Sussex County Council,25,corporate/desk,remove
 362,University Hospitals of Leicester,25,education,remove
-313,Somerset County Council,24,corporate/desk,keep
-349,Tower Hamlets Council,24,corporate/desk,keep
+313,Somerset County Council,24,corporate/desk,remove
+349,Tower Hamlets Council,24,corporate/desk,remove
 347,Time Etc,23,corporate/desk,keep
 238,MyCSP,21,corporate/desk,keep
 124,Egon Zehnder,20,corporate/desk,keep
@@ -373,7 +373,7 @@ Unnamed: 0,firm,Count,industry,suggestion
 48,Barnet and Chase Farm Hospitals NHS Trust,19,corporate/desk,keep
 102,DFID,19,corporate/desk,keep
 153,HM Courts and Tribunals Service,19,corporate/desk,keep
-249,Newcastle Upon Tyne Hospitals NHS,18,corporate/desk,keep
+249,Newcastle Upon Tyne Hospitals NHS,18,corporate/desk,remove
 11,ActionCOACH,16,corporate/desk,keep
 353,UK Atomic Energy Authority,16,corporate/desk,keep
 34,BIS,15,corporate/desk,keep
@@ -388,12 +388,12 @@ Unnamed: 0,firm,Count,industry,suggestion
 335,The Coal Authority,11,corporate/desk,keep
 193,KKR,10,corporate/desk,keep
 295,Rural Payments Agency,10,corporate/desk,keep
-399,Wakefield Council,9,corporate/desk,keep
+399,Wakefield Council,9,corporate/desk,remove
 107,Dalata Hotel Group,6,hospitality,remove
 210,Leonardo Hotels,6,hospitality,remove
 279,Queen s University Belfast,6,education,remove
 307,Scottish Widows,6,corporate/desk,keep
-334,The Church of Jesus Christ of Latter day Saints,6,corporate/desk,keep
+334,The Church of Jesus Christ of Latter day Saints,6,corporate/desk,remove
 267,Penderels Trust,5,corporate/desk,keep
 339,The National Gallery,5,corporate/desk,keep
 370,University of Glasgow,5,education,remove
