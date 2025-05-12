@@ -21,8 +21,8 @@ import pathlib
 # Hyperparameters
 GLOBAL_MEAN = 3.0  # μ – neutral sentiment
 ALPHA = 5          # ⭐ Shrinkage strength for low-mention cases
-CSV_PATH = "Extra_filtered_company_aspect_matrix.csv"
-OUT_DIR = pathlib.Path("model_artifacts_filtered")  # Save separately
+CSV_PATH = "Final_imputed_company_aspect_matrix_with_counts.csv"
+OUT_DIR = pathlib.Path("model_artifacts_final")  # Save separately
 OUT_DIR.mkdir(exist_ok=True)
 
 # Load the filtered table
