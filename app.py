@@ -99,7 +99,7 @@ df_summaries = pd.read_csv(summary_path)
 
 # --- Get top 3 firms and display summaries
 top_3_firms = df_out["firm"].head(3).tolist()
-top_3_summaries = df_summaries[df_summaries["firm"].isin(top_3_firms)]
+top_3_summaries = (df_summaries.set_index("firm").loc[top_3_firms].reset_index())
 
 st.markdown("### 📝 Summaries of Top 3 Companies")
 
