@@ -18,7 +18,7 @@ import joblib
 import pathlib
 
 # Load matrix artifacts
-ART = pathlib.Path("model_artifacts_final")
+ART = pathlib.Path("model_artifacts_final_filtered")
 V = np.load(ART / "company_matrix.npy")          # (firms, K aspects)
 firms = joblib.load(ART / "firms.joblib")        # array of firm names
 aspects = joblib.load(ART / "aspects.joblib")    # list of aspects
