@@ -1,12 +1,10 @@
 """
-Cinder demo (no Streamlit cache)
-
+Cinder:
 Vectorised recommender that matches a candidate’s ranked aspect
 preferences to firms, using the pre-compressed matrix from
 build_company_matrix.py.
 
-Scoring rationale
------------------
+Scoring rationale:
 score(firm) = w · v_firm
     w      = normalised weights from the user  (sum = 1)
     v_firm = shrunk-rating vector of length K aspects
@@ -17,17 +15,17 @@ import pandas as pd
 import joblib
 import pathlib
 
-# Load matrix artifacts
+#load matrix artifacts
 ART = pathlib.Path("model_artifacts_final_filtered")
 V = np.load(ART / "company_matrix.npy")          # (firms, K aspects)
 firms = joblib.load(ART / "firms.joblib")        # array of firm names
 aspects = joblib.load(ART / "aspects.joblib")    # list of aspects
 K = len(aspects)
 
-# Streamlit page config
+#streamlit page config
 st.set_page_config(page_title="Cinder (Filtered) | Company Matcher", page_icon="🔥", layout="wide")
 
-# CSS styling
+#CSS styling
 st.markdown("""
 <style>
 h1 { color:#ff6b00; margin-top:0; margin-bottom:0.2rem;}
@@ -39,7 +37,7 @@ div[data-testid="stDataFrame"] > div:first-child {
 st.markdown("<h1>🔥 Cinder – Company Matcher</h1>", unsafe_allow_html=True)
 st.write("Pick up to five aspects and rank them to discover companies that match your vibe!")
 
-# --- Aspect selector
+#aspect selector
 sel_cols = st.columns(5, gap="small")
 choices = []
 for r, col in enumerate(sel_cols, 1):
@@ -48,7 +46,7 @@ for r, col in enumerate(sel_cols, 1):
         if sel:
             choices.append(sel)
 
-# --- Validation
+#validation
 if len(choices) != len(set(choices)):
     st.error("Duplicate aspects selected – please pick each once.")
     st.stop()
@@ -57,7 +55,7 @@ if not choices:
 
 st.markdown("---")
 
-# --- Compute scores
+#compute scores
 w = np.zeros(K, dtype=np.float32)
 for idx, asp in enumerate(choices[::-1]):   # top rank → highest weight
     w[aspects.index(asp)] = idx + 1
@@ -79,7 +77,7 @@ for pos, idx in enumerate(top_idx, 1):
 df_out = pd.DataFrame(rows).reset_index(drop=True).set_index("#")
 fmt = {"score": "{:.3f}", **{a: "{:.2f}" for a in choices}}
 
-# --- Display top 10 matching companies
+#display top 10 matching companies
 st.markdown("### Best-matching companies")
 st.dataframe(df_out.style
              .format(fmt)
@@ -87,17 +85,17 @@ st.dataframe(df_out.style
              .background_gradient(cmap="Blues", subset=choices),
              use_container_width=True, height=420)
 
-# --- Download results
+#download results
 st.download_button("⬇️ Download results as CSV",
                    data=df_out.to_csv().encode(),
                    file_name="cinder_top10_filtered.csv",
                    mime="text/csv")
 
-# --- Load company summaries (from structured BART summarization)
+#load company summaries
 summary_path = "company_merged_summaries.csv"
 df_summaries = pd.read_csv(summary_path)
 
-# --- Get top 3 firms and display summaries
+#get top 3 firms and display summaries
 top_3_firms = df_out["firm"].head(3).tolist()
 top_3_summaries = (df_summaries.set_index("firm").loc[top_3_firms].reset_index())
 
@@ -113,5 +111,3 @@ for _, row in top_3_summaries.iterrows():
     st.markdown(f"- **Summary:** {row['cons_summary']}")
 
     st.markdown("---")
-
-
