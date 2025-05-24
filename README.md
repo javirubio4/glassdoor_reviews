@@ -6,7 +6,7 @@
 
 Cinder is an NLP-powered company matching system built on employee reviews from Glassdoor. It enables candidates to discover companies that align with their workplace priorities—such as pay, work-life balance, culture, and growth.
 
-The project leverages aspect-based sentiment analysis, Bayesian shrinkage, and a scoring-based matching engine to build a personalized recommendation system. Results are visualized and deployed through an interactive Streamlit app. Summarized reviews are shown using Google's Gemini 2.0 Flash.
+The project leverages aspect-based sentiment analysis, Bayesian shrinkage, review summarization using Google Gemini 2.0 Flash, and a scoring-based matching engine to build a personalized recommendation system. Results are visualized and deployed through an interactive Streamlit app.
 
 ---
 
