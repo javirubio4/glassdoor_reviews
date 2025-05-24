@@ -17,7 +17,7 @@ import pathlib
 
 # Hyperparameters
 GLOBAL_MEAN = 3.0  # μ – neutral sentiment
-ALPHA = 5          # ⭐ Shrinkage strength for low-mention cases
+ALPHA = 5          # Shrinkage strength for low-mention cases
 CSV_PATH = "Final_filtered_imputed_company_aspect_matrix_with_counts.csv"
 OUT_DIR = pathlib.Path("model_artifacts_final_filtered")  # Save separately
 OUT_DIR.mkdir(exist_ok=True)
@@ -58,4 +58,4 @@ np.save(OUT_DIR / "company_matrix.npy", V)
 joblib.dump(firms, OUT_DIR / "firms.joblib")
 joblib.dump(aspects, OUT_DIR / "aspects.joblib")
 
-print(f"✅ Saved filtered matrix {V.shape} and metadata to {OUT_DIR.resolve()}")
+print(f"Saved filtered matrix {V.shape} and metadata to {OUT_DIR.resolve()}")
