@@ -15,6 +15,7 @@ import pandas as pd
 import joblib
 import pathlib
 
+
 #load matrix artifacts
 ART = pathlib.Path("model_artifacts_final_filtered")
 V = np.load(ART / "company_matrix.npy")          # (firms, K aspects)
@@ -23,18 +24,34 @@ aspects = joblib.load(ART / "aspects.joblib")    # list of aspects
 K = len(aspects)
 
 #streamlit page config
-st.set_page_config(page_title="Cinder (Filtered) | Company Matcher", page_icon="🔥", layout="wide")
+st.set_page_config(
+    page_title="Cinder (Filtered) | Company Matcher",
+    page_icon="https://i.imgur.com/Jnp0v9A.png",
+    layout="wide"
+)
 
-#CSS styling
+
+st.markdown("""
+<div style="display: flex; align-items: center; gap: 1rem;">
+    <img src="https://i.imgur.com/fAHhYvv.png" width="130"/>
+    <h1 style="color:#3e9bea; margin: 0;"> – Company Matcher</h1>
+</div>
+""", unsafe_allow_html=True)
+
 st.markdown("""
 <style>
-h1 { color:#ff6b00; margin-top:0; margin-bottom:0.2rem;}
+h1 {
+    color: #3e9bea;
+    margin-top: 0;
+    margin-bottom: 0.2rem;
+}
 div[data-testid="stDataFrame"] > div:first-child {
-    border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.08);}
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<h1>🔥 Cinder – Company Matcher</h1>", unsafe_allow_html=True)
 st.write("Pick up to five aspects and rank them to discover companies that match your vibe!")
 
 #aspect selector
@@ -109,5 +126,6 @@ for _, row in top_3_summaries.iterrows():
 
     st.markdown("**⚠️ Cons**")
     st.markdown(f"- **Summary:** {row['cons_summary']}")
+    
 
     st.markdown("---")
