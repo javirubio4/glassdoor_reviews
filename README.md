@@ -15,7 +15,7 @@ The project leverages aspect-based sentiment analysis, Bayesian shrinkage, revie
 | File / Folder                                   | Description                                                                                       |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | `EDA.ipynb`                                     | Performs initial exploratory analysis on the raw Glassdoor review dataset before aspect detection. It explores data distribution, review counts, and prepares the dataset for downstream tasks.                                            |
-| `cleaning and pyabsa.ipynb`                     | Handles text preprocessing and applies aspect-based sentiment analysis using PyABSA to extract sentiment scores for 13 workplace aspects.|
+| `cleaning and pyabsa.ipynb`                     | Handles text preprocessing and applies aspect-based sentiment analysis using PyABSA to extract sentiment scores for 17 workplace aspects.|
 | `eda_company_aspects.ipynb`                     | Conducts firm-level analysis using the aspect score matrix. Visualizes patterns across companies, including clustering by aspect sentiment profiles.|
 | `summarization_models.ipynb`                    | Extracts and processes “pros” and “cons” summaries from reviews for each firm using Google's Gemini 2.0 Flash, providing qualitative insights to accompany the numerical scores.|
 | `build_company_matrix.py`                       | Creates shrunk aspect-rating matrix using Bayesian smoothing for use in the matching engine.                                  |
@@ -47,7 +47,7 @@ Open in Jupyter Notebook or VS Code (with the Jupyter extension):
 ## Outputs & Results
 
 - Aspect-Based Sentiment Extraction using PyABSA
+- 3D Clustering Analysis to reveal aspect patterns
 - Bayesian Shrinkage to stabilize estimates for firms with fewer reviews
-- Interactive Cinder app to personalize company matches
 - Qualitative context through pros and cons summaries via Gemini
-- 3D Clustering Analysis to reveal firm archetypes based on culture, growth, and people
+- Interactive Cinder app to personalize company matches
