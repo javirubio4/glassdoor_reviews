@@ -14,6 +14,7 @@ The project leverages aspect-based sentiment analysis, Bayesian shrinkage, revie
 
 | File / Folder                                   | Description                                                                                       |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| `glassdoor_reviews.csv`                         | Raw, unfiltered dataset containing all Glassdoor employee reviews.                                          |
 | `EDA.ipynb`                                     | Performs initial exploratory analysis on the raw Glassdoor review dataset before aspect detection. It explores data distribution, review counts, and prepares the dataset for downstream tasks.                                            |
 | `cleaning and pyabsa.ipynb`                     | Handles text preprocessing and applies aspect-based sentiment analysis using PyABSA to extract sentiment scores for 17 workplace aspects.|
 | `eda_company_aspects.ipynb`                     | Conducts firm-level analysis using the aspect score matrix. Visualizes patterns across companies, including clustering by aspect sentiment profiles.|
